@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>Blue Lightning AI Daily</title>
+    <link>https://yourdomain.com/podcast</link>
+    <language>en-us</language>
+    <copyright>© 2025 Blue Lightning</copyright>
+    <lastBuildDate>Tue, 02 Sep 2025 18:28:17 GMT</lastBuildDate>
+    <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
+     <itunes:category text="Business">
+       <itunes:category text="Entrepreneurship"/>
+     </itunes:category>
+     <itunes:category text="Technology">
+       <itunes:category text="Tech News"/>
+     </itunes:category>
+    <generator>RSS Builder</generator>
+    <description>
+      Blue Lightning AI Daily is your go-to AI podcast for creators, delivering fast, focused updates on the world of generative AI. We cover the latest breakthroughs in large language models (LLMs), AI video editing, AI photography, AI audio tools, and creative automation. Each episode gives digital creators, content marketers, and creative professionals clear insights into how AI is transforming storytelling, production, and the creator economy. Stay informed, stay creative, and stay ahead with daily AI news made simple.
+    </description>
+
+    <!-- iTunes / Apple Podcasts tags -->
+    <itunes:author>Blue Lightning</itunes:author>
+    <itunes:summary>
+      Blue Lightning AI Daily is your go-to AI podcast for creators, delivering fast, focused updates on the world of generative AI. 
+      We cover the latest breakthroughs in LLMs, AI video, AI audio, and creative tools.
+    </itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/blue-lighting-cover.jpg"/>
+    <itunes:owner>
+      <itunes:name>Blue Lightning</itunes:name>
+      <itunes:email>ted@coey.com</itunes:email>
+    </itunes:owner>
+
+    <!-- Atom self-link (recommended for apps like Apple Podcasts / Overcast) -->
+    <atom:link href="https://raw.githubusercontent.com/ted-coey/bluelightingpodcast/main/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- Episodes will be inserted here as <item> blocks -->
+
+  <item>
+    <title>Nano Banana: The Meme-Powered Image Revolution</title>
+    <description><![CDATA[Discover why creators are obsessed with “Nano Banana”—Google’s new high-consistency image tool in Gemini. Learn how stable likeness, fast multi-step edits, and watermark safeguards are changing workflows for artists, marketers, and everyday users. We break down costs, real-world uses, and pro tips for perfect prompts, plus why this fun meme-model is winning fans across the AI art community.]]></description>
+    <pubDate>Sun, 31 Aug 2025 19:38:18 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/nano_banana_revolution.mp3" length="3761760" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1756669098912</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Podcast+Image+-+nano_banana_revolution.jpg"/>
+  </item>
+
+  <item>
+    <title>Grok Code Fast 1: Blazing Agent Loops, Zero Lag</title>
+    <description><![CDATA[We break down xAI’s Grok Code Fast 1, a lightning-speed coding model made for agents that build, test, and fix in sub-seconds. From creators to dev teams, learn how this low-latency engine transforms workflows, slashes context-switching, and enables affordable micro-automation. Find out where to try it now, tips for better results, and why speed matters for creative pros.]]></description>
+    <pubDate>Mon, 01 Sep 2025 15:49:19 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/grok_code_fast_1_zero_lag.mp3" length="3825504" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1756741759524</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Podcast+Image+-+grok_code_fast_1_zero_lag.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Vids Superpowers: AI B-Roll, Avatars, and Speed</title>
+    <description><![CDATA[Google Vids just leveled up! We break down the new AI features: fast image-to-video b-roll, on-brand AI presenters, and transcript magic, all inside Google Workspace. Dive into how creators, marketers, and teams can storyboard, auto-edit, and publish videos quicker—no pro skills required. Hear workflow shortcuts, big-picture impacts, and why Google is pushing video-first collaboration. Get ready to power up your content game!]]></description>
+    <pubDate>Tue, 02 Sep 2025 18:28:17 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/google_vids_ai_boost.mp3" length="3573000" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1756837697227</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Podcast+Image+-+google_vids_ai_boost.jpg"/>
+  </item>
+</channel>
+</rss>
