@@ -8,7 +8,7 @@
     <link>https://coey.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 COEY</copyright>
-    <lastBuildDate>Tue, 02 Sep 2025 18:28:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 22:41:52 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -39,5 +39,14 @@
 
     <!-- Episodes will be inserted here as <item> blocks -->
 
+
+  <item>
+    <title>Databricks Assistant Grows Up: Workflows, Hacks, and Recipies</title>
+    <description><![CDATA[We break down the Agentic glow-up of Databricks Assistant—now a real workflow operator for marketers, creators, and data nerds alike! Learn fresh automation hacks, API workarounds, and three creator playbooks to ditch dashboard drudgery and boost creative output. Plus, COEY Cast’s spiciest takes on Agent Bricks, data security, and seamless AI-human teamwork. Made with Microsoft VibeVoice 7b!]]></description>
+    <pubDate>Fri, 05 Sep 2025 22:41:52 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/databricks_assistant_glowup.mp3" length="4816896" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1757112112370</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Podcast+Image+-+databricks_assistant_glowup.jpg"/>
+  </item>
 </channel>
 </rss>
