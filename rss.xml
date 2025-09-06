@@ -39,23 +39,5 @@
 
     <!-- Episodes will be inserted here as <item> blocks -->
 
-
-  <item>
-    <title>Databricks Assistant Grows Up: Workflows, Hacks, and Recipies</title>
-    <description><![CDATA[We break down the Agentic glow-up of Databricks Assistant—now a real workflow operator for marketers, creators, and data nerds alike! Learn fresh automation hacks, API workarounds, and three creator playbooks to ditch dashboard drudgery and boost creative output. Plus, COEY Cast’s spiciest takes on Agent Bricks, data security, and seamless AI-human teamwork. Made with Microsoft VibeVoice 7b!]]></description>
-    <pubDate>Fri, 05 Sep 2025 22:41:52 GMT</pubDate>
-    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/databricks_assistant_glowup.mp3" length="4816896" type="audio/mpeg" />
-    <guid isPermaLink="false">bl-1757112112370</guid>
-    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Podcast+Image+-+databricks_assistant_glowup.jpg"/>
-  </item>
-
-  <item>
-    <title>Qwen3-Max-Preview: Orchestrate, Don’t Babysit!</title>
-    <description><![CDATA[In this live 'lab edition' of Coey Cast, Hunter and Riley run Alibaba’s new Qwen3‑Max‑Preview through its creative paces. With over one trillion parameters, this Instruct model promises epic leaps in instruction following, agentic workflows, and multi-step content automation. Discover how Qwen3‑Max could turn your 'brief once, create many' dreams into reality—no more endless rephrasing or babysitting your AI! We break down what’s new for marketers, creators, agencies, and brands (think: campaign plans, social assets, and even podcast prep, all in a single workflow chain). Is it time to ditch your duct tape tools and embrace an AI ‘orchestrator’? Hear success stories, pro tips, early caution flags, and spicy meme-worthy moments. Whether you’re a solo TikToker, agency, or enterprise, you’ll walk away knowing if Qwen3‑Max‑Preview is ready to step up for your content stack.]]></description>
-    <pubDate>Sat, 06 Sep 2025 21:23:55 GMT</pubDate>
-    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250906171459407+-+qwen3_max_orchestrator.mp3" length="3681840" type="audio/mpeg" />
-    <guid isPermaLink="false">bl-1757193835263</guid>
-    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250906171459407+-+qwen3_max_orchestrator.jpg"/>
-  </item>
 </channel>
 </rss>
