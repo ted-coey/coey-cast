@@ -5,39 +5,44 @@
 
   <channel>
     <title>COEY Cast</title>
-    <link>https://coey.com/podcast</link>
+    <link>https://coey.com//resources/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 COEY</copyright>
     <lastBuildDate>Sat, 06 Sep 2025 21:23:55 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
-     <itunes:category text="Business">
-       <itunes:category text="Entrepreneurship"/>
-     </itunes:category>
-     <itunes:category text="Technology">
-       <itunes:category text="Tech News"/>
-     </itunes:category>
+
+    <!-- Categories -->
+    <itunes:category text="Business">
+      <itunes:category text="Entrepreneurship"/>
+    </itunes:category>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+
     <generator>RSS Builder</generator>
+
+    <!-- Show description -->
     <description>
-      Blue Lightning AI Daily is your go-to AI podcast for creators, delivering fast, focused updates on the world of generative AI. We cover the latest breakthroughs in large language models (LLMs), AI video editing, AI photography, AI audio tools, and creative automation. Each episode gives digital creators, content marketers, and creative professionals clear insights into how AI is transforming storytelling, production, and the creator economy. Stay informed, stay creative, and stay ahead with daily AI news made simple.
+      COEY Cast is your daily download on AI and automation. We break down the latest in generative models, intelligent workflows, and emerging tools—giving marketers, operators, and business leaders the insights they need to move faster and scale smarter. From AI video and audio to end-to-end automation pipelines, each episode turns complex breakthroughs into clear, actionable takeaways you can actually use.
     </description>
 
     <!-- iTunes / Apple Podcasts tags -->
-    <itunes:author>Blue Lightning</itunes:author>
+    <itunes:author>COEY</itunes:author>
     <itunes:summary>
-      Blue Lightning AI Daily is your go-to AI podcast for creators, delivering fast, focused updates on the world of generative AI. 
-      We cover the latest breakthroughs in LLMs, AI video, AI audio, and creative tools.
+      COEY Cast delivers fast, focused updates on AI, marketing, and media. 
+      We cover the tools, trends, and shifts shaping the creator economy—so you can stay ahead. 
     </itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/blue-lighting-cover.jpg"/>
+    <itunes:image href="https://coey.com/assets/podcast/coey-cast-cover.jpg"/>
     <itunes:owner>
-      <itunes:name>Blue Lightning</itunes:name>
+      <itunes:name>COEY</itunes:name>
       <itunes:email>ted@coey.com</itunes:email>
     </itunes:owner>
 
-    <!-- Atom self-link (recommended for apps like Apple Podcasts / Overcast) -->
-    <atom:link href="https://raw.githubusercontent.com/ted-coey/bluelightingpodcast/main/rss.xml" rel="self" type="application/rss+xml"/>
+    <!-- Atom self-link -->
+    <atom:link href="https://coey.com/podcast/rss.xml" rel="self" type="application/rss+xml"/>
 
     <!-- Episodes will be inserted here as <item> blocks -->
 
-</channel>
+  </channel>
 </rss>
