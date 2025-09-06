@@ -43,20 +43,6 @@
 
     <!-- Episodes will be inserted here as <item> blocks -->
 
-  
-  <item>
-    <title>Qwen3‑Max‑Preview: The Conductor of Content Creation</title>
-    <description><![CDATA[Get ready for a front-row seat at the future of creative automation! In this episode of Coey Cast, Hunter and Riley go hands-on with Alibaba’s latest AI reveal: Qwen3‑Max‑Preview, an instruction-following giant sporting over one trillion parameters. Find out how this machine “conductor” changes the game for solo creators, agencies, and enterprise teams by reliably following directions, orchestrating multi-step workflows, and cutting down on repetitive prompt tweaking. 
-
-What’s new? Long, stable conversations, sharper memory, dependable agentic planning, and smoother handoffs for everything from campaign briefs to video scripts and asset metadata. The hosts share tactical playbooks for podcasters, social teams, and solo YouTubers—plus power moves for stacking the model into your automation pipeline. 
-
-Tune in for spicy memes, honest tradeoffs, and rapid-fire tips for piloting AI co-creators. From brand voice cards to QA passes and fallback plans, it’s the secret sauce for anyone who wants less duct tape and more creative flow. Don’t miss this deep-dive into an AI model that might actually “get” you.]]></description>
-    <pubDate>Sat, 06 Sep 2025 21:45:18 GMT</pubDate>
-    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250906171459407+-+qwen3_max_preview.mp3" length="3681840" type="audio/mpeg" />
-    <guid isPermaLink="false">bl-1757195118988</guid>
-    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250906171459407+-+qwen3_max_preview.jpg"/>
-  </item>
-
   <item>
     <title>Qwen3-Max-Preview: Scaling to a Trillion &amp; Beyond</title>
     <description><![CDATA[This week, we put Alibaba’s Qwen3-Max-Preview to the test—a trillion-parameter upgrade promising smoother instruction following, longer conversational threads, and genuine tool-calling power for creators and teams. We discuss what “scaling works” actually means for daily workflows: less prompt wrangling, better agents for chaining tasks, and practical examples like video content pipelines and brand campaigns. We break down the differences from previous Qwen3 models, compare real-world pros and cons, and share best practices for validation, safety, and using multi-step automations. By the end, you’ll know how Qwen3-Max-Preview can streamline content ops and whether it’s worth plugging into your stack, solo or at scale.]]></description>
