@@ -32,14 +32,14 @@
       COEY Cast is your daily download on AI and automation. We break down the latest in generative models, intelligent workflows, and emerging tools—giving marketers, operators, and business leaders the insights they need to move faster and scale smarter. From AI video and audio to end-to-end automation pipelines, each episode turns complex breakthroughs into clear, actionable takeaways you can actually use.
     </itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://coey.com/assets/podcast/coey-cast-cover.jpg"/>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/brand-assets/coey-cast-logo.jpg"/>
     <itunes:owner>
       <itunes:name>COEY</itunes:name>
       <itunes:email>ted@coey.com</itunes:email>
     </itunes:owner>
 
     <!-- Atom self-link -->
-    <atom:link href="https://coey.com/podcast/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://raw.githubusercontent.com/ted-coey/coey-cast/main/rss.xml" rel="self" type="application/rss+xml"/>
 
     <!-- Episodes will be inserted here as <item> blocks -->
 
