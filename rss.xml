@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 COEY</copyright>
-    <lastBuildDate>Sat, 06 Sep 2025 22:02:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 21:17:54 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -50,6 +50,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250906175146600+-+qwen3_max_scaling_vibes.mp3" length="4197360" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1757196141766</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250906175146600+-+qwen3_max_scaling_vibes.jpg"/>
+  </item>
+
+  <item>
+    <title>Seven Ways to Keep Your AI Video in Line: Vidu Q1 Update</title>
+    <description><![CDATA[This episode dives into the massive Reference-to-Video update for ShengShu Technology’s Vidu Q1 model, which now lets users upload up to seven reference images per sequence. Hunter and Riley unpack what this means for creators, brands, and indie studios striving for true shot-to-shot consistency in AI-generated video. They explore how multiple references help lock character identity, props, wardrobe, and backgrounds, reducing the notorious continuity drift. Expect a breakdown of workflow tips, common pitfalls, competitive comparisons with Runway and Luma, use cases from social content to ad pipelines, and where this tech sits in the growing stack for marketers and content teams. Don’t miss practical advice on setting up your own "reference kit".]]></description>
+    <pubDate>Mon, 08 Sep 2025 21:17:54 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250908170128634+-+vidu_q1_seven_refs.mp3" length="4689288" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1757366274333</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250908170128634+-+vidu_q1_seven_refs.jpg"/>
   </item>
 </channel>
 </rss>
