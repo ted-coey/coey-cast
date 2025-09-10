@@ -67,7 +67,7 @@
     <pubDate>Tue, 09 Sep 2025 23:04:39 GMT</pubDate>
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250909185413964+-+firefly_boards_model4.mp3" length="3478248" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1757459079525</guid>
-    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250909185413964+-+firefly_boards_model4.jpg"/>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/firefly.png"/>
   </item>
 
   <item>
@@ -76,7 +76,7 @@
     <pubDate>Wed, 10 Sep 2025 21:35:36 GMT</pubDate>
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250910171633569+-+envato_unlimited_sept.mp3" length="3758232" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1757540136233</guid>
-    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250910171633569+-+envato_unlimited_sept.jpg"/>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/envato-video-gen.png"/>
   </item>
 </channel>
 </rss>
