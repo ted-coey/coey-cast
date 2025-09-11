@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 10 Sep 2025 21:35:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 13:30:24 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -77,6 +77,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250910171633569+-+envato_unlimited_sept.mp3" length="3758232" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1757540136233</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/envato-video-gen.png"/>
+  </item>
+
+  <item>
+    <title>Unchunk the Funk: Exploring Nvidia Rubin CPX</title>
+    <description><![CDATA[This episode is a deep dive into Nvidia's Rubin CPX, the new AI chip designed to revolutionize long-form generative media. We explain how CPX combines lightning-fast media engines with massive context memory, putting an end to mid-project memory loss and timeline fragmentation. Discover the tech behind real-time dubbing that captures performance, code copilots that see your whole repository, and enterprise use cases for seamless translation and editing. We break down numbers, architecture, and the real impact for creators, marketers, and solo podcasters. Hear about upcoming workflows, cost economics, competition, and potential pitfalls. If you want to future-proof your creative pipeline and see how hardware is finally keeping up with creatives, this one’s for you.]]></description>
+    <pubDate>Thu, 11 Sep 2025 13:30:24 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250911091308249+-+unchunk_the_funk.mp3" length="3887232" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1757597424558</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250911091308249+-+unchunk_the_funk.jpg"/>
   </item>
 </channel>
 </rss>
