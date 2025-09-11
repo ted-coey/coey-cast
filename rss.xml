@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 11 Sep 2025 13:30:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 16:35:23 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -86,6 +86,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250911091308249+-+unchunk_the_funk.mp3" length="3887232" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1757597424558</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250911091308249+-+unchunk_the_funk.jpg"/>
+  </item>
+
+  <item>
+    <title>AI Highlights: Synamedia’s Stack Powers Smart Streaming</title>
+    <description><![CDATA[This episode breaks down Synamedia’s bold move at IBC 2025 as they launch a stacked AI layer for video pros—creators, broadcasters, and streamers. Riley and Hunter explore how conversational search brings instant highlight discovery, live tagging powers fast editing, and creative personalization delivers tailored promos for key segments. Learn how the new multi-CDN switching and ContentArmor watermarking tech make livestreams more reliable and secure. Plus, we dive into Synamedia’s open standards push, AI-powered quality tuning, and the blend of creative and operational gains. If you work with video at any scale, this episode covers why Synamedia’s AI stack might change your workflow—from auto-tagging goals to cutting bandwidth bills and getting content out faster.]]></description>
+    <pubDate>Thu, 11 Sep 2025 16:35:23 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250911121255830+-+synamedia_ai_stack.mp3" length="3332952" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1757608523178</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250911121255830+-+synamedia_ai_stack.jpg"/>
   </item>
 </channel>
 </rss>
