@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 11 Sep 2025 16:35:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 15:55:33 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -95,6 +95,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250911121255830+-+synamedia_ai_stack.mp3" length="3332952" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1757608523178</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250911121255830+-+synamedia_ai_stack.jpg"/>
+  </item>
+
+  <item>
+    <title>Agentic Marketing: Adobe’s AEP Agents Take the Wheel</title>
+    <description><![CDATA[In this episode, Hunter and Riley break down Adobe’s launch of AI-powered agents inside the Adobe Experience Platform (AEP), featuring the new Agent Orchestrator. Learn how six specialized agents—Audience, Journey, Experimentation, Data Insights, Site Optimization, and Product Support—work together to automate segmentation, journeys, testing, reporting, site updates, and customer support. Discover practical use cases, potential risks, and the impact for marketing ops and enterprise teams. The hosts discuss real workflow savings and why this shifts agentic marketing from hype to reality. Whether you’re a marketer in a large org or a solo creator curious about automation patterns, you’ll get actionable insights and ways to apply the blueprint to your own stack.]]></description>
+    <pubDate>Sat, 13 Sep 2025 15:55:33 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250913114339799+-+adobe_agent_orchestrator.mp3" length="3516600" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1757778933486</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250913114339799+-+adobe_agent_orchestrator.jpg"/>
   </item>
 </channel>
 </rss>
