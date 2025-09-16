@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 13 Sep 2025 15:55:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 18:59:32 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -104,6 +104,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250913114339799+-+adobe_agent_orchestrator.mp3" length="3516600" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1757778933486</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250913114339799+-+adobe_agent_orchestrator.jpg"/>
+  </item>
+
+  <item>
+    <title>Ollama on ARM: Local LLMs Go Pro, No Cloud Needed</title>
+    <description><![CDATA[This episode dives into Ollama’s latest update: true native support for Apple Silicon, Linux ARM, and Windows on ARM—plus automatic GPU acceleration. Hunter and Riley break down what this means for creators, marketers, and teams who want fast, private, and scalable local AI without the cloud headaches. Discover how to automate copywriting, captions, content moderation, product Q&A, and more with local LLMs that actually ship real projects. Get practical workflow tips for solo makers, agency teams, and brands—including how to wire up n8n for end-to-end automation. Learn where local AI now beats the cloud in speed, privacy, and cost, what hardware you’ll need, and what snags to expect on day one. Local workflow, global impact.]]></description>
+    <pubDate>Tue, 16 Sep 2025 18:59:32 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250916143942398+-+ollama_arm_llm_pro.mp3" length="3934560" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1758049172016</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250916143942398+-+ollama_arm_llm_pro.jpg"/>
   </item>
 </channel>
 </rss>
