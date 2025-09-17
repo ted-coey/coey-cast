@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 16 Sep 2025 18:59:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 18:46:24 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -113,6 +113,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250916143942398+-+ollama_arm_llm_pro.mp3" length="3934560" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1758049172016</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250916143942398+-+ollama_arm_llm_pro.jpg"/>
+  </item>
+
+  <item>
+    <title>Persona-Party: Meta AI Studio Slides Into DMs</title>
+    <description><![CDATA[This episode dives into Meta’s newly launched AI Studio, a no-code platform for spinning up custom AI characters directly in Instagram, Messenger, WhatsApp, and web. Learn how creators and brands can deploy persona-driven assistants in hours, gather audience insights, and streamline DM engagement—without developers. The hosts cover real-world use cases for solo creators, D2C brands, agencies, and enterprise teams, examining automation possibilities, integration limits, pricing, and competitive landscape. You’ll get quick tips for campaign ideation, lead qualification, and making the most of current API options like WhatsApp Cloud and Instagram Messaging flows. Plus, hear why this is a must-have for DM-heavy brands and what unlocks true orchestration whenever public APIs arrive. ]]></description>
+    <pubDate>Wed, 17 Sep 2025 18:46:24 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250917142834025+-+meta_ai_studio_dm.mp3" length="3990864" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1758134784320</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250917142834025+-+meta_ai_studio_dm.jpg"/>
   </item>
 </channel>
 </rss>
