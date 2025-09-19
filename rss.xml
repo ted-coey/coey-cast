@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 17 Sep 2025 18:46:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 20:01:56 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -122,6 +122,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250917142834025+-+meta_ai_studio_dm.mp3" length="3990864" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1758134784320</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250917142834025+-+meta_ai_studio_dm.jpg"/>
+  </item>
+
+  <item>
+    <title>Zoom AI Companion 3.0: Avatars, Notes &amp; 60FPS Oh My!</title>
+    <description><![CDATA[This episode crash-tests Zoom AI Companion 3.0, just announced at Zoomtopia. We dig into photorealistic avatars that mirror your every move, cross-platform automatic meeting notes that work in Zoom, Teams, and Google Meet, and agent-style scheduling that might finally end meeting exhaustion. We break down who benefits most—from solo creators who want flawless presence to marketing managers juggling endless calls. There’s a look at HD and 60FPS video upgrades, new automation potential, and bold pricing moves that challenge notetaker apps like Otter and Fireflies. Tune in for tips on integrating AI Companion into your workflow, honest caveats, security pointers, and skeptical optimism about the future of AI-powered meetings. Plus, plenty of memes about sending your avatar instead.]]></description>
+    <pubDate>Fri, 19 Sep 2025 20:01:56 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250919151209683+-+zoom_ai_companion_3.mp3" length="3698736" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1758312116753</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250919151209683+-+zoom_ai_companion_3.jpg"/>
   </item>
 </channel>
 </rss>
