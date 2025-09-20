@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 19 Sep 2025 20:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 17:44:47 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -131,6 +131,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250919151209683+-+zoom_ai_companion_3.mp3" length="3698736" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1758312116753</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250919151209683+-+zoom_ai_companion_3.jpg"/>
+  </item>
+
+  <item>
+    <title>Voxel Revolution: Hunyuan 3D 3.0 Unleashed</title>
+    <description><![CDATA[Dive into Hunyuan 3D 3.0 by Tencent, the latest leap in text or image-to-3D generation. Hosts Hunter and Riley dissect its features, including boosted accuracy, denser geometry, sharper edges, and the standout ability to reconstruct hidden parts of objects. Learn how new automation options with API access can overhaul your workflow for e-commerce, games, social content, and more. The episode explores practical use cases for creators and organizations, workflow integration tips, pricing, file compatibility, and the realities versus the hype. Plus, get a quick-start playbook to test it in your pipeline. Whether you craft digital assets for fun or run a 3D factory, this episode arms you with what’s new, what works, and where to watch out.]]></description>
+    <pubDate>Sat, 20 Sep 2025 17:44:47 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250920122738555+-+hunyuan_3d_voxel_cast.mp3" length="3990552" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1758390287405</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250920122738555+-+hunyuan_3d_voxel_cast.jpg"/>
   </item>
 </channel>
 </rss>
