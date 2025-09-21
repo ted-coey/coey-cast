@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 20 Sep 2025 17:44:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 19:52:09 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -140,6 +140,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250920122738555+-+hunyuan_3d_voxel_cast.mp3" length="3990552" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1758390287405</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250920122738555+-+hunyuan_3d_voxel_cast.jpg"/>
+  </item>
+
+  <item>
+    <title>Ray3 &amp; Firefly: AI Video Levels Up in Adobe’s Playground</title>
+    <description><![CDATA[Dive into Luma’s Ray3, now turbocharging Adobe Firefly with ten-second AI video generation, native HDR in ACES EXR, and scene-level planning. We break down what 'reasoning' for video means and why direct handoff into Creative Cloud is such a big deal for creators and marketers. From quick Draft Mode explorations to full quality cinematic moments, Ray3’s integration offers workflow magic: brand-safe templating, fixed color pipelines, and time-saving edits. We cover draft vs final workflows, competitive pressure for Runway and Pika, automation possibilities, limitations, and real-world applications for TikTokers, marketers, and small teams. Is this a toy or essential tool? We map out who should care and what comes next in the pipeline!]]></description>
+    <pubDate>Sun, 21 Sep 2025 19:52:09 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250921152924557+-+ray3_firefly_workflows.mp3" length="3246600" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1758484329712</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250921152924557+-+ray3_firefly_workflows.jpg"/>
   </item>
 </channel>
 </rss>
