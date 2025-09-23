@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 21 Sep 2025 19:52:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 00:43:53 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -149,6 +149,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250921152924557+-+ray3_firefly_workflows.mp3" length="3246600" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1758484329712</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250921152924557+-+ray3_firefly_workflows.jpg"/>
+  </item>
+
+  <item>
+    <title>Wardrobe Wizardry: Decart Lucy Edit Dev &amp; Pro Breakdown</title>
+    <description><![CDATA[Get a backstage pass to Decart’s latest release: Lucy Edit Dev, the open-weight, text-guided video editor you can actually download and run locally. Riley and Hunter break down how prompt-based video edits preserve your camera moves while swapping outfits, backgrounds, or brands—with no reshoots. We dig into real-world uses for creators, brands, and marketers, from programmatic wardrobe changes to instant localization and product placement, all while keeping creative control in your workflow. Plus, we explain the Dev vs Pro lane, commercial licensing, and how this AI leapfrogs closed competitors like Runway and Pika. Whether you’re solo or scaling, discover how Lucy Edit can transform editing from timeline-first to brief-first in your postproduction pipeline.]]></description>
+    <pubDate>Tue, 23 Sep 2025 00:43:53 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250922203038646+-+lucy_edit_wizardry.mp3" length="4074144" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1758588233826</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250922203038646+-+lucy_edit_wizardry.jpg"/>
   </item>
 </channel>
 </rss>
