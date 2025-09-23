@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 23 Sep 2025 00:43:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 14:37:14 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -158,6 +158,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250922203038646+-+lucy_edit_wizardry.mp3" length="4074144" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1758588233826</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250922203038646+-+lucy_edit_wizardry.jpg"/>
+  </item>
+
+  <item>
+    <title>Meet Qwen3-Omni: Your Real-Time Multimodal Sidekick</title>
+    <description><![CDATA[This episode puts Alibaba’s new Qwen3-Omni model under the microscope. We break down what makes it special: sub-second talkback, open weights, and the power to process and generate text, images, audio, and video—all in real time. Learn what the 'thinker–talker' architecture actually does, why self-hosting matters for control, and how Qwen3-Omni simplifies the whole stack for creators, brands, and developers. We cover hands-on scenarios: live captions for TikTokers, automated show notes for podcasters, multilingual review rooms for marketers, and more. Compare Qwen3-Omni to GPT-4o and Gemini, see how to wire it up with n8n or your own orchestrator, and get straight takes on voice quality, governance, rollout plans, and real-world risks. Automation just got a voice.]]></description>
+    <pubDate>Tue, 23 Sep 2025 14:37:14 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250923101208973+-+qwen3_omni_real_time.mp3" length="3719160" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1758638234154</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250923101208973+-+qwen3_omni_real_time.jpg"/>
   </item>
 </channel>
 </rss>
