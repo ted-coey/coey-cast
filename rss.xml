@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 23 Sep 2025 14:37:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 21:16:41 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -167,6 +167,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250923101208973+-+qwen3_omni_real_time.mp3" length="3719160" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1758638234154</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250923101208973+-+qwen3_omni_real_time.jpg"/>
+  </item>
+
+  <item>
+    <title>Kling 2.5 Turbo: From Wobbly to Wow!</title>
+    <description><![CDATA[This episode of COEY Cast explores the release of Kling 2.5 Turbo, the newest AI video generation model making waves for its major reliability upgrade. Hunter and Riley explain how smoother motion, better frame-to-frame coherence, and improved prompt matching make this version a step change for creators and teams. They detail how the model reduces “AI-wobbly” moments, accelerates production, and delivers more usable first drafts with fewer artifacts. You’ll learn how agencies, solo creators, and brands can automate workflows, integrate Kling 2.5 Turbo with platforms like Atlabs and ImagineArt, and speed up approvals. The hosts cover benchmark results, ecosystem trends, practical scenarios, and key caveats to help you decide if Kling 2.5 Turbo should power your next project.]]></description>
+    <pubDate>Thu, 25 Sep 2025 21:16:41 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250925153150813+-+kling_25_turbo_wow.mp3" length="4114272" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1758835001675</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250925153150813+-+kling_25_turbo_wow.jpg"/>
   </item>
 </channel>
 </rss>
