@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 25 Sep 2025 21:16:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 10:20:45 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -176,6 +176,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250925153150813+-+kling_25_turbo_wow.mp3" length="4114272" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1758835001675</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250925153150813+-+kling_25_turbo_wow.jpg"/>
+  </item>
+
+  <item>
+    <title>Sync or Swim: Alibaba Wan 2.5-Preview Puts Audio First</title>
+    <description><![CDATA[Today’s Coey Cast dives deep into Alibaba’s Wan 2.5-Preview, the all-in-one model that generates videos with audio perfectly synced—no glue code, no post-sync headaches. Hosts Hunter and Riley put it through its paces, exploring how this model handles text, image, video, and audio in a single pass. They break down the workflow for creators, marketers, and ops teams, show practical automations with n8n and Zapier, and spell out its current limits. Learn how region-specific endpoints, optional watermarks, and predictable handling of audio tracks can speed up your ad variants, product reels, and explainer clips. Whether you’re a solo creative or scaling brand, this episode spotlights why seamless audio-video generation is a game changer.]]></description>
+    <pubDate>Fri, 26 Sep 2025 10:20:45 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250926060423424+-+sync_or_swim_wan25.mp3" length="3714840" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1758882045742</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250926060423424+-+sync_or_swim_wan25.jpg"/>
   </item>
 </channel>
 </rss>
