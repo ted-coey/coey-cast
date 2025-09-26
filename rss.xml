@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 26 Sep 2025 10:20:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 19:39:05 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -185,6 +185,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250926060423424+-+sync_or_swim_wan25.mp3" length="3714840" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1758882045742</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250926060423424+-+sync_or_swim_wan25.jpg"/>
+  </item>
+
+  <item>
+    <title>Meta Vibes: Is AI Video Getting Viral Instantly?</title>
+    <description><![CDATA[Dive into Meta’s newest launch: Vibes, an AI-powered short video creation and remix feed built straight into the Meta AI app and web. We break down how Vibes collapses the workflow from idea to publish, making it easy to generate, remix, and distribute videos across Meta’s social channels. Learn who it’s for, how it compares to other platforms like TikTok, YouTube Shorts, and standalone AI editors, and what shifts for creators, brands, and marketers. We cover the competitive landscape, workflow improvements, and the risks of “AI slop.” Plus, get a hands-on playbook for rapid A/B testing, community remixing, and keeping your content fun and original. If fast feedback and integrated growth are your game, this episode is your playbook.]]></description>
+    <pubDate>Fri, 26 Sep 2025 19:39:05 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250926151259180+-+meta_vibes_ai_video.mp3" length="3718896" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1758915545406</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250926151259180+-+meta_vibes_ai_video.jpg"/>
   </item>
 </channel>
 </rss>
