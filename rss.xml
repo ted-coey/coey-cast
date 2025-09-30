@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 26 Sep 2025 19:39:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 19:56:27 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -194,6 +194,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250926151259180+-+meta_vibes_ai_video.mp3" length="3718896" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1758915545406</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250926151259180+-+meta_vibes_ai_video.jpg"/>
+  </item>
+
+  <item>
+    <title>Sora 2: From Model Theater to Vibe Engine</title>
+    <description><![CDATA[In this episode, Hunter and Riley demo and dissect Sora 2, OpenAI’s new standalone text-to-video app for creating swipable, ten-second vertical clips. They explore how Sora 2’s unified audio/visual generation streamlines workflow for creators, marketers, and founders, making it perfect for testing hooks, brand teasers, and product loops. The hosts break down what’s new, who benefits, where enterprise features fall short, and how Sora compares to Google Veo, Runway, and Pika. They highlight impacts on speed, cost, and creative flexibility and warn about rights, guardrails, and export limits. Tune in for actionable strategies and expert takes on using Sora 2 as a testbed for modern short-form content.]]></description>
+    <pubDate>Tue, 30 Sep 2025 19:56:27 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250930153649481+-+sora_2_vibe_engine.mp3" length="3952344" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1759262187604</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250930153649481+-+sora_2_vibe_engine.jpg"/>
   </item>
 </channel>
 </rss>
