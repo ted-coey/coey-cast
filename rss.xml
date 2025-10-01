@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 01 Oct 2025 16:43:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 19:57:54 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -212,6 +212,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251001112016245+-+deepseek_token_drop.mp3" length="2884656" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1759337015235</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251001112016245+-+deepseek_token_drop-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Sonnet 4.5: Automation Gets Its Groove Back</title>
+    <description><![CDATA[This episode is a deep dive into Anthropic's Claude Sonnet 4.5, focusing on its strengths as a long-running, tool-savvy AI agent for creators, marketers, and enterprise teams. We break down how Sonnet 4.5 automates everything from spreadsheet chores and bug fixes to content calendars and podcast workflows, while still leaving humans in control for publishing and approvals. Learn how distribution through AWS Bedrock and Google Cloud Vertex unlocks simple integration and enterprise-grade security. We cover the shift from flashy demos to reliable workflow execution, discuss crucial guardrails like permissions and auditability, and explain how small teams can reclaim hours every week. Plus: comparisons, use cases, and the latest on automation trends for content, code, and campaign management.]]></description>
+    <pubDate>Wed, 01 Oct 2025 19:57:54 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251001154136446+-+sonnet_45_auto_groove.mp3" length="3492288" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1759348674298</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251001154136446+-+sonnet_45_auto_groove-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
