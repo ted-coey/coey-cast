@@ -223,14 +223,5 @@
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251001154136446+-+sonnet_45_auto_groove-studio-crop.jpg"/>
   </item>
 
-
-  <item>
-    <title>Halve the Cost, Double the Vibes: DeepSeek&apos;s AI Shakeup</title>
-    <description><![CDATA[In this episode, Hunter and Riley take a hands-on dive into DeepSeek’s brand new AI model that claims to cut usage costs in half. They break down the technical magic—like smarter routing and sparse attention—that makes these savings possible and discuss the practical impact for creators, agencies, and content teams. The hosts outline when and where this matters most, how to benchmark it in your workflow, and which teams should be watching out for new pricing wars. Expect tactical ideas, honest cautions on regional access and compliance, and creative strategies to maximize cheap tokens. The show was 100% AI-produced using Microsoft VibeVoice 7B, staying true to their “weird in, weird out” ethos. Listen for fast insights and real talk.]]></description>
-    <pubDate>Thu, 02 Oct 2025 21:35:15 GMT</pubDate>
-    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251001112016245+-+deepseek_token_drop.mp3" length="2884656" type="audio/mpeg" />
-    <guid isPermaLink="false">bl-1759440915498</guid>
-    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251001112016245+-+deepseek_token_drop-studio-crop.jpg"/>
-  </item>
 </channel>
 </rss>
