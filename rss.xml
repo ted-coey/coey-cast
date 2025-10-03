@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 02 Oct 2025 21:35:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 01:58:53 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -223,5 +223,14 @@
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251001154136446+-+sonnet_45_auto_groove-studio-crop.jpg"/>
   </item>
 
+
+  <item>
+    <title>Open Outputs: HunyuanImage 3.0 Hits the Workflow</title>
+    <description><![CDATA[Tencent’s HunyuanImage 3.0 lands with open weights and inference code ready for creative operators—not just cloud providers. We dig into how unified text and image streams up your prompt game, boost scene coherence, and make enterprise-level automation a reality. Learn why campaign workhorses like agencies, studios, and brands might ditch pay-per-render for predictable, process-friendly setups. Discover practical tips on fine tuning, asset audit trails, and smooth integration with existing queues and DAMs. We cover real benchmarks and the hands-on developer know-how you’ll need to get started—all with a realistic look at licensing, VRAM, and typography quirks. Control, customization, and creative ops just leveled up.]]></description>
+    <pubDate>Fri, 03 Oct 2025 01:58:53 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251002214633314+-+hunyuanimage_3_power.mp3" length="3981744" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1759456733128</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251002214633314+-+hunyuanimage_3_power-studio-crop.jpg"/>
+  </item>
 </channel>
 </rss>
