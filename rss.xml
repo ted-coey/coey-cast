@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 03 Oct 2025 01:58:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 17:14:00 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -231,6 +231,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251002214633314+-+hunyuanimage_3_power.mp3" length="3981744" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1759456733128</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251002214633314+-+hunyuanimage_3_power-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Granite 4.0: The Compliance Brain That Ships</title>
+    <description><![CDATA[Granite 4.0 from IBM is purpose-built for work that matters. Hybrid-first design, lower GPU bills, and real enterprise controls make it a standout for teams buried in docs, briefs, and policies. Learn how its new sequence modeling powers long-form extraction, drafting, and workflow-ready batch jobs. From agency content factories to regulated industries, discover how Granite 4.0 lets you automate more without giving up audit trails or data control. Get concrete scenarios for brands, creators, and support teams who need batches done fast—and safely. Explore why hardware flexibility and deployment options matter for scaling co-creation.]]></description>
+    <pubDate>Fri, 03 Oct 2025 17:14:00 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251003125516264+-+granite_40_compliance_brain.mp3" length="4905984" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1759511640589</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251003125516264+-+granite_40_compliance_brain-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
