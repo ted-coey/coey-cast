@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Mon, 06 Oct 2025 20:13:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 21:43:36 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -242,5 +242,14 @@
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251003125516264+-+granite_40_compliance_brain-studio-crop.jpg"/>
   </item>
        
+
+  <item>
+    <title>Realtime APIs and Prompt Caching: AI That Talks Back</title>
+    <description><![CDATA[OpenAI just dropped a slate of pragmatic features for creators and marketers: Realtime API for sub-second voice experiences, vision fine-tuning for on-brand images and videos, prompt caching for faster, cheaper outputs, and distillation for nimble, customizable mini-models. From smooth product page concierges to auto QA for ads, this is about practical automation you can actually wire up now. Less hype, more shipping your workflow upgrades. We cover how these API-level features can boost control, slash costs, and plug straight into your existing stack—plus tips to avoid classic ops pitfalls.]]></description>
+    <pubDate>Mon, 06 Oct 2025 21:43:36 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251006165245013+-+realtime_prompt_caching.mp3" length="3484128" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1759787016594</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251006165245013+-+realtime_prompt_caching-studio-crop.jpg"/>
+  </item>
 </channel>
 </rss>
