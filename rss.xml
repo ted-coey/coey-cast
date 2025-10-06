@@ -241,14 +241,6 @@
     <guid isPermaLink="false">bl-1759511640589</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251003125516264+-+granite_40_compliance_brain-studio-crop.jpg"/>
   </item>
-
-  <item>
-    <title>Leaked: OpenAI Agent Builder or Zapier with a Brain?</title>
-    <description><![CDATA[OpenAI’s Agent Builder leak is stirring up content ops and workflow geeks everywhere. Visual canvas, logic blocks, guardrails, and human approvals blend into a drag-and-drop playground for building smart automations with context and governance. Forget hacky integrations. The new model speaks Model Context Protocol (MCP), teasing plug-and-play for CMS, CRM, and analytics tools. Will this streamline marketing pipelines and content batching or is it just a shiny demo? We break down what works now, what marketers and creators should watch for, why approvals and policy layers matter, and how Agent Builder stacks against Zapier and Make. Decisions, drama, and approval gates—let’s workflow.]]></description>
-    <pubDate>Mon, 06 Oct 2025 20:13:06 GMT</pubDate>
-    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251006155720601+-+openai_agent_builder_leak.mp3" length="3705528" type="audio/mpeg" />
-    <guid isPermaLink="false">bl-1759781586151</guid>
-    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251006155720601+-+openai_agent_builder_leak-studio-crop.jpg"/>
-  </item>
+       
 </channel>
 </rss>
