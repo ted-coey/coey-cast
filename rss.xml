@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Mon, 06 Oct 2025 21:43:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 00:12:41 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -250,6 +250,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251006165245013+-+realtime_prompt_caching.mp3" length="3484128" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1759787016594</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251006165245013+-+realtime_prompt_caching-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Moondream 3: Count It, Tag It, Ship It</title>
+    <description><![CDATA[Moondream 3 isn’t just another vision-language demo. This episode dives into how Moondream 3 turns asset chaos into reliable, automated workflows for creators, marketers, and brands. Discover why its precision tagging, open-vocabulary detection, and sneaky-good counting unlock real automation you can trust. Learn how to auto-tag photo libraries, run compliance checks, and extract info from charts—without babysitting every image. Get into the specifics: stronger object tracking, chart extraction, fewer hallucinations, plus where Moondream 3 stands against Google’s Gemini and OpenAI’s latest. From TikTok clips to campaign visuals, see how this vision model plugs into real creative pipelines. Less scroll, more ship.]]></description>
+    <pubDate>Mon, 13 Oct 2025 00:12:41 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251012161713312+-+moondream_3_auto_tag.mp3" length="3832152" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1760314361998</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251012161713312+-+moondream_3_auto_tag-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
