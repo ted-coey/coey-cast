@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Mon, 13 Oct 2025 00:12:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 01:40:57 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -259,6 +259,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251012161713312+-+moondream_3_auto_tag.mp3" length="3832152" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1760314361998</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251012161713312+-+moondream_3_auto_tag-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Bots That Click: Agents Break Out of the Chatbox</title>
+    <description><![CDATA[AI agents are breaking free from chat and getting actual work done. We dig into Amazon Q powering governed automation across your stack, Anthropic Claude Code plugins making team workflows slicker, and Google Gemini 2.5 Computer Use letting bots click, type, and submit on real web interfaces. If you've ever dreamt of skipping browser chores, smarter asset approvals, or finally taming tool sprawl, this is for you. We cover concrete automations for creators and content teams, all with humans in the approval loop. Workflow changes, cost breakdowns, and spicy gotchas included.]]></description>
+    <pubDate>Tue, 14 Oct 2025 01:40:57 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251013210946994+-+bots_that_click.mp3" length="4583376" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1760406057269</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251013210946994+-+bots_that_click-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
