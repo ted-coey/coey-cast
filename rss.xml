@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 15 Oct 2025 00:26:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 18:03:24 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -277,6 +277,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251014192608662+-+kandinsky5_penny_motion.mp3" length="4310952" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1760487996896</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251014192608662+-+kandinsky5_penny_motion-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Frame Perfect: Google Veo 3.1 Levels Up Short Videos</title>
+    <description><![CDATA[Google Veo 3.1 is stepping out of demo-land and into reliable, production-ready territory for creators and marketers. The magic? Full control over vertical 9:16 output and precise first and last frame selection, all through the Gemini API. No more wrestling to hit your CTA; now you can pin branded frames exactly where you want. We break down what this means for social teams, automation nerds, ad agencies, and localization pros. Plus: workflows that ship, the Sora vs Veo debate, automation tips, and why feed-native video is all about effective endings. Smart config, fewer fixes, tighter budgets, happier editors.]]></description>
+    <pubDate>Wed, 15 Oct 2025 18:03:24 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251015133613699+-+frame_perfect_veo31.mp3" length="3696888" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1760551404804</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251015133613699+-+frame_perfect_veo31-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
