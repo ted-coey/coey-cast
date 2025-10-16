@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 15 Oct 2025 18:03:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 13:13:36 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -286,6 +286,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251015133613699+-+frame_perfect_veo31.mp3" length="3696888" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1760551404804</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251015133613699+-+frame_perfect_veo31-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Microsoft MAI-Image-1: No More Tab-Hopping for Creators</title>
+    <description><![CDATA[Microsoft jumps into image generation with MAI-Image-1, now built right into PowerPoint, Word, Designer, and Bing. This episode breaks down what the new model means for creators, marketers, and anyone running campaigns in Microsoft 365 land. We cover hands-on workflow upgrades, where MAI-Image-1 stands out (and where it doesn’t), and quick-win automations like instant moodboards and storyboards without leaving your doc. Learn when to use Microsoft’s native feature, where to stick with open models, and how to measure real-world ROI. Compliance, governance, and brand safety get a boost, but you’ll still want human eyes on the final cut.]]></description>
+    <pubDate>Thu, 16 Oct 2025 13:13:36 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251016065740724+-+mai_image1_microsoft_ep.mp3" length="3511512" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1760620416899</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251016065740724+-+mai_image1_microsoft_ep-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
