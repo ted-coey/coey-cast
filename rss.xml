@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 16 Oct 2025 13:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 09:13:10 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -295,6 +295,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251016065740724+-+mai_image1_microsoft_ep.mp3" length="3511512" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1760620416899</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251016065740724+-+mai_image1_microsoft_ep-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>PaddleOCR-VL: Layout Legends and Doc Automation Wins</title>
+    <description><![CDATA[Unlock the world of document automation with PaddleOCR-VL, the lean, mean, structure-reading machine taking over PDF parsing. From invoices to multilingual research, creators and teams can automate their grind—extracting tables, formulas, charts, and more—right where the data lives. This episode breaks down the tech, who it helps, and how it stacks up against closed services like Azure and Google Document AI. Expect workflow real talk, battle-tested advice, clear gotchas, and ship-it kits for creators, agencies, and enterprises ready to ditch manual doc wrangling for good.]]></description>
+    <pubDate>Sat, 18 Oct 2025 09:13:10 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251018044110164+-+paddleocr_vl_doc_magic.mp3" length="4231728" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1760778790067</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251018044110164+-+paddleocr_vl_doc_magic-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
