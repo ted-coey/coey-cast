@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 18 Oct 2025 09:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 11:55:35 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -304,6 +304,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251018044110164+-+paddleocr_vl_doc_magic.mp3" length="4231728" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1760778790067</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251018044110164+-+paddleocr_vl_doc_magic-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Live Video Glow-Ups: Krea’s Realtime Remix Revolution</title>
+    <description><![CDATA[Krea Realtime 14B is turning live video into a real-time creative playground for streamers, event teams, and brands. Swipe from neon anime to ink wash on air, driven by the crowd or automation—not after the fact. We unpack its cache-powered stability, instant feedback, and why it’s not quite plug-and-play. Expect workflow tips, ops stacks, competitive context, and brand safety hacks. Plus: why the tech isn’t the story—the magic is what humans do with it live.]]></description>
+    <pubDate>Tue, 21 Oct 2025 11:55:35 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251021072251485+-+krea_realtime_live_magic.mp3" length="3417624" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1761047735304</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251021072251485+-+krea_realtime_live_magic-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
