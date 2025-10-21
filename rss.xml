@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 21 Oct 2025 11:55:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 20:55:44 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -313,6 +313,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251021072251485+-+krea_realtime_live_magic.mp3" length="3417624" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1761047735304</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251021072251485+-+krea_realtime_live_magic-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>DeepSeek-OCR: Shrink Your Docs Not Your Hustle</title>
+    <description><![CDATA[DeepSeek-OCR just landed and it’s flipping the script for anyone sick of wrestling with giant PDFs, weird tables, and messy document pipelines. This episode unpacks how its pixel-compression-first approach slashes token costs and brings layout fidelity to the masses. From solo creators converting scanned handouts to enterprise teams automating compliance, discover fresh ways to automate, summarize, and search long docs. Get real workflow upgrades, practical use cases, competitive context with PaddleOCR-VL, and tips for smooth implementation. Plus, meme breaks. If you’ve got documents with structure (and headaches), you’re going to want to hear how “compress, then decode” saves real budget and time—minus the drama.]]></description>
+    <pubDate>Tue, 21 Oct 2025 20:55:44 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251021163801892+-+deepseek_ocr_compression.mp3" length="3582816" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1761080144648</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251021163801892+-+deepseek_ocr_compression-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
