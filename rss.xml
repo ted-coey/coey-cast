@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 21 Oct 2025 20:55:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 01:35:45 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -322,6 +322,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251021163801892+-+deepseek_ocr_compression.mp3" length="3582816" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1761080144648</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251021163801892+-+deepseek_ocr_compression-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Atlas Shrugged Off Your Tabs: OpenAI’s New Browser Play</title>
+    <description><![CDATA[ChatGPT Atlas has landed and it's not just another tab in your digital chaos. Atlas is an AI-native browser that turns your open tabs into completed tasks. Get the scoop on on-page summarization, Agent Mode that actually interacts with websites for you, and privacy controls that let you share or nuke context at will. See how creators, brand teams, and operators can move from research to first drafts fast without the usual browser thrash. We compare Atlas to Google’s Computer Use, Bardeen, and Arc Search—explaining the where, why, and how for your workflow. No overhype, just what it means for your creative output.]]></description>
+    <pubDate>Thu, 23 Oct 2025 01:35:45 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251022203735666+-+atlas_tabs_to_tasks.mp3" length="3519864" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1761183345923</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251022203735666+-+atlas_tabs_to_tasks-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
