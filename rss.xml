@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 23 Oct 2025 01:35:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 20:50:11 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -331,6 +331,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251022203735666+-+atlas_tabs_to_tasks.mp3" length="3519864" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1761183345923</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251022203735666+-+atlas_tabs_to_tasks-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>From Pocket to Powerhouse: Qwen3-VL and Meshy 6 Level Up</title>
+    <description><![CDATA[Qwen3-VL just dropped two new vision-language models—one tiny enough to run on your phone for instant AR, brand checks, and field ops, and a 32B beast for deep enterprise automation like hours-long video review and multi-doc audits. Meanwhile, Meshy 6 Preview is making 3D asset pipelines smoother with sharper geometry and fewer cleanup headaches. This episode unpacks where these tools shine for creators, marketers, and media teams automating visual workflows. Get practical use cases, cost vibes, and smart advice to blend creativity with machine speed—without getting lost in the GPU bill.]]></description>
+    <pubDate>Thu, 23 Oct 2025 20:50:11 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251023133955474+-+qwen3vl_meshy6.mp3" length="3878016" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1761252611714</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251023133955474+-+qwen3vl_meshy6-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
