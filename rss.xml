@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 23 Oct 2025 20:50:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 11:51:38 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -340,6 +340,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251023133955474+-+qwen3vl_meshy6.mp3" length="3878016" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1761252611714</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251023133955474+-+qwen3vl_meshy6-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>LTX-2: Sync or Swim? Automating Video with a Side of Audio</title>
+    <description><![CDATA[Lightricks just launched LTX-2, claiming first place for open-source video models that actually sync audio and 4K visuals in a single pass. Ready for creators, marketers, and teams sick of post-production headaches. Get the scoop on native 4K, 10-second cap, multi-keyframe continuity, and creative automation that drops costs instead of frames. Hear how API access, creative studio, and open code can actually slot into real pipelines—plus what’s real on self-hosting, cost math, and production readiness. Quick hits on DeepSeek’s price war and how pipeline-first AI is flipping the script for content ops. If you’re chasing faster workflows, synced sound, and more time for what matters, this is your playbook.]]></description>
+    <pubDate>Fri, 24 Oct 2025 11:51:38 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251024070424492+-+ltx2_sync_or_swim.mp3" length="3450120" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1761306698649</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251024070424492+-+ltx2_sync_or_swim-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
