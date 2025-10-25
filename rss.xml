@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 24 Oct 2025 11:51:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 12:44:11 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -349,6 +349,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251024070424492+-+ltx2_sync_or_swim.mp3" length="3450120" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1761306698649</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251024070424492+-+ltx2_sync_or_swim-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>From JPEG to Jiggle-Proof: Seed3D’s 1-Click 3D Revolution</title>
+    <description><![CDATA[Seed3D 1.0 from ByteDance takes a single image and spits out a simulation-ready 3D asset, watertight and ready for production. No downloading repos or wrangling GPUs—just upload and automate. Discover how this API-first, closed model lets ecommerce, gaming, and robotics teams scale asset creation fast. Get step-by-step workflow ideas, real-world limits around fidelity and materials, and tactical tips for integrating into content supply chains, with plenty of reality checks on where human review still shines. Plus, a rapid-fire tour through other trending AI video and 3D tools.]]></description>
+    <pubDate>Sat, 25 Oct 2025 12:44:11 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251025081738903+-+seed3d_jiggle_proof.mp3" length="4201872" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1761396251535</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251025081738903+-+seed3d_jiggle_proof-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
