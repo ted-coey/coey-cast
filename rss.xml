@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 25 Oct 2025 12:44:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 18:24:00 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -358,6 +358,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251025081738903+-+seed3d_jiggle_proof.mp3" length="4201872" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1761396251535</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251025081738903+-+seed3d_jiggle_proof-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Source Agents with Bite: Tongyi DeepResearch Unleashed</title>
+    <description><![CDATA[Alibaba has open-sourced Tongyi DeepResearch, a research agent with real web-browsing smarts and full citation trails. With code on GitHub and a friendly license, you can run it yourself and wire it into your own stack—think Slack, Notion, or even custom compliance dashboards. Under the hood, a mixture-of-experts model means you get efficiency for solo creators and scale for small teams. This episode covers workflows for weekly trend scans, competitor tracking, and campaign prep with cited sources at every step. There are no glossy APIs, but total control and privacy if you need it. Hear how open web research agents let marketers, creators, and ops teams automate the grunt work and focus on the strategy, not the doomscrolling.]]></description>
+    <pubDate>Sun, 26 Oct 2025 18:24:00 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251026135125844+-+tongyi_deepresearch_ep.mp3" length="3386952" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1761503040298</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251026135125844+-+tongyi_deepresearch_ep-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
