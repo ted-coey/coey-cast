@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 26 Oct 2025 18:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 18:18:57 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -367,6 +367,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251026135125844+-+tongyi_deepresearch_ep.mp3" length="3386952" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1761503040298</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251026135125844+-+tongyi_deepresearch_ep-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Costco Beats Champagne: Qualcomm and Intel Shake Up AI Inference</title>
+    <description><![CDATA[Nvidia’s got the bottle service, but Qualcomm and Intel just crashed the party with Costco-sized savings. Qualcomm’s AI200 and AI250 and Intel’s Crescent Island promise cheaper AI inference and memory-rich accelerators that upend Nvidia’s stranglehold on creative and marketing workflows. This episode breaks down what this means for scaling LLMs, batch video variants, and TTS dubbing, plus how it impacts platform costs, vendor lock-in, and real creative automation. Get practical plays for marketers, creators, and anyone building scalable media ops. It’s a cost curve moment for AI that’s all about more output, less pipeline pain, and new options for every team size.]]></description>
+    <pubDate>Mon, 27 Oct 2025 18:18:57 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251027135850072+-+qualcomm_intel_ai_cost.mp3" length="3436032" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1761589137585</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251027135850072+-+qualcomm_intel_ai_cost-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
