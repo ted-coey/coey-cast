@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 28 Oct 2025 11:02:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 12:18:03 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -385,6 +385,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251028042459700+-+pico_banana_dataset.mp3" length="4088880" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1761649345848</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251028042459700+-+pico_banana_dataset-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Fast Model with Receipts: Nemotron Nano 2 Goes Open Source</title>
+    <description><![CDATA[NVIDIA’s open source Nemotron Nano 2 just dropped and it’s not your average small model. Packed as NIM microservices, it moves fast from “demo” to “daily workflow,” running on everything from vLLM to llama.cpp. Toggle internal reasoning with “thinking traces” for both transparency and speed. Perfect for content creators, agent devs, and ops teams who want fast, reliable, and scalable automation. Explore use cases like editorial planning, ad ops, and pipeline magic. Pro tips on guardrails, governance, and how to keep costs under control while scaling up smart automation. The episode features pricing, integration tips, and how to actually deploy small, open models without the usual headaches.]]></description>
+    <pubDate>Wed, 29 Oct 2025 12:18:03 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251029072724178+-+nemotron_nano_2_open.mp3" length="3475344" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1761740283511</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251029072724178+-+nemotron_nano_2_open-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
