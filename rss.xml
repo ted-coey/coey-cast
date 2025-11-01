@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 29 Oct 2025 12:18:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 16:22:26 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -394,6 +394,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251029072724178+-+nemotron_nano_2_open.mp3" length="3475344" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1761740283511</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251029072724178+-+nemotron_nano_2_open-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Claude Haiku 4.5: Fast, Cheap, and Uncanny</title>
+    <description><![CDATA[Anthropic’s Claude Haiku 4.5 has entered the chat and it’s setting a new speed record for generative AI workflows. With blazing-fast performance, aggressive pricing, and structured outputs, Haiku is positioned as the go-to model for everyday drafting, tagging, and extracting via Anthropic’s API or Google Vertex AI. Learn how creators, marketers, and ops teams can automate titles, summaries, docs, ad copy, and more while keeping control with function calling and predictable schemas. Plus, the real-world trade-offs between closed models like Haiku and open alternatives such as Qwen3 and DeepSeek. Streamline your stack, batch content jobs, and let AI handle the grunt work so your team can focus on what matters.]]></description>
+    <pubDate>Sat, 01 Nov 2025 16:22:26 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251031195501069+-+claude_haiku_45_magic.mp3" length="3743736" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1762014146553</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251031195501069+-+claude_haiku_45_magic-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
