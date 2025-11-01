@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 01 Nov 2025 16:22:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 21:51:33 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -403,6 +403,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251031195501069+-+claude_haiku_45_magic.mp3" length="3743736" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1762014146553</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251031195501069+-+claude_haiku_45_magic-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Emu3.5: The Model That Paints With Plot Twists</title>
+    <description><![CDATA[Explore Emu3.5 from BAAI, the newest open-weight, native multimodal model that generates images and text in a single loop. Dive into how its supercharged DiDA speed claims could unlock true batch production for creators and teams, and why interleaved generation means fewer copy-paste fumbles. Learn where DIY tinkerers win, where production houses get an upgrade, and what pitfalls and possibilities emerge with open access. Break down workflow boosts, new campaign formats, and the future of image-to-anything at human scale. Real advice for anyone experimenting with high-volume creative pipelines or managing huge multimedia libraries.]]></description>
+    <pubDate>Sat, 01 Nov 2025 21:51:33 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251101133059395+-+emu3_5_plot_twists.mp3" length="3708456" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1762033893735</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251101133059395+-+emu3_5_plot_twists-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
