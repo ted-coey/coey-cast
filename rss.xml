@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 01 Nov 2025 21:51:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 23:16:02 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -412,6 +412,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251101133059395+-+emu3_5_plot_twists.mp3" length="3708456" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1762033893735</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251101133059395+-+emu3_5_plot_twists-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Everything’s Bigger in Texas: GPU Gold Rush for AI Creators</title>
+    <description><![CDATA[AI compute is having a Texas-sized glow-up as Microsoft secures major GPU capacity with IREN and OpenAI gears up to ride AWS’s freshest accelerators. What does that mean for creators, marketers, and operators? Get ready for faster, smoother video and content workflows, less time in queue purgatory, and more concurrency when campaigns heat up. Dive into how new hardware like NVIDIA’s GB200 and GB300 unlock next-level multimodal rendering, what “agent teamwork” means for your pipeline, and why version pinning and creative metrics are now table stakes. Plus, get the download on recent model launches and learn the new playbook to maximize throughput, maintain creative control, and stay portable across vendors. It’s queue freedom, cowboy style.]]></description>
+    <pubDate>Mon, 03 Nov 2025 23:16:02 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251103175241815+-+texas_gpu_goldrush.mp3" length="3554784" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1762211762408</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251103175241815+-+texas_gpu_goldrush-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
