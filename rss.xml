@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Mon, 03 Nov 2025 23:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 12:31:49 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -421,6 +421,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251103175241815+-+texas_gpu_goldrush.mp3" length="3554784" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1762211762408</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251103175241815+-+texas_gpu_goldrush-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Agents, Edge, and Multimodals: Qwen3-Max, Ming-Flash, Open VL</title>
+    <description><![CDATA[AI workflows just leveled up. This episode spotlights Qwen3-Max “Thinking” (closed, API only) as it shifts agentic reasoning from turn-based chat to actual planning and tool use. Hear why small vision-language models like open Qwen3-VL are making privacy, cost, and latency wins possible for image and doc triage. Explore Ming-Flash-Omni-Preview on Hugging Face bringing mixture-of-experts magic to video, text, and audio understanding—even if it’s early days. Rounding it out is MagicPathAI’s prompt-to-prototype UI sneak peek for serious design-to-code speed. Get quick, real-life pilots for marketers, creators, and ops. The hybrid AI stack is here: route, plan, tag, review. Human plus machine always.]]></description>
+    <pubDate>Tue, 04 Nov 2025 12:31:49 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251104070304500+-+agents_edge_multimodal.mp3" length="3640032" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1762259509844</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251104070304500+-+agents_edge_multimodal-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
