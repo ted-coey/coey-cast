@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 04 Nov 2025 12:31:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 22:10:04 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -430,6 +430,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251104070304500+-+agents_edge_multimodal.mp3" length="3640032" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1762259509844</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251104070304500+-+agents_edge_multimodal-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Chutes and Ladders: OpenAI Swaps Go Live</title>
+    <description><![CDATA[Chutes is bringing open-source models to OpenAI-compatible endpoints, letting creators and marketers instantly swap in alternatives like DeepSeek‑R1 with just a base URL change. No need to rebuild your stack or decode new APIs—just plug in and roll. Get cost savings and resilience without sacrificing convenience. We break down hands-on automation recipes for content ops, copy, and creative, cover competitive angle vs hosts like Together and Groq, and share workflow tips for minimizing spend. Learn why model-agnostic routing, budget controls, and failovers are becoming standard in modern automation. If your stack already speaks OpenAI, boring just got brilliant.]]></description>
+    <pubDate>Thu, 06 Nov 2025 22:10:04 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251105202255621+-+chutes_openai_swap.mp3" length="3093216" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1762467004903</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251105202255621+-+chutes_openai_swap-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
