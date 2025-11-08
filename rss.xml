@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 06 Nov 2025 22:10:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 14:38:33 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -439,6 +439,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251105202255621+-+chutes_openai_swap.mp3" length="3093216" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1762467004903</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251105202255621+-+chutes_openai_swap-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Playbook: Kimi K2 &amp; HunyuanWorld-Mirror Deep Dive</title>
+    <description><![CDATA[AI workflows leap forward with two major China-born releases. Moonshot’s Kimi K2 Thinking brings “do the thing” automation—plan, fetch, summarize, validate, post—letting creators and marketers run multi-step projects with just enough human gatekeeping. It fits right into tool stacks, from Make to custom scripts, and can be self-hosted for privacy and control. Tencent’s open source HunyuanWorld-Mirror flips videos and photo bursts into ready-to-use 3D scenes. Product teams, AR/VR builders, and ops get fast photogrammetry, Unity and Unreal integration, and all the audit trails. We tackle practical setups, cost compression, and where small-but-smart models and open pipelines are outpacing closed stacks. Plus, cheeky tongue twisters and near-future pilot ideas.]]></description>
+    <pubDate>Sat, 08 Nov 2025 14:38:33 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251108085947402+-+kimi_k2_hunyuanworld.mp3" length="3706224" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1762612713211</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251108085947402+-+kimi_k2_hunyuanworld-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
