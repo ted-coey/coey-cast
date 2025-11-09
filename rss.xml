@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 08 Nov 2025 14:38:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 14:02:01 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -448,6 +448,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251108085947402+-+kimi_k2_hunyuanworld.mp3" length="3706224" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1762612713211</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251108085947402+-+kimi_k2_hunyuanworld-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Bananas for GEMPIX2: Google’s Image Model Rumor Mill</title>
+    <description><![CDATA[Google’s internal image model, aka Nano Banana 2 or GEMPIX2, has the AI grapevine buzzing but not spilling the docs. We unpack what matters for creators and marketers: cleaner text-in-image, higher resolutions, and true brand consistency could finally hit the campaign production line. Get the rundown on expected API integrations for Gemini and Vertex, the pragmatic workflow upgrades you can prep for now, and why batch factories and scoring systems will matter more than pretty leaks. Plus a lightning round: recent market pivots, live AI translation shocks, and what it means for cost, control, and human-in-the-loop creativity.]]></description>
+    <pubDate>Sun, 09 Nov 2025 14:02:01 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251109080029511+-+bananas_gempix2_rumor.mp3" length="3052608" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1762696921534</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251109080029511+-+bananas_gempix2_rumor-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
