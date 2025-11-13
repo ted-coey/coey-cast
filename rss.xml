@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 09 Nov 2025 14:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 02:28:15 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -457,6 +457,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251109080029511+-+bananas_gempix2_rumor.mp3" length="3052608" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1762696921534</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251109080029511+-+bananas_gempix2_rumor-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>GPT-5.1: Instant Wins or Thinking Things Through?</title>
+    <description><![CDATA[OpenAI just dropped GPT-5.1 and creators everywhere are about to move at warp speed. Explore how the new “Instant” and “Thinking” modes in ChatGPT unlock faster first drafts and smarter, deeper workflow upgrades for marketers, content teams, and automators. Learn how to route between them, set up safeguard critics, and avoid surprise costs. Get the playbook for putting model selection, variant caps, and policy-as-code into real ops—plus the state of model competition, from Anthropic’s billion-dollar moves to DeepSeek’s budget shake-up. Find out why the future is about adaptive AI that delivers work you can trust, not just speed and hype.]]></description>
+    <pubDate>Thu, 13 Nov 2025 02:28:15 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251112202646728+-+gpt51_instant_thinking.mp3" length="3352224" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1763000895276</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251112202646728+-+gpt51_instant_thinking-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
