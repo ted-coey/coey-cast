@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 14 Nov 2025 11:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 19:38:55 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -475,6 +475,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251114053843029+-+ernie_5_marketing_magic.mp3" length="3969504" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1763118380736</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251114053843029+-+ernie_5_marketing_magic-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Anthropic’s Open Source Vibe Check for AI Neutrality</title>
+    <description><![CDATA[Anthropic just dropped an open source framework for auditing political neutrality in language models—and it’s way more than “trust us bro.” This episode breaks down how to stress-test your AI’s even-handedness using paired prompts and structured scoring, why it matters for marketers and creators running automated content at scale, and how to bake neutrality ops into your workflows. From scoring thresholds to clever vendor games, setting up guardrails, internationalizing your prompt packs, and even A/B switching fallback models, get the playbook for scaling transparent, audit-ready content pipelines. Includes quick tips for lean teams, tips for catching failure modes like sarcasm or hidden leans in microcopy, and why transparent audit trails will soon be table stakes.]]></description>
+    <pubDate>Sun, 16 Nov 2025 19:38:55 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251115061700566+-+anthropic_vibe_check.mp3" length="3500592" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1763321935406</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251115061700566+-+anthropic_vibe_check-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
