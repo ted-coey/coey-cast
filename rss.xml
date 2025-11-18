@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 16 Nov 2025 19:38:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 04:26:19 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -484,6 +484,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251115061700566+-+anthropic_vibe_check.mp3" length="3500592" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1763321935406</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251115061700566+-+anthropic_vibe_check-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Qwen, Grok, and GPT-5.1: Who&apos;s Next to Run Your Workflow?</title>
+    <description><![CDATA[Alibaba’s Qwen app is opening doors for marketers in China with deep integrations and real workflow hooks, but when should global teams jump in? Grok goes free and sparks talk about the fastest ways to build real-world AI automations using tools like n8n, Make.com, and Langfuse. GPT-5.1 lands with smart heuristics for balancing speed and judgment. Hear practical KPIs for workflow automation, vendor lock-in risks, the rise of assistants as control planes, and why Google and photonic computing could quietly change your productivity stack. Stay one step ahead on localization, compliance, and the connector game.]]></description>
+    <pubDate>Tue, 18 Nov 2025 04:26:19 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251117222437982+-+qwen_grok_gpt_workflow.mp3" length="3946656" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1763439979851</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251117222437982+-+qwen_grok_gpt_workflow-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
