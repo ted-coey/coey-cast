@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 18 Nov 2025 04:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 22:04:03 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -493,6 +493,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251117222437982+-+qwen_grok_gpt_workflow.mp3" length="3946656" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1763439979851</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251117222437982+-+qwen_grok_gpt_workflow-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Pushing Buttons: Gemini 3, Veo 3 Fast, and Antigravity for Workflows</title>
+    <description><![CDATA[Dive into real-world automation with Gemini 3, Veo 3 Fast, and Google’s Antigravity IDE for creators and marketers. This episode breaks down what’s mature now for AI agents and where humans still need guardrails. Get clear strategies for evaluating agent safety, integration, and brand controls at scale. Hear the latest on cost control, vendor lock-in risks, governing AI outputs, and how to wrap workflows with API accountability, not demo UIs. Plus, get a pulse on the multi-billion dollar moves shaping the generative AI ecosystem. If you want to scale creative output while avoiding the newest AI chaos, this is your action plan.]]></description>
+    <pubDate>Tue, 18 Nov 2025 22:04:03 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251118161948426+-+pushing_buttons_gemini3.mp3" length="3490632" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1763503443067</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251118161948426+-+pushing_buttons_gemini3-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
