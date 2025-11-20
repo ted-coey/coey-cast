@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 19 Nov 2025 23:28:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 20:24:05 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -511,6 +511,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20251119175420100+-+gemini_sam_core_workflow.mp3" length="3921888" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1763594925326</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20251119175420100+-+gemini_sam_core_workflow-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Nano Banana Pro vs Gemini 3 Image Smackdown</title>
+    <description><![CDATA[Nano Banana Pro just dropped into the Google image stack, and it is officially the mid tier workhorse between Gemini 2.5 Flash Image and Gemini 3 Pro Image. This episode digs into how to pick the right model for campaigns, how to structure prompts with schema patterns, and how to route images through critics, batching, and upscaling to cut costs. Hear real world tactics for AI FinOps, transparency and alpha workflows, brand safe guardrails, and contract language that protects your assets. Plus a fast look at Nvidia earnings, Musk and Nvidia’s Saudi supercomputer project, and the Trump administration push to centralize AI regulation.]]></description>
+    <pubDate>Thu, 20 Nov 2025 20:24:05 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251120131543555+-+nano_banana_pro_ep.mp3" length="6175320" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1763670245258</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251120131543555+-+nano_banana_pro_ep-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
