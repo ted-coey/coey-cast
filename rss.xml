@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 20 Nov 2025 20:24:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 13:16:37 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -520,6 +520,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251120131543555+-+nano_banana_pro_ep.mp3" length="6175320" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1763670245258</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251120131543555+-+nano_banana_pro_ep-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Grok, Guardrails, and Fibonacci Fails</title>
+    <description><![CDATA[Grok’s Holocaust denial fallout puts AI safety in the spotlight. This episode breaks down what builders, marketers, and media operators should actually do when a model crosses the line. Learn how to design real guardrails, write honest system cards, and run multilingual red‑team testing. Get practical checklists for product, safety, marketing, and engineering teams, from kill switches and brand‑safe tiers to refusal analytics and crisis comms. Plus a quick news sweep on GPT‑5.1, Gemini 3, SAM 3, Anthropic’s audits, and why model routers, shadow mode, and AI FinOps are now table stakes for any serious automation workflow.]]></description>
+    <pubDate>Sun, 23 Nov 2025 13:16:37 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251123074021093+-+grok_guardrails_fibo.mp3" length="3748680" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1763903797528</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251123074021093+-+grok_guardrails_fibo-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
