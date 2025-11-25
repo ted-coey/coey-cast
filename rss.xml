@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 23 Nov 2025 13:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 13:05:18 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -529,6 +529,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251123074021093+-+grok_guardrails_fibo.mp3" length="3748680" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1763903797528</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251123074021093+-+grok_guardrails_fibo-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Gemini 3 vs The Hype: Model Wars for Real Workflows</title>
+    <description><![CDATA[Google Gemini 3 is getting “I’m not going back” hype from Marc Benioff, but should teams actually switch from ChatGPT yet. This episode breaks down how to evaluate Gemini 3 and other frontier models against real workflows for creators and marketers. Learn how to design a model agnostic stack with API shims, routers, and strict schemas, what to put in a Model Rider for your contracts, and how to run practical benchmarks. Plus quick hits on Claude Opus 4.5, the Genesis Mission executive order, and Amazon’s massive AI infra bet.]]></description>
+    <pubDate>Tue, 25 Nov 2025 13:05:18 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251125074000455+-+gemini_3_model_wars.mp3" length="3462072" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1764075918611</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251125074000455+-+gemini_3_model_wars-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
