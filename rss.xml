@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 25 Nov 2025 13:05:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 19:31:00 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -538,6 +538,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251125074000455+-+gemini_3_model_wars.mp3" length="3462072" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1764075918611</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251125074000455+-+gemini_3_model_wars-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>FLUX.2, Cake Day, and Killing Boring Creative Ops</title>
+    <description><![CDATA[Deep dive into FLUX.2 for creators and marketers who care about automation, compliance, and shipping faster. Covers what “open weight” really means, how to treat FLUX.2 dev as an R and D sandbox, and when to upgrade to commercial endpoints like pro. Breaks down production readiness signals, multi reference use cases, typography tests, and local versus hosted trade offs. Walks through policy as code, consent, brand safety critics, and the KPIs that prove structured generation beats vibes. Ends with a tactical checklist to pilot FLUX.2 without nuking your budget or your legal team’s weekend.]]></description>
+    <pubDate>Wed, 26 Nov 2025 19:31:00 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251126140936355+-+flux2_cake_day_ops.mp3" length="4032696" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1764185460209</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251126140936355+-+flux2_cake_day_ops-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
