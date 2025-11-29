@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 26 Nov 2025 19:31:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 20:54:32 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -547,6 +547,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251126140936355+-+flux2_cake_day_ops.mp3" length="4032696" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1764185460209</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251126140936355+-+flux2_cake_day_ops-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Z-Image vs Midjourney vs SD3: Who Runs Your Studio</title>
+    <description><![CDATA[Alibaba’s open Z-Image model is gunning for Midjourney and Stable Diffusion Three on photoreal image generation. This episode breaks down what actually matters for teams shipping assets at scale: quality, speed, GPU requirements, and total cost per image. Learn where Z-Image shines on local workstations, how to wire it into automated thumbnail and product shot pipelines, and why prompt understanding, controllability, and text rendering still need guardrails. We also cover evaluation tactics, multi-agent critic workflows inspired by OpenGradient Council Mode, creative “vibe coder” roles, and practical governance around IP, deepfakes, and C2PA. Plus, a quick look at HAiO and 0G’s iProducer iNFTs for automated music and cover art workflows.]]></description>
+    <pubDate>Sat, 29 Nov 2025 20:54:32 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251129120502069+-+z_image_image_stack.mp3" length="3507984" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1764449672450</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251129120502069+-+z_image_image_stack-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
