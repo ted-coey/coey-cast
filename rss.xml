@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 29 Nov 2025 20:54:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 02:56:38 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -556,6 +556,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251129120502069+-+z_image_image_stack.mp3" length="3507984" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1764449672450</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251129120502069+-+z_image_image_stack-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Runway Gen-4.5 vs The Rest of the Reel World</title>
+    <description><![CDATA[Runway Gen 4.5 just dropped and the benchmark charts are loud, but what actually matters for creators is workflow. This episode breaks down how Gen 4.5 stacks up against Sora 2, Veo 3, Pika, and Luma for real marketing pipelines. Learn when to use image to video, video to video, and text to video for brand safe ads, b roll, and social refreshes. Get practical governance tactics for deepfake risk, uncanny humans, and legal review. Hear how teams are structuring roles like prompt director and AI compositor, why cost per approved asset beats cost per render, and when open source video models like Open Sora and HunyuanVideo make sense in house.]]></description>
+    <pubDate>Tue, 02 Dec 2025 02:56:38 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251201213118718+-+runway_gen_4_5_workflow.mp3" length="3369624" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1764644198916</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251201213118718+-+runway_gen_4_5_workflow-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
