@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 02 Dec 2025 02:56:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 01:32:02 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -565,6 +565,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251201213118718+-+runway_gen_4_5_workflow.mp3" length="3369624" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1764644198916</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251201213118718+-+runway_gen_4_5_workflow-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Pick Your AI Fighter: GPT 5.2 vs Gemini vs DeepSeek</title>
+    <description><![CDATA[GPT 5.2, Gemini, DeepSeek, routers, and agents all walked into the same week. This episode breaks down when to use GPT 5.2 Instant, Thinking, or Pro for marketing ops, analytics, and high stakes reporting. It compares DeepSeek V3.2 and Speciale against GPT and Gemini for reasoning heavy tasks and open weight deployment. It covers Gemini Deep Research, the Interactions API, and practical patterns to reduce hallucinations with retrieval and verification. It also hits vendor lock in strategies, agent frameworks like LangGraph and CrewAI, Google’s emotion aware TTS for localization, and the real operational and regulatory costs behind “free” models.]]></description>
+    <pubDate>Sat, 13 Dec 2025 01:32:02 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251212202945319+-+pick_your_ai_fighter.mp3" length="4351512" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1765589522191</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251212202945319+-+pick_your_ai_fighter-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
