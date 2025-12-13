@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 13 Dec 2025 01:32:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 13:42:54 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -574,6 +574,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251212202945319+-+pick_your_ai_fighter.mp3" length="4351512" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1765589522191</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251212202945319+-+pick_your_ai_fighter-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Agents.md, Ad Overviews, and Cocoa Chaos</title>
+    <description><![CDATA[Agent standards are heating up and the martech stack is feeling it. This episode breaks down the Linux Foundation Agentic AI Foundation, OpenAI’s agents.md style spec, and why “standards” might either unlock interoperability or just tighten vendor lock in. The conversation connects agent governance to real workflows like lifecycle marketing, customer support, and CRM write access. It also covers CleverTap’s Agentic AI pitch, the risks of autonomous campaign optimization, and how ads are shifting into AI search and chat experiences. Expect practical guardrail advice for permissions, kill switches, read only first setups, and why clean product data and answer ready messaging decide whether assistants actually recommend you.]]></description>
+    <pubDate>Sat, 13 Dec 2025 13:42:54 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251213074858005+-+agents_md_cocoa_chaos.mp3" length="3750744" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1765633374348</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251213074858005+-+agents_md_cocoa_chaos-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
