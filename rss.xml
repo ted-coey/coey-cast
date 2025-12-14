@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 13 Dec 2025 13:42:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 16:25:18 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -583,6 +583,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251213074858005+-+agents_md_cocoa_chaos.mp3" length="3750744" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1765633374348</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251213074858005+-+agents_md_cocoa_chaos-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>AI Ads Win, Honesty Hurts</title>
+    <description><![CDATA[AI generated beauty ads are now outperforming human creative on click through rate, until people find out they are AI made. This episode breaks down why fully AI generated ads beat human and hybrid workflows, what the “disclosure penalty” means for marketers, and how to frame AI use without tanking performance. It also digs into Salesforce Agentforce 360 observability for marketing agents, and what real auditability should track. Finally, it covers the latest OpenAI vendor data breach and a practical playbook for keeping customer data out of every shiny AI tool while still automating workflows.]]></description>
+    <pubDate>Sun, 14 Dec 2025 16:25:18 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251214104237733+-+ai_ads_disclosure.mp3" length="3698448" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1765729518708</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251214104237733+-+ai_ads_disclosure-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
