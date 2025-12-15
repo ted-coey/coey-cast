@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 14 Dec 2025 16:25:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 18:46:43 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -592,6 +592,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251214104237733+-+ai_ads_disclosure.mp3" length="3698448" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1765729518708</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251214104237733+-+ai_ads_disclosure-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Disney Sora Deals and AI Ads With Leash On</title>
+    <description><![CDATA[Disney is licensing hundreds of Disney Marvel Star Wars and Pixar characters into OpenAI Sora which unlocks brand safe generative video while tightening control over how IP gets used. The conversation digs into what this means for creators who want licensed chaos versus open source freedom and how pipelines will change. It also covers Google Ads new AI Advisors how to safely offload PPC grunt work without burning budgets and why marketers are becoming system supervisors. Finally it breaks down ads inside AI search and chat why clicks matter less how to win citations inside answers and why structured content and clean data now drive distribution.]]></description>
+    <pubDate>Mon, 15 Dec 2025 18:46:43 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251215130023144+-+disney_sora_ai_ads.mp3" length="3746160" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1765824403788</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251215130023144+-+disney_sora_ai_ads-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
