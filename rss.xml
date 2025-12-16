@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Mon, 15 Dec 2025 18:46:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 21:07:18 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -601,6 +601,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251215130023144+-+disney_sora_ai_ads.mp3" length="3746160" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1765824403788</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251215130023144+-+disney_sora_ai_ads-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>GPT 5.2, Nemotron 3, Raven 3 and Chocolate Workflows</title>
+    <description><![CDATA[GPT 5.2, NVIDIA Nemotron 3 open weights, and PolyAI Raven 3 are reshaping how creators and marketers automate work. This episode breaks down what GPT 5.2’s Instant, Thinking, and Pro modes actually mean for content and campaign workflows, and how to validate “reasoning” with artifacts, structure, and second pass checks. Learn where Nemotron 3 fits in open agent stacks, why orchestration and shared schemas matter, and how to avoid vendor lock in. Then dive into Raven 3 for voice automation, escalation pitfalls, and hybrid handoff patterns that keep humans in the loop while AI handles repetitive calls.]]></description>
+    <pubDate>Tue, 16 Dec 2025 21:07:18 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251216130012394+-+gpt_nemotron_raven.mp3" length="3251448" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1765919238993</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251216130012394+-+gpt_nemotron_raven-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
