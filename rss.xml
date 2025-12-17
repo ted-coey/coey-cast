@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 16 Dec 2025 21:07:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 18:28:12 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -610,6 +610,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251216130012394+-+gpt_nemotron_raven.mp3" length="3251448" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1765919238993</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251216130012394+-+gpt_nemotron_raven-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Google AI Overviews Now With Microtransactions</title>
+    <description><![CDATA[Google is testing ads directly inside AI Overviews and AI Mode, turning the answer box into prime ad real estate. Hunter and Riley break down what happens when one synthesized AI verdict also carries sponsored picks, and how that impacts trust across search. They dig into Performance Max workflows, brand safety, and why structured, proof-backed content becomes survival gear. The conversation zooms out to Gemini 3 Flash as the default AI Mode engine, NVIDIA Nemotron 3 as a rising open source option, hybrid model stacks, and why creators need systems that protect truth, not just tools that generate content.]]></description>
+    <pubDate>Wed, 17 Dec 2025 18:28:12 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251217130044141+-+google_ai_overviews.mp3" length="3562488" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1765996092872</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251217130044141+-+google_ai_overviews-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
