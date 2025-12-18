@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 17 Dec 2025 18:28:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 20:10:39 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -619,6 +619,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251217130044141+-+google_ai_overviews.mp3" length="3562488" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1765996092872</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251217130044141+-+google_ai_overviews-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>AI Answers, Sponsored: Agents, Advisors, and Lock In</title>
+    <description><![CDATA[Microsoft pulls Azure AI Foundry into VS Code so teams can build, evaluate, and ship AI assistants without living in twelve dashboards. Google launches Ads Advisor and Analytics Advisor while quietly testing sponsored placements inside AI Mode, blending ads directly into AI answers. PubMatic and Butler Till push agentic AI for connected TV, raising big questions about guardrails, brand safety, and kill switches. The conversation digs into real agent behavior versus rebranded automation, how to use advisor tools like a junior analyst, what AI native SEO and measurement look like, and which marketing jobs get upgraded as agents start handling the grunt work.]]></description>
+    <pubDate>Thu, 18 Dec 2025 20:10:39 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251218130010356+-+sponsored_ai_answers.mp3" length="4548120" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1766088639317</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251218130010356+-+sponsored_ai_answers-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
