@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 18 Dec 2025 20:10:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 18:39:27 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -628,6 +628,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251218130010356+-+sponsored_ai_answers.mp3" length="4548120" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1766088639317</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251218130010356+-+sponsored_ai_answers-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Speed Is The Strategy Open Models And Sharper Ads</title>
+    <description><![CDATA[NVIDIA Nemotron 3, Google Gemini 3 Flash, and LinkedIn Reserved Ads all push the same agenda: speed and predictability as a strategy. Learn what “open” really means for Nemotron 3 Nano, where free endpoints get risky, and why hybrid Mixture of Experts matters for real agent workflows. Explore how low latency multimodal models change content creation, campaign iteration, and on-device privacy. Then unpack LinkedIn’s shift toward guaranteed ad slots and AI powered personalization plus where the creepy line actually lives. Walk away with a practical lens for routing tasks between fast models, big models, and human judgment.]]></description>
+    <pubDate>Fri, 19 Dec 2025 18:39:27 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251219130010201+-+speed_is_strategy.mp3" length="3153936" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1766169567859</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251219130010201+-+speed_is_strategy-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
