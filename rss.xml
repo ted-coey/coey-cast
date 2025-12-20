@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 19 Dec 2025 18:39:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 20:52:58 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -637,6 +637,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251219130010201+-+speed_is_strategy.mp3" length="3153936" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1766169567859</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251219130010201+-+speed_is_strategy-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Talk Faster, Draw Sharper, Target Smarter</title>
+    <description><![CDATA[OpenAI rolls out new realtime audio snapshots in the Realtime API and a fresh wave of call summary automation. Think transcripts, intent extraction, CRM updates, and coaching notes without the ten hour listening marathon. The conversation digs into reliability, confirmation loops, human handoff, and how open source voice stacks can realistically compete. Then Hazel enters the chat as a new flagship image model focused on layout, text rendering, and style consistency that could retire endless ad variant busywork. Finally Meta starts using Meta AI chatbot signals for ad targeting, raising big questions about privacy, creative strategy, and building systems that avoid creepy vibes and vendor lock in.]]></description>
+    <pubDate>Sat, 20 Dec 2025 20:52:58 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251220130030155+-+talk_faster_draw_sharp.mp3" length="3730464" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1766263978137</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251220130030155+-+talk_faster_draw_sharp-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
