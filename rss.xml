@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 20 Dec 2025 20:52:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 18:25:54 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -646,6 +646,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251220130030155+-+talk_faster_draw_sharp.mp3" length="3730464" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1766263978137</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251220130030155+-+talk_faster_draw_sharp-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Salesforce Bots, TikTok Plots and AI Ad Spots</title>
+    <description><![CDATA[Salesforce is buying Qualified and turning chat from a website widget into a revenue operations layer inside the CRM. Hunter and Riley break down what agent owned workflows should actually handle like routing, enrichment and scheduling and what should stay human like notes and strategy. They dig into how to build an accountable agent stack with policy as code, typed inputs and real audit trails. Then it is on to Arcads using AI actors to mass produce TikTok ads and why attention metrics from TikTok and DoubleVerify change what “good” creative looks like. The focus stays on automating the boring parts while humans own taste and risk.]]></description>
+    <pubDate>Sun, 21 Dec 2025 18:25:54 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251221130050168+-+salesforce_tiktok_ai.mp3" length="2996640" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1766341554835</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251221130050168+-+salesforce_tiktok_ai-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
