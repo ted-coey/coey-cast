@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 21 Dec 2025 18:25:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 19:48:39 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -655,6 +655,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251221130050168+-+salesforce_tiktok_ai.mp3" length="2996640" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1766341554835</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251221130050168+-+salesforce_tiktok_ai-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>When AI Eats Your Brand Voice</title>
+    <description><![CDATA[Claude Opus 4.5 is getting hyped as a co writer, Google Ads is rolling out Brand Profiles for Performance Max, and Google is pushing on device automation with FunctionGemma. This episode digs into how to use Claude as an editor plus without sanding the soul out of your brand, how to feed Performance Max brand inputs without ending up with beige AI smoothies, and why real footage and weird POV still win. It also walks through FunctionGemma style phone agents, action permissions, and why your brand now needs to be machine legible as much as memorable.]]></description>
+    <pubDate>Mon, 22 Dec 2025 19:48:39 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251222130050152+-+ai_eats_brand_voice.mp3" length="3984672" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1766432919329</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251222130050152+-+ai_eats_brand_voice-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
