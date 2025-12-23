@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Mon, 22 Dec 2025 19:48:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 19:02:38 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -664,6 +664,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251222130050152+-+ai_eats_brand_voice.mp3" length="3984672" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1766432919329</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251222130050152+-+ai_eats_brand_voice-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Festivus for the Rest of Us and Our AI Agents</title>
+    <description><![CDATA[AI Festivus hits model land with real grievances and real workflows. Hunter and Riley break down what GLM 4.7 actually changes for messy, real world tasks and why “thinking modes” should not be wasted on beige tweets. They unpack Anthropic Agent Skills as a possible open standard, including supply chain risks, governance, and how skills can quietly go rogue. Then it is into Shopify’s AI discovery push, the slow death of traditional SEO, and why your catalog needs to speak fluent machine. Finally, they connect AI photo tools, agent stacks, and why taste stays human while automation handles the grind.]]></description>
+    <pubDate>Tue, 23 Dec 2025 19:02:38 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251223130050134+-+festivus_ai_grievances.mp3" length="3724056" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1766516558163</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251223130050134+-+festivus_ai_grievances-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
