@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 23 Dec 2025 19:02:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 19:50:00 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -673,6 +673,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251223130050134+-+festivus_ai_grievances.mp3" length="3724056" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1766516558163</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251223130050134+-+festivus_ai_grievances-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Google’s Answer Is Sponsored Now</title>
+    <description><![CDATA[Google is expanding ads inside AI Overviews and quietly rewriting how search works for creators, marketers, and ecommerce teams. The focus shifts from blue links to generated narratives where brands can rent a line in the answer layer. Learn how to think about measurement when impressions are vibes, design creative for Spark Deep Dive and Dialogue moments, and make your content machine legible so models quote your version of reality. Hear how to build automated pipelines for Product Studio image variants, enforce brand rules at scale, and protect yourself with creative chain of custody when platforms start policing synthetic media and animated product shots.]]></description>
+    <pubDate>Wed, 24 Dec 2025 19:50:00 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251224130050171+-+answer_is_sponsored.mp3" length="3709800" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1766605800108</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251224130050171+-+answer_is_sponsored-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
