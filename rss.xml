@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 24 Dec 2025 19:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 18:41:37 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -682,6 +682,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251224130050171+-+answer_is_sponsored.mp3" length="3709800" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1766605800108</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251224130050171+-+answer_is_sponsored-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>WAN 2.6, Ray 3, Pikaformance and the Video Arms Race</title>
+    <description><![CDATA[AI video tools are leveling up fast. Hunter and Riley break down how Higgsfield’s WAN 2.6 fits into the open source debate and what “actually open” means for creators who want control of their pipeline. They explain practical text to video workflows using storyboards and reference bibles to keep characters and environments consistent. Then they dig into Luma Ray 3 Modify for “shoot in post” ads, how to protect identity and brand, and where this breaks in the wild. Finally they cover Pikaformance, why lip sync and micro expressions matter for trust, and which repetitive jobs get automated first.]]></description>
+    <pubDate>Thu, 25 Dec 2025 18:41:37 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251225130053132+-+wan_ray3_pika_video.mp3" length="4330584" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1766688097651</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251225130053132+-+wan_ray3_pika_video-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
