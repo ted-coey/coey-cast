@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 25 Dec 2025 18:41:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 18:48:15 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -691,6 +691,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251225130053132+-+wan_ray3_pika_video.mp3" length="4330584" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1766688097651</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251225130053132+-+wan_ray3_pika_video-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Agents, Gen 4.5, and the Voice Bot Plot Twist</title>
+    <description><![CDATA[Google Gemini 3 Flash speeds up “agent” style workflows, so marketers can finally hand off campaign housekeeping and asset prep without risking budget chaos. NotebookLM grounding, Gems, and QA patterns help keep hallucinated claims out of decks and landing pages. Runway Gen 4.5 levels up realism for synthetic product b roll while Adobe integration pushes it deeper into existing pipelines. Fun Audio Chat comes in hot as an open source speech to speech model with function calling that makes voice agents cheaper and more flexible. Expect concrete use cases, guardrails, and where humans still matter.]]></description>
+    <pubDate>Fri, 26 Dec 2025 18:48:15 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251226130026159+-+agents_video_voice.mp3" length="4357872" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1766774895508</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251226130026159+-+agents_video_voice-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
