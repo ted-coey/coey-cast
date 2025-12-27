@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 26 Dec 2025 18:48:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 18:41:04 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -700,6 +700,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251226130026159+-+agents_video_voice.mp3" length="4357872" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1766774895508</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251226130026159+-+agents_video_voice-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Seedance vs Qwen vs Mercury: Who Runs Your Workflow</title>
+    <description><![CDATA[ByteDance Seedance 1.5 Pro is pushing synchronized audio and video that could delete whole layers of post production glue work while making localization way easier. Qwen 3 TTS Flash brings three second voice cloning and custom voice design, which forces real conversations about consent, brand voice registries, and synthetic characters instead of copying real people. Inception Labs Mercury tests diffusion style text generation for faster agents and real time personalization. Hunter and Riley break down what this means for editors, marketers, and media operators, how to guardrail voice cloning, and when to pick open, closed, or just call something a demo.]]></description>
+    <pubDate>Sat, 27 Dec 2025 18:41:04 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251227130054202+-+seedance_qwen_mercury.mp3" length="3748224" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1766860864673</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251227130054202+-+seedance_qwen_mercury-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
