@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 27 Dec 2025 18:41:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 21:23:59 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -709,6 +709,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251227130054202+-+seedance_qwen_mercury.mp3" length="3748224" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1766860864673</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251227130054202+-+seedance_qwen_mercury-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Grounded Vision: Molmo 2, Phi 3, and Reka Core</title>
+    <description><![CDATA[Multimodal models just leveled up from vibes to coordinates. This episode breaks down how Molmo 2, Phi 3 Vision, and Reka Core change creative workflows for marketers and media teams. Learn why grounding and timestamps make ad review and video search automation ready, and where they still fail hard. Get practical about open weights versus enterprise APIs, edge AI for field reps, and how to design creative compliance systems that mix models with deterministic checks and human review. Plus a reality check on AI meltdown moments in the wild and why your asset hygiene still matters more than your model choice.]]></description>
+    <pubDate>Sun, 28 Dec 2025 21:23:59 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251228130054141+-+grounded_vision_ai.mp3" length="3637824" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1766957039671</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251228130054141+-+grounded_vision_ai-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
