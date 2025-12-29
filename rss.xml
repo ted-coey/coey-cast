@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 28 Dec 2025 21:23:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 20:41:12 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -718,6 +718,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251228130054141+-+grounded_vision_ai.mp3" length="3637824" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1766957039671</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251228130054141+-+grounded_vision_ai-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Weights And Audio Spells</title>
+    <description><![CDATA[DeepSeek V3.2 open weights are lighting up X and creators are testing what “agents for the people” really looks like. This episode breaks down why open weights matter for campaign ops agents, where self hosting gets painful, and how to keep workflows portable instead of married to one vendor. It also covers HyperCLOVA X SEED Think for Korean and Japanese teams, with concrete guardrails for customer facing agents. Finally, it looks at Meta SAM Audio style separation for cleaning UGC, podcast rescue, and remixing without wrecking brand safety. The throughline is simple. Automation can run the boring middle layer, but humans still own taste and accountability.]]></description>
+    <pubDate>Mon, 29 Dec 2025 20:41:12 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251229130054149+-+open_weights_audio.mp3" length="3375432" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1767040872894</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251229130054149+-+open_weights_audio-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
