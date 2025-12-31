@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Mon, 29 Dec 2025 20:41:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 13:51:25 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -727,6 +727,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251229130054149+-+open_weights_audio.mp3" length="3375432" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1767040872894</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251229130054149+-+open_weights_audio-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>AI With Hands: Fara, Nemotron, and Chatterbox Turbo</title>
+    <description><![CDATA[Creators and marketers are staring down a new era of AI that can literally click, speak, and ship content at scale. This episode breaks down Microsoft Fara 7B for GUI automation, what it is good for, where it can wreck your ad account, and how to sandbox it with real guardrails. It also covers NVIDIA Nemotron 30B open source efficiency for cheaper copy and agents, plus Resemble AI Chatterbox Turbo for ultra low latency voice experiences. Hear how to blend local and cloud agents, keep humans in the loop, avoid “malware intern” chaos, and build workflows that feel magical instead of risky.]]></description>
+    <pubDate>Wed, 31 Dec 2025 13:51:25 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251230130054135+-+ai_with_hands.mp3" length="4015248" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1767189085763</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251230130054135+-+ai_with_hands-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
