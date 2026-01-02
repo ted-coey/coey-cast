@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 31 Dec 2025 13:51:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 20:56:46 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -736,6 +736,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251230130054135+-+ai_with_hands.mp3" length="4015248" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1767189085763</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251230130054135+-+ai_with_hands-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Weights Buffet: Qwen, Stable Audio, Gemini Voice</title>
+    <description><![CDATA[Qwen Image 2512 drops open weights and suddenly every marketer is rethinking product photos, text in image, and where designers actually sit in the workflow. This episode breaks down practical use cases like e-commerce imagery at scale, brand safe visual pipelines, and how to treat open models like cameras with receipts. Then it shifts to Stable Audio 2.0 for sonic branding, audio style guides, and keeping identity amid infinite variants. Finally it covers Gemini native audio, model swapability, and guardrails for real time voice agents. The focus stays on co-creating with models while humans handle taste, risk, and orchestration.]]></description>
+    <pubDate>Fri, 02 Jan 2026 20:56:46 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260102120517151+-+open_weights_buffet.mp3" length="4017432" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1767387406332</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260102120517151+-+open_weights_buffet-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
