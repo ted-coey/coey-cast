@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 02 Jan 2026 20:56:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 17:56:15 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -745,6 +745,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260102120517151+-+open_weights_buffet.mp3" length="4017432" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1767387406332</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260102120517151+-+open_weights_buffet-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Weights, Hidden Catches: GLM 4.7 and Friends</title>
+    <description><![CDATA[Open weight does not mean open season. This episode digs into Zhipu AI’s GLM 4.7 as an open weight coding powerhouse and why licensing, safety, and reliability still matter for real workflows. Get a clear breakdown of open source versus open weight, where the costs and risks actually land, and how marketers can use GLM 4.7 for content ops, campaign glue, and “marketing engineering.” Explore K EXAONE as a sovereign Mixture of Experts play, plus Alibaba’s Fun Audio Chat 8B for low latency, emotion aware voice experiences. Wrap with a practical stack for experimenting without locking your business to one model.]]></description>
+    <pubDate>Sat, 03 Jan 2026 17:56:15 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260103120517112+-+open_weights_hidden.mp3" length="4149408" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1767462975573</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260103120517112+-+open_weights_hidden-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
