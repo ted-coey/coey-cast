@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 03 Jan 2026 17:56:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 18:24:38 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -754,6 +754,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260103120517112+-+open_weights_hidden.mp3" length="4149408" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1767462975573</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260103120517112+-+open_weights_hidden-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Sora 2, Seedance, and the Battle for Video Workflows</title>
+    <description><![CDATA[Sora 2 physics are leveling up, but logos and hands are still the final boss for marketers who need object permanence and brand safety. Seedance 1.5 Pro collapses prompt to video and native audio into a single pass, raising new questions about localization, cadence, and creative review at scale. Kling Omni teases a unified video brain that can generate, edit, and reason across clips, which is powerful and also risky without independent checks. The conversation digs into open versus closed video stacks, how to avoid corporate oatmeal content, and why long scene coherence is best used for vibe rather than strict product truth.]]></description>
+    <pubDate>Sun, 04 Jan 2026 18:24:38 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260104120517124+-+sora2_seedance_kling.mp3" length="4208280" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1767551078458</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260104120517124+-+sora2_seedance_kling-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
