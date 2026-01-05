@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 04 Jan 2026 18:24:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 22:18:36 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -763,6 +763,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260104120517124+-+sora2_seedance_kling.mp3" length="4208280" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1767551078458</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260104120517124+-+sora2_seedance_kling-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>World Models, Car Chatbots, and Voice Commerce Chaos</title>
+    <description><![CDATA[NVIDIA teases Project Cosmos and the push toward physics aware world models that generate synthetic data for robots, warehouses, and digital twins. The conversation explores how this pattern can simulate workflows for retail, marketing, and CX, plus why validation loops matter more than hype. Then it dives into in car AI with Step Audio 2, emotional voice presence, and what it takes to embed low latency assistants without melting your hardware or your users trust. Finally it breaks down SoundHound style agentic voice commerce, payment and identity risks, and how to design consent based voice funnels that help instead of manipulate.]]></description>
+    <pubDate>Mon, 05 Jan 2026 22:18:36 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260105154153143+-+world_models_car_ai.mp3" length="3561120" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1767651516931</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260105154153143+-+world_models_car_ai-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
