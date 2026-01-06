@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Mon, 05 Jan 2026 22:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 19:49:54 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -772,6 +772,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260105154153143+-+world_models_car_ai.mp3" length="3561120" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1767651516931</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260105154153143+-+world_models_car_ai-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>CES 2026: Local AI, RTX Pipelines, and Karaoke Chaos</title>
+    <description><![CDATA[Creators and marketers are staring down a new reality at CES 2026 where AI moves from the cloud to your laptop and even your speaker. This episode breaks down Liquid AI’s LFM 2.5 open weight models, NVIDIA’s RTX AI Garage for local creator pipelines, and LG xBOOM AI Karaoke Master as a blueprint for experiential content and UGC remix booths. Hear how on device agents change transcription, brand safety, and personalization, why version control beats vibes, and where LoRA governance and music rights get messy. The focus stays on hybrid workflows that mix speed, privacy, and iteration with approvals, truth packs, and human taste.]]></description>
+    <pubDate>Tue, 06 Jan 2026 19:49:54 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260106135052140+-+ces_2026_local_ai.mp3" length="4183200" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1767728994606</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260106135052140+-+ces_2026_local_ai-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
