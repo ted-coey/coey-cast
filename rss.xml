@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 07 Jan 2026 21:20:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 22:15:52 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -790,6 +790,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260107152324124+-+ces_2026_open_stacks.mp3" length="4603080" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1767820817898</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260107152324124+-+ces_2026_open_stacks-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>CES 2026: When AI Agents Start To Do, Not Just Chat</title>
+    <description><![CDATA[CES 2026 puts agentic AI everywhere from Boston Dynamics Atlas doing Gemini powered physical tasks to Lenovo Qira living across your devices to IAS Agent reshaping media ops. This episode breaks down what is real autonomy versus cinematic choreography, how to spot PR smoke and mirrors, and where open source robotics gets risky. Hear how on device personal agents will collide with workplace governance, why prompt injection is a ticking time bomb, and how ad tech agents will compress junior roles. Plus AI yearbook glow ups, gamified evals, and why the real upside is removing grind so humans keep creative control.]]></description>
+    <pubDate>Thu, 08 Jan 2026 22:15:52 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260108161504179+-+ces_2026_ai_agents.mp3" length="4050984" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1767910552687</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260108161504179+-+ces_2026_ai_agents-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
