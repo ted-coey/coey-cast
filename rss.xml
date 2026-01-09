@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 08 Jan 2026 22:15:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 22:30:39 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -799,6 +799,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260108161504179+-+ces_2026_ai_agents.mp3" length="4050984" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1767910552687</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260108161504179+-+ces_2026_ai_agents-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>CES 2026: AI Everywhere From Living Room Veo to Video Brains</title>
+    <description><![CDATA[CES 2026 put AI into everything from your TV to your earbuds. This episode breaks down Google Veo 3 on Google TV and what couch based text and voice to video really means for brand teams and creators. It covers open source friendly video stacks for teams that want control instead of closed ecosystems. It looks at StreamUnlimited Voice LLM integrations and what it takes to ship safe branded assistants in hardware. It explains Nexa Hyperlink and why semantic video search might matter more than raw generation for marketers. It all comes back to automation that keeps humans in the loop and workflows moving faster.]]></description>
+    <pubDate>Fri, 09 Jan 2026 22:30:39 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260109161515166+-+ces_2026_ai_everywhere.mp3" length="3893880" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1767997839046</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260109161515166+-+ces_2026_ai_everywhere-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
