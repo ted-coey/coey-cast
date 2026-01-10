@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 09 Jan 2026 22:30:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 21:56:34 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -808,6 +808,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260109161515166+-+ces_2026_ai_everywhere.mp3" length="3893880" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1767997839046</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260109161515166+-+ces_2026_ai_everywhere-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>CES 2026: Safer Agents, Spicier Audio, and the AI DJ Wars</title>
+    <description><![CDATA[Anthropic’s next generation constitutional classifiers promise fewer jailbreaks and fewer bogus refusals by layering interpretability probes with smarter safety filters. Claude Code 2.1 pushes deeper into agent style background tasks inside developer and operator workflows, along with the reliability risks that come with autonomous CLIs. OpenAI’s upgraded speech stack improves transcription and speech to speech for creators while still needing human review for high stakes content. The emerging music AI arms race featuring tools like NVIDIA Music Flamingo and ElevenLabs music points to custom campaign soundtracks, new brand audio guidelines, and fresh legal headaches around provenance and licensing. Learn how to design workflows where agents help without wrecking production.]]></description>
+    <pubDate>Sat, 10 Jan 2026 21:56:34 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260110161555139+-+ces_2026_ai_audio.mp3" length="4369704" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1768082194966</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260110161555139+-+ces_2026_ai_audio-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
