@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 10 Jan 2026 21:56:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 22:12:11 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -817,6 +817,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260110161555139+-+ces_2026_ai_audio.mp3" length="4369704" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1768082194966</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260110161555139+-+ces_2026_ai_audio-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Weights, Fast Voices, and Emotional Audio Agents</title>
+    <description><![CDATA[OLMo 3, Nemotron Speech, and Fun-Audio-Chat are pushing three very different ideas of what “open” and “real-time” actually mean for creators. This episode breaks down how end-to-end transparency, dataset lineage, and reasoning traces affect trust and control for teams building with open models. It explains where preference optimization helps brand voice and where it turns into pure vibes. Then it digs into sub 24 millisecond speech, speech-to-speech agents, and why tone and pacing matter for brand experiences, live creators, and compliance teams trying to avoid voice spam overload.]]></description>
+    <pubDate>Sun, 11 Jan 2026 22:12:11 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260111161543131+-+open_voice_agents.mp3" length="3844488" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1768169531513</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260111161543131+-+open_voice_agents-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
