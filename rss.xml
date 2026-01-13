@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 11 Jan 2026 22:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 00:23:37 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -826,6 +826,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260111161543131+-+open_voice_agents.mp3" length="3844488" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1768169531513</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260111161543131+-+open_voice_agents-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Claude Goes Vertical Claude Health Claude Cowork and Siri’s Gemini Glow Up</title>
+    <description><![CDATA[Anthropic is rolling out Claude Health and Claude Cowork and kicking off the era of vertical AI agents. This episode breaks down what “privacy first” actually needs to mean for healthcare workflows, where open source fits without becoming a rogue diagnosis engine, and why insurance and messy medical records are the first things to break. Then it shifts to office agents, Cowork style products, and why tiny scoped agents beat fragile “agent armies.” Finally it looks at Apple and Google Gemini rumors and how assistant powered search will change marketing, content ops, and the way brands get discovered.]]></description>
+    <pubDate>Tue, 13 Jan 2026 00:23:37 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260112161543139+-+claude_vertical_wave.mp3" length="4118952" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1768263817326</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260112161543139+-+claude_vertical_wave-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
