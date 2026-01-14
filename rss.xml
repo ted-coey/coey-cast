@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 13 Jan 2026 00:23:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 02:56:35 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -835,6 +835,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260112161543139+-+claude_vertical_wave.mp3" length="4118952" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1768263817326</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260112161543139+-+claude_vertical_wave-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Playable Funnels, Pocket Voices, and Models That Remember Everything</title>
+    <description><![CDATA[Google DeepMind’s Genie 3, Kyutai’s Pocket TTS, and Sakana’s DroPE are reshaping how content gets made and deployed. Hear what world models mean for interactive marketing experiences that behave more like games than landing pages, including guardrails and security risks. Learn how five second voice cloning on CPU rewires voiceover workflows, A B testing, and brand trust. Get a plain English breakdown of DroPE and why longer context matters for brand bibles, legal, and agents. Useful for creators, marketers, and operators building automation powered content stacks.]]></description>
+    <pubDate>Wed, 14 Jan 2026 02:56:35 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260113161543136+-+playable_talkable_ai.mp3" length="3956448" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1768359395180</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260113161543136+-+playable_talkable_ai-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
