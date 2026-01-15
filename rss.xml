@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 14 Jan 2026 02:56:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 00:31:03 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -844,6 +844,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260113161543136+-+playable_talkable_ai.mp3" length="3956448" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1768359395180</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260113161543136+-+playable_talkable_ai-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Source Agents, Heavy Thinking, and Voice Clones Gone Wild</title>
+    <description><![CDATA[Meituan drops its open source LongCat-Flash-Thinking-2601 reasoning agent and the internet yells “thinking is solved.” This episode breaks down what that actually means for creators and marketing teams, from Heavy Thinking Mode to million token context and why you still need retrieval and guardrails. Then it is OpenAI’s GPT 5.2 Codex sliding into the Responses API and what that unlocks for safe coding automations. Finally, Alibaba Tongyi’s open voice model family and how to build voice pipelines without summoning a PR crisis. Expect real talk on agents, governance, workflows, and why beige soup content is the final boss.]]></description>
+    <pubDate>Thu, 15 Jan 2026 00:31:03 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260114161543146+-+open_agents_voice_clones.mp3" length="4336944" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1768437063810</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260114161543146+-+open_agents_voice_clones-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
