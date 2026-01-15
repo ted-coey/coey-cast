@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 15 Jan 2026 00:31:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 22:51:05 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -853,6 +853,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260114161543146+-+open_agents_voice_clones.mp3" length="4336944" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1768437063810</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260114161543146+-+open_agents_voice_clones-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>GLM-Image Can Finally Spell: Open Source Posters for Real Brands</title>
+    <description><![CDATA[GLM-Image from Zhipu is an open source image model built to handle posters, slides, and infographics where text accuracy actually matters. Hunter and Riley break down how its hybrid architecture aims to fix cursed typography, what to stress test before trusting it with paid campaigns, and how to slot it into a prompt to poster pipeline that still ends in Figma. They also dig into Yuan 3.0 Flash and token efficiency, OpenAI’s agent powered marketing stacks and permissions, and the legal reality of using open weights in brand workflows so teams can automate creative safely without losing control.]]></description>
+    <pubDate>Thu, 15 Jan 2026 22:51:05 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260115161539141+-+glm_image_spells.mp3" length="4222128" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1768517465009</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260115161539141+-+glm_image_spells-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
