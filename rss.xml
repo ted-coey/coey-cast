@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 15 Jan 2026 22:51:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 22:04:58 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -862,6 +862,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260115161539141+-+glm_image_spells.mp3" length="4222128" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1768517465009</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260115161539141+-+glm_image_spells-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Claude 3.5, SAM Audio, and Step-Audio R1.1 Walk Into a Studio</title>
+    <description><![CDATA[Claude 3.5 Sonnet, SAM Audio, and Step-Audio-R1.1 just changed the audio and agent game at the same time. This episode breaks down why “insanely fast” models expose weak links in your stack, how to keep agent workflows from melting your budget, and where humans still own taste and accountability. Get into promptable audio surgery with SAM Audio, local audio reasoning with Step-Audio-R1.1 open weights, and what this means for podcast editing, ads, and brand safety. Expect concrete workflow ideas for creators and marketers, from voice-of-customer analysis to ad remixing, plus how to automate the grind without automating people.]]></description>
+    <pubDate>Fri, 16 Jan 2026 22:04:58 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260116161539165+-+claude_sam_step_audio.mp3" length="3378960" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1768601098720</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260116161539165+-+claude_sam_step_audio-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
