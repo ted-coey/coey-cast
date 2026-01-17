@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 16 Jan 2026 22:04:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 21:53:58 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -871,6 +871,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260116161539165+-+claude_sam_step_audio.mp3" length="3378960" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1768601098720</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260116161539165+-+claude_sam_step_audio-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Pay To Chat and Multimodal Mayhem: GPT Go, Qwen and TranslateGemma</title>
+    <description><![CDATA[ChatGPT Go adds a cheaper tier with GPT 5.2 Instant, higher limits, image gen and file uploads while OpenAI quietly tests sponsored answers inside chat. Learn what assistant native ads might look like, how to keep answers sacred, and how marketers can build structured truth packs instead of spam. Then dive into Alibaba’s Qwen3 VL Embedding and Reranker for multimodal retrieval across screenshots, video frames and brand assets. Finally, explore TranslateGemma for local offline translation, where it fits in global content pipelines and where human review still has to own the final word.]]></description>
+    <pubDate>Sat, 17 Jan 2026 21:53:58 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260117161539143+-+pay_to_chat_qwen.mp3" length="4094184" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1768686838183</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260117161539143+-+pay_to_chat_qwen-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
