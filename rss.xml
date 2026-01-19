@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 18 Jan 2026 22:39:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 21:39:27 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -889,6 +889,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260118161539175+-+pipelines_not_tricks.mp3" length="3569184" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1768775945926</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260118161539175+-+pipelines_not_tricks-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>GLM 4.7 Flash: Open Weights, Local Dreams, Real Constraints</title>
+    <description><![CDATA[Zhipu’s GLM 4.7 Flash drops with open weights and big claims about local and edge friendly workflows. This episode breaks down what Mixture of Experts and MLA attention actually mean for VRAM, context windows, and running agents at home without becoming a full time inference engineer. Hear how agentic coding fits into real human in the loop workflows, where SWE Bench hype meets production reality, and why review beats raw generation in AI audio and video. Plus a quick dive on Google’s AI Mode Direct Offers, Universal Commerce Protocol, and why product feeds and schema are now creative assets for performance marketers.]]></description>
+    <pubDate>Mon, 19 Jan 2026 21:39:27 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260119161539143+-+glm_47_flash_local.mp3" length="3348744" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1768858767787</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260119161539143+-+glm_47_flash_local-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
