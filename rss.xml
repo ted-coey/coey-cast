@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Mon, 19 Jan 2026 21:39:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 22:37:44 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -898,6 +898,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260119161539143+-+glm_47_flash_local.mp3" length="3348744" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1768858767787</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260119161539143+-+glm_47_flash_local-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Your Voice Is The Timeline: Open Audio AI for Video and Music</title>
+    <description><![CDATA[Audio is turning into the control surface for modern media. This episode breaks down LTXStudio’s audio-first video workflow, from voice led editing to multi character lip sync and beat driven pacing. Hear how marketers can script sound first to test multiple visual directions without reshooting. Explore Chroma 1.0 as an open source real time speech to speech layer, what it unlocks for voice agents, and where ethics and consent must show up. Then dive into HeartMuLa as an open music generator wired into ComfyUI and how custom music beds shift content marketing. The core theme is simple: audio craft is becoming your creative direction.]]></description>
+    <pubDate>Wed, 21 Jan 2026 22:37:44 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260121161539135+-+your_voice_timeline.mp3" length="4113240" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1769035064063</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260121161539135+-+your_voice_timeline-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
