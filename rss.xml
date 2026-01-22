@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 21 Jan 2026 22:37:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 22:58:47 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -907,6 +907,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260121161539135+-+your_voice_timeline.mp3" length="4113240" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1769035064063</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260121161539135+-+your_voice_timeline-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>AI Influencers, Oracle Gemini, and the Fight for Workflow Control</title>
+    <description><![CDATA[AI influencers are moving from novelty to virtual-talent factories. Higgsfield’s Influencer Studio turns static images into controlled motion avatars, then layers on Higgsfield Earn so synthetic humans can perform like media assets with payout mechanics. This episode digs into brand safety, disclosure, and how context collapse can turn polished avatars into empathy theater. Then it zooms out to Oracle bringing Google Gemini models to OCI and what that means for governance-heavy teams. Finally it breaks down StoryChief’s AI Canvas and the shift from one-off generators to real campaign operating systems with approvals, audit trails, and policy baked into creative workflows.]]></description>
+    <pubDate>Thu, 22 Jan 2026 22:58:47 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260122161539160+-+ai_influencer_hub.mp3" length="3270048" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1769122727100</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260122161539160+-+ai_influencer_hub-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
