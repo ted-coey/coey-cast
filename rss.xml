@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 22 Jan 2026 22:58:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 21:39:32 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -916,6 +916,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260122161539160+-+ai_influencer_hub.mp3" length="3270048" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1769122727100</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260122161539160+-+ai_influencer_hub-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Infinite Variants or Infinite Avoidance with Runway Gen 4.5</title>
+    <description><![CDATA[Runway Gen 4.5 makes the jump from cool demo to real workflow with better motion, character consistency, and product readable shots that actually work in ad pipelines. The conversation digs into where infinite variants become smart testing versus pure avoidance, and why creative direction needs real constraints and a motion bible to avoid same face cinematic sludge. The episode breaks down LTX Studio audio to video, lip sync pain points, and why audio becomes the control layer for script to voice to video workflows. It closes on Heart MuLa open source music, copyright landmines, and how to build ad factories without losing taste, trust, or meaning.]]></description>
+    <pubDate>Fri, 23 Jan 2026 21:39:32 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260123161539150+-+infinite_variants_ep.mp3" length="3152184" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1769204372615</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260123161539150+-+infinite_variants_ep-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
