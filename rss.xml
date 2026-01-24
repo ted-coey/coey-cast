@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 23 Jan 2026 21:39:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 23:26:53 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -925,6 +925,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260123161539150+-+infinite_variants_ep.mp3" length="3152184" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1769204372615</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260123161539150+-+infinite_variants_ep-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Source Voices and Search That Knows Your Email</title>
+    <description><![CDATA[Alibaba’s open source Qwen 3 TTS is pushing text to speech into a new era of local, multilingual, low latency voice pipelines with spicy zero shot cloning. Hear what this means for creators, media teams, and agencies trying to balance consent, disclosure, and scale. Then dive into Google’s Gemini powered Search AI Mode and what personalized answers do to SEO, discovery, and shared reality. Finally, Anthropic’s Claude Opus 4.5 aces an AI resistant hiring exam, forcing teams to rethink how they measure skill, judgment, and tool use in a world where everyone can generate and only taste really differentiates.]]></description>
+    <pubDate>Sat, 24 Jan 2026 23:26:53 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260124161539163+-+open_source_voices.mp3" length="3808680" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1769297213681</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260124161539163+-+open_source_voices-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
