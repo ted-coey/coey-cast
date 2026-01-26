@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 24 Jan 2026 23:26:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 21:06:56 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -934,6 +934,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260124161539163+-+open_source_voices.mp3" length="3808680" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1769297213681</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260124161539163+-+open_source_voices-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Gemini 3 Ultra, Agent OS, and the War on Cinematic Sludge</title>
+    <description><![CDATA[Gemini 3.0 Ultra is promising analysis of up to one hundred hours of video per prompt, and that shift could rewrite how marketers and media teams mine their archives. This episode breaks down real workflows for webinar libraries, podcast backlogs, and brand consistency using multimodal analysis. Hunter and Riley dig into where models still fail on nuance and attribution, and why governance, receipts, and routing matter more than hype. They unpack Meta’s rumored Manus AI acquisition, agent operating systems, and why boring approvals are the killer agent use case. Finally, they cover Linum v2 and LTX 2 Pro, local text to video, audio to video storytelling, and how to avoid cinematic sludge while scaling human plus machine co-creation.]]></description>
+    <pubDate>Mon, 26 Jan 2026 21:06:56 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260126134041130+-+gemini_agents_video.mp3" length="4281936" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1769461616378</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260126134041130+-+gemini_agents_video-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
