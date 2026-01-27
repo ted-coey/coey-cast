@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Mon, 26 Jan 2026 21:06:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 19:28:31 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -943,6 +943,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260126134041130+-+gemini_agents_video.mp3" length="4281936" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1769461616378</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260126134041130+-+gemini_agents_video-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Moltbot Mayhem and the Open Source Agent Identity Crisis</title>
+    <description><![CDATA[Moltbot formerly known as Clawdbot is the latest open source automation agent obsession and it hits every nerve in the AI world. The conversation breaks down what Moltbot actually does as an orchestration and connector layer why “chat with hands” matters for real workflows and where the risk line really is once you let an agent touch inboxes calendars and automation hooks. It also unpacks the Anthropic naming clash how a fast rebrand spawned scams on X and GitHub and what creators and operators should learn about identity hygiene approvals and least privilege when shipping agents into production.]]></description>
+    <pubDate>Tue, 27 Jan 2026 19:28:31 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260127140550951+-+moltbot_open_agents.mp3" length="3352584" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1769542111689</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260127140550951+-+moltbot_open_agents-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
