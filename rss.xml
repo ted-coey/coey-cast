@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 27 Jan 2026 19:28:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 02:18:37 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -952,6 +952,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260127140550951+-+moltbot_open_agents.mp3" length="3352584" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1769542111689</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260127140550951+-+moltbot_open_agents-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Real Time, Long Form, Big Brains Qwen Lucy and CraftStory</title>
+    <description><![CDATA[Qwen3-Max-Thinking, Lucy 2.0, and CraftStory are all chasing the same prize control. This episode unpacks the Qwen3-Max-Thinking hype around Humanity’s Last Exam and explains why test-time scaling, tool use, and “open” claims often blur into configuration theater. Then it breaks down what real-time generative video like Lucy 2.0 actually unlocks for live campaigns, and why spatial precision and brand safety are non negotiable. Finally, it covers CraftStory’s five minute image-to-video with actor consistency, identity drift, and why storyboards become specs not relics. The throughline human intent plus automation, least privilege for tools, and creative constraints as the real power move.]]></description>
+    <pubDate>Thu, 29 Jan 2026 02:18:37 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260128201819160+-+qwen_lucy_craftstory.mp3" length="3903936" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1769653117923</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260128201819160+-+qwen_lucy_craftstory-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
