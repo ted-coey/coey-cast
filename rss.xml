@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 29 Jan 2026 17:38:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 01:36:05 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -970,6 +970,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260129120531208+-+trinity_voice_vision.mp3" length="3261984" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1769708339144</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260129120531208+-+trinity_voice_vision-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Kling vs Vidu vs Mureka: Coherent Chaos in AI Video and Audio</title>
+    <description><![CDATA[Kling 3.0, Vidu Q3, and the latest in AI audio are all racing to power one prompt full ads. This episode breaks down what real coherence in AI video looks like, why cut points expose character drift, and how reference elements turn storyboards into specs. Get a practical look at Vidu Q3’s one pass video plus audio promise and why over polished sound still fails without strong scripts and pacing. Then dive into Mureka V8 and VARCO SOUND for multi track, editor friendly music workflows. Throughout, learn how to design human plus machine pipelines that prioritize control, accountability, and real brand safety over shiny demos.]]></description>
+    <pubDate>Tue, 03 Feb 2026 01:36:05 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260202120531139+-+kling_vidu_mureka_ep.mp3" length="3918000" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1770082565399</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260202120531139+-+kling_vidu_mureka_ep-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
