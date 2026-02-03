@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 03 Feb 2026 01:36:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 19:45:45 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -979,6 +979,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260202120531139+-+kling_vidu_mureka_ep.mp3" length="3918000" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1770082565399</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260202120531139+-+kling_vidu_mureka_ep-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Agents, Ads, and AI Anthems: MCP, Nafy, and vLLM Unpacked</title>
+    <description><![CDATA[Amazon Ads is testing MCP as a USB C style connector for AI agents, and marketers are rethinking how much autonomy to hand over to automated workflows. Hear how MCP could run real campaign loops, where to draw the line on write access, and why approvals, audit trails, and kill switches matter. Explore Nafy AI’s all in one music generation and why brands need a sonic style guide to avoid sounding generic. Then get into vLLM’s latest release and how faster, cheaper self hosted model serving changes always on agents, costs, and control for serious operators.]]></description>
+    <pubDate>Tue, 03 Feb 2026 19:45:45 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260203120531141+-+agents_ads_ai_anthems.mp3" length="4059576" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1770147945465</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260203120531141+-+agents_ads_ai_anthems-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
