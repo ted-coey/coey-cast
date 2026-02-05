@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 03 Feb 2026 19:45:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 18:30:30 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -988,6 +988,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260203120531141+-+agents_ads_ai_anthems.mp3" length="4059576" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1770147945465</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260203120531141+-+agents_ads_ai_anthems-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Long Context, Loud Opinions: AI Agents Hit Their Messy Era</title>
+    <description><![CDATA[Long context is finally usable, but that does not mean “paste your whole Notion.” This episode breaks down StepFun AI Step 3.5 Flash and why giant context windows still fail without structure. Learn how to design a brand constitution and job packets so agents stay on voice and on policy. Get a simple way to use multi model research like Perplexity Model Council for safer claims and spicier creative angles. Then zoom out to price per task with Abacus AI LiveBench and why contamination free benchmarks and acceptance tests matter more than leaderboard flexing for real marketing and creator workflows.]]></description>
+    <pubDate>Thu, 05 Feb 2026 18:30:30 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260205120531157+-+long_context_era.mp3" length="3312696" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1770316230469</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260205120531157+-+long_context_era-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
