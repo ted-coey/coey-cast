@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 05 Feb 2026 18:30:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 20:39:50 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -997,6 +997,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260205120531157+-+long_context_era.mp3" length="3312696" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1770316230469</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260205120531157+-+long_context_era-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Your AI Intern Just Got Promoted to Staff Engineer</title>
+    <description><![CDATA[GPT 5.3 Codex is being pitched as a true agentic coding upgrade that can maintain the glue work behind modern marketing systems. Hear how mid task steering, constraints, and approvals shift agents from autocomplete toys into reliable automation for content pipelines and analytics scripts. Learn why permissioning and tool connectors matter more than raw benchmarks, and how to measure real impact with uptime and experiment velocity. Then dive into the audio stack glow up with Ace Step music generation, Sarvam Audio for Indian language speech, and Lalal Andromeda stem separation, plus concrete ways creators and marketing teams can turn these models into scalable workflows.]]></description>
+    <pubDate>Fri, 06 Feb 2026 20:39:50 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260206120529123+-+ai_intern_promotion.mp3" length="4068408" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1770410390418</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260206120529123+-+ai_intern_promotion-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
