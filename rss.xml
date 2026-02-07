@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 06 Feb 2026 20:39:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 21:21:23 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1006,6 +1006,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260206120529123+-+ai_intern_promotion.mp3" length="4068408" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1770410390418</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260206120529123+-+ai_intern_promotion-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Unlimited Firefly, Seedance 2.0, and Frontier’s AI Coworkers</title>
+    <description><![CDATA[ByteDance Seedance 2.0, Adobe Firefly unlimited generations, and OpenAI Frontier are all attacking the same thing: faster content and tighter control. Hunter and Riley break down how Seedance inside CapCut could turn short form creators into motion studios, where open source video really stands today, and why “generate a stack of moments” beats one click ads. They unpack Firefly’s unlimited window, what it means for iteration, abuse cases like seasonal reskins, and the risk of beige brand sameness. Finally, they dig into Frontier as an agent control plane, the rise of AI coworkers, and why taste, review gates, and brand stewardship matter more than ever.]]></description>
+    <pubDate>Sat, 07 Feb 2026 21:21:23 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260207120529138+-+unlimited_seedance.mp3" length="4194168" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1770499283044</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260207120529138+-+unlimited_seedance-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
