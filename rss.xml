@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 07 Feb 2026 21:21:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 21:58:58 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1015,6 +1015,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260207120529138+-+unlimited_seedance.mp3" length="4194168" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1770499283044</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260207120529138+-+unlimited_seedance-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>ChatGPT Ads, DeepSeek Agents, and Meta’s Infinite Creative Chaos</title>
+    <description><![CDATA[ChatGPT is officially an ad surface now, and that changes how marketers think about intent, recommendation, and trust. This episode breaks down what good ChatGPT ads should look like, how to measure performance inside a conversation, and why “assistant friendly truth” is the new SEO. Then it zooms out to DeepSeek V3.2 and agent workflows you can actually trust, plus Meta’s Andromeda and Lattice shifts that push infinite ad creative and faster optimization. Hear how to avoid internal ad creep in your own assistants, prevent platform lock in with better evaluation, and design workflows where humans set intent and machines handle the grind.]]></description>
+    <pubDate>Sun, 08 Feb 2026 21:58:58 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260208120529155+-+chatgpt_ads_meta_chaos.mp3" length="3556656" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1770587938901</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260208120529155+-+chatgpt_ads_meta_chaos-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
