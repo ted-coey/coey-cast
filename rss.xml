@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 08 Feb 2026 21:58:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 03:29:41 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1024,6 +1024,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260208120529155+-+chatgpt_ads_meta_chaos.mp3" length="3556656" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1770587938901</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260208120529155+-+chatgpt_ads_meta_chaos-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Kling 3, Gemini 3, and Genie 3 Walk Into Your Workflow</title>
+    <description><![CDATA[Kling 3.0 is pushing AI video from one-off clips to true multi-shot sequences with subject consistency that actually survives the edit. This episode breaks down how marketers can use it for shippable previs, faster storyboards, and compliance friendly variations without reshooting everything. Then it shifts to Google Gemini 3 as the new default assistant and how to stop it from turning your brand voice into generic sludge. There is also a look at Genie 3 and explorable ad worlds, regional voice wins like Bulbul V3 for India, and ElevenLabs Skills powering voice agents. The throughline is simple. The tech is wild. The real leverage is turning it into repeatable, human in the loop workflows.]]></description>
+    <pubDate>Tue, 10 Feb 2026 03:29:41 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260209120529172+-+kling_gemini_genie_3.mp3" length="3742824" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1770694181868</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260209120529172+-+kling_gemini_genie_3-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
