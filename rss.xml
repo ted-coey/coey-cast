@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 10 Feb 2026 03:29:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 03:27:54 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1033,6 +1033,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260209120529172+-+kling_gemini_genie_3.mp3" length="3742824" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1770694181868</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260209120529172+-+kling_gemini_genie_3-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Free Brains, Video Factories, and Audio on Rails</title>
+    <description><![CDATA[Aurora Alpha, Runway Gen 4.5, and AudioControlNet show how the AI stack is splitting into three lanes at once. Get practical about using mystery free models for coding without leaking your strategy, and how to treat new tools like a staging environment instead of production. Learn where Runway’s storyboard panels actually fit in a real creative pipeline, plus the review gates needed before AI video hits paid spend. Then dive into AudioControlNet and why time aligned audio generation changes ad variants and sonic branding. Clear tactics, not hype, for creators and marketers wiring AI into daily workflows.]]></description>
+    <pubDate>Wed, 11 Feb 2026 03:27:54 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260210120529182+-+free_brains_ai_stack.mp3" length="3957096" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1770780474329</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260210120529182+-+free_brains_ai_stack-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
