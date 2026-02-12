@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 11 Feb 2026 03:27:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 03:25:59 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1042,6 +1042,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260210120529182+-+free_brains_ai_stack.mp3" length="3957096" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1770780474329</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260210120529182+-+free_brains_ai_stack-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open-ish Models, Closed Wallets: Gemma 3, Llama 5, and Sarvam</title>
+    <description><![CDATA[Google Gemma 3 lands in everyone’s stack and suddenly “open weights” is the main character. Hunter and Riley unpack what open actually buys creators and marketers, how to use long context as a bigger whiteboard instead of a hallucination machine, and when small models are perfect for low risk, high volume content. They break down Gemma 3 on Together AI, the Llama 5 Avocado leak chatter around ultra cheap text, and why taste plus distribution becomes the real moat. Then they dig into Sarvam’s Saaras V3 ASR, Bulbul V3 TTS, and Vision OCR for real workflows in Indian languages, from call analytics to localized voice agents.]]></description>
+    <pubDate>Thu, 12 Feb 2026 03:25:59 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260211120529132+-+open_models_stack.mp3" length="4133520" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1770866759586</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260211120529132+-+open_models_stack-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
