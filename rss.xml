@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 12 Feb 2026 03:25:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 03:26:34 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1051,6 +1051,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260211120529132+-+open_models_stack.mp3" length="4133520" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1770866759586</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260211120529132+-+open_models_stack-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Weights, AI Ads, and Infinite Creative: Who Actually Wins?</title>
+    <description><![CDATA[GLM 5, Emu 3.5 Image, and Google’s AI Mode for shopping collide in one very stacked news cycle. Hunter and Riley break down how to judge new open weight models beyond hype screenshots, what “agent native” really looks like in a production workflow, and where the liability traps hide. They dig into Emu 3.5 Image for in-house creative factories, including typography pitfalls and smart templated workflows. Then they unpack Google Ads conversational AI Mode and Veo 3 inside Asset Studio, and what it means for feeds, creative testing, and brands that are operationally sharp. The thread across it all is human intent plus machine throughput.]]></description>
+    <pubDate>Fri, 13 Feb 2026 03:26:34 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260212120529151+-+open_weights_ai_ads.mp3" length="3572160" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1770953194047</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260212120529151+-+open_weights_ai_ads-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
