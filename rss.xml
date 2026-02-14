@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 13 Feb 2026 03:26:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 03:28:07 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1060,6 +1060,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260212120529151+-+open_weights_ai_ads.mp3" length="3572160" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1770953194047</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260212120529151+-+open_weights_ai_ads-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Deep Think, Codex Spark, and UniAudio 2 in Real Workflows</title>
+    <description><![CDATA[Google DeepMind’s Gemini 3 Deep Think, OpenAI’s GPT 5.3 Codex Spark, and UniAudio 2.0 all dropped with big promises about reasoning, speed, and unified audio. This episode breaks down what those claims actually mean for real teams shipping campaigns and products. Learn how to test “real” reasoning, when to pay for closed frontier models versus lean on open weights, and how to build a role based control plane that survives model churn. Get practical patterns for safe agentic coding, campaign instrumentation, and multilingual audio that does not cross the deepfake line.]]></description>
+    <pubDate>Sat, 14 Feb 2026 03:28:07 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260213120529184+-+deep_think_spark_audio.mp3" length="3920616" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771039687315</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260213120529184+-+deep_think_spark_audio-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
