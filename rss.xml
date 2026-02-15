@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 14 Feb 2026 03:28:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 03:28:42 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1069,6 +1069,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260213120529184+-+deep_think_spark_audio.mp3" length="3920616" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771039687315</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260213120529184+-+deep_think_spark_audio-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Quad-Modal Hotdogs and Copyright Landmines with Seed 2.0</title>
+    <description><![CDATA[ByteDance drops Seed 2.0 and Seedance 2.0 and everyone starts rethinking multimodal workflows and legal risk. Hunter and Riley dig into what “quad-modal” really means for creators running text image audio and video through one model and how ultra cheap tokens change the economics of content meat grinders in a good way. They unpack the Disney cease and desist energy around AI video likeness and IP plus Ant Group’s open source Ming-Flash-Omni for unified audio and AssemblyAI’s steerable transcription. The focus stays on automation as an intern tiering risk with critics and guardrails while humans own taste brand and compliance.]]></description>
+    <pubDate>Sun, 15 Feb 2026 03:28:42 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260214120529166+-+seed_2_quad_modal.mp3" length="4538304" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771126122269</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260214120529166+-+seed_2_quad_modal-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
