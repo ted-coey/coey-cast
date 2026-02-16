@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 15 Feb 2026 03:28:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 03:29:21 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1078,6 +1078,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260214120529166+-+seed_2_quad_modal.mp3" length="4538304" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771126122269</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260214120529166+-+seed_2_quad_modal-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Source, Walled Gardens, and the Haunted Creative Factory</title>
+    <description><![CDATA[Open AI models keep getting better, but the real plot twist is infrastructure. This episode breaks down Qwen Image 2.0 and why pairing it with Zvec matters for search, reuse, and brand safety. Seedream 5.0 Lite brings fast, visual reasoning inside ByteDance tools and what that means for creators living in CapCut. FoundationVision Alive adds local video plus audio and raises new questions about privacy, shadow IT, and governance. Learn how small teams can build a minimum viable asset stack, where open source shines, when closed platforms win, and which marketing tasks get automated first while humans still own taste, intent, and risk.]]></description>
+    <pubDate>Mon, 16 Feb 2026 03:29:21 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260215120529161+-+open_vs_walled_stack.mp3" length="4193376" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771212561953</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260215120529161+-+open_vs_walled_stack-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
