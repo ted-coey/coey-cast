@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Mon, 16 Feb 2026 03:29:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 03:29:39 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1087,6 +1087,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260215120529161+-+open_vs_walled_stack.mp3" length="4193376" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771212561953</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260215120529161+-+open_vs_walled_stack-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Weights, Tiny Speedsters, and Vertical Brains for Marketers</title>
+    <description><![CDATA[Alibaba’s Qwen3.5-397B-A17B is out with open weights, Apache 2.0, multilingual chops, and lots of agent talk. This episode breaks down what “open” really means for infra, compliance, and tool use inside real marketing workflows. Then it zooms into JD.com’s JoyAI-LLM-Flash for cheap, fast content ops, and where small models quietly rack up quality debt. Finally, it looks at Rescripted’s Clara as a blueprint for vertical models in regulated spaces and how to choose between domain LLMs and general models with RAG. Expect practical tests, workflow ideas, and which marketing tasks get automated first versus what still needs human taste.]]></description>
+    <pubDate>Tue, 17 Feb 2026 03:29:39 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260216120529171+-+open_weights_verticals.mp3" length="4276680" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771298979058</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260216120529171+-+open_weights_verticals-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
