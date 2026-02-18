@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 17 Feb 2026 03:29:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 03:28:57 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1096,6 +1096,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260216120529171+-+open_weights_verticals.mp3" length="4276680" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771298979058</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260216120529171+-+open_weights_verticals-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Wars: Qwen 3.5, Aurora Alpha, and the Voice Clone Crunch</title>
+    <description><![CDATA[Qwen 3.5, Aurora Alpha, and Kani TTS 2 are reshaping what creators and marketers can automate. Hear how open weights change lock-in, why benchmarks often lie about real-world performance, and which agent workflows are actually safe to trust with campaigns. Get a practical due diligence checklist for mystery models, ideas for low-cost internal tools, and clear guardrails for ethical voice cloning. Plus a look at prompt to playable game creation, digital-afterlife patents, and why campaign production ops will change before creative direction ever does. Useful, workflow-first insights for anyone stitching AI into daily production.]]></description>
+    <pubDate>Wed, 18 Feb 2026 03:28:57 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260217120529169+-+open_model_crunch.mp3" length="4274592" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771385337177</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260217120529169+-+open_model_crunch-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
