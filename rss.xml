@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 19 Feb 2026 03:33:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 17:13:21 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1114,6 +1114,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260218120529156+-+lyria_sam_mcp_audio.mp3" length="3099720" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771471984128</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260218120529156+-+lyria_sam_mcp_audio-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Agents, Million Tokens, and the Amazon Creative Machine</title>
+    <description><![CDATA[Grok 4.20 ships a native multi-agent setup and suddenly “captain plus specialists” moves from meme to workflow. Learn how real teams can use agent teams to kill re-prompts, clean up UTM chaos, and automate painful QA while still keeping a human in the loop. Then zoom out to Ant Group’s open source InclusionAI Ling 2.5 1T with million token context and what long context plus tool use actually changes for automation. Finally, break down Amazon Ads Creative Agent, creative lock-in, prompt ops as a job, and why taste, risk judgment, and humor still belong to humans.]]></description>
+    <pubDate>Thu, 19 Feb 2026 17:13:21 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260219111801477+-+open_agents_creative.mp3" length="3984264" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771521201772</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260219111801477+-+open_agents_creative-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
