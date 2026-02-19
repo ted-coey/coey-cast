@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 18 Feb 2026 03:28:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 03:33:04 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1105,6 +1105,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260217120529169+-+open_model_crunch.mp3" length="4274592" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771385337177</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260217120529169+-+open_model_crunch-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>From Lyria to SAM Audio: Automating Sound and CRM with AI</title>
+    <description><![CDATA[Google is dropping Lyria 3 into Gemini so creators can spin up polished thirty second music beds from text, photos, or video. That shifts brand audio from rare asset to promptable commodity and puts taste and sonic identity back in the spotlight. Meta’s SAM Audio turns messy recordings into usable clips with promptable sound separation, supercharging UGC, podcasts, and ad cleanup while raising new ethics questions around rights and reuse. Then HubSpot and the Model Context Protocol enter the chat as multi agent infrastructure for CRM operations, where the real power user controls context, guardrails, and approvals so agents do the work without wrecking your reputation.]]></description>
+    <pubDate>Thu, 19 Feb 2026 03:33:04 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260218120529156+-+lyria_sam_mcp_audio.mp3" length="3099720" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771471984128</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260218120529156+-+lyria_sam_mcp_audio-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
