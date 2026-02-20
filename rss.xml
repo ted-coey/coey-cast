@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 19 Feb 2026 17:13:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 15:09:41 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1123,6 +1123,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260219111801477+-+open_agents_creative.mp3" length="3984264" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771521201772</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260219111801477+-+open_agents_creative-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>SkyReels, Codex, and Copyright Receipts</title>
+    <description><![CDATA[SkyReels V3 R2V 14B is getting world model hype for image to video, but how ready is it for real marketing workflows. This episode breaks down practical tests for believable motion, where brand fidelity breaks, and how to keep image to video ads on brief and on model. Then the focus shifts to OpenAI’s Codex macOS app, parallel agents, worktrees, and how to spend higher limits on QA instead of chaos. Finally, hear how the music publishers lawsuit against Anthropic impacts AI audio use, why provenance is becoming non optional, and what marketers should demand from vendors.]]></description>
+    <pubDate>Fri, 20 Feb 2026 15:09:41 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260204120531155+-+skyreels_codex_receipts.mp3" length="4076184" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771600181228</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260204120531155+-+skyreels_codex_receipts-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
