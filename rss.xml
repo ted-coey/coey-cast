@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 20 Feb 2026 15:09:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 17:37:01 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1132,6 +1132,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260204120531155+-+skyreels_codex_receipts.mp3" length="4076184" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771600181228</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260204120531155+-+skyreels_codex_receipts-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Digital Humans, Real Risks: Phoenix 4, Cara 3 and Synthetic Faces</title>
+    <description><![CDATA[AI powered digital humans just leveled up with Phoenix 4 from Tavus, Cara 3 from Anam.ai and new multilingual voice cloning from Gnani.ai. This episode digs into what actually breaks when you try to ship real time video agents from latency spikes and audio desync to brittle tool calls and flaky approvals. Learn where avatars truly outperform landing pages and chat, how to test conversion impact, and why disclosure, provenance and consent are non negotiable. Get a practical take on open versus closed stacks, governance, infinite variants, and why brand editors, creative directors and ops leaders become more valuable as synthetic spokespeople go mainstream.]]></description>
+    <pubDate>Fri, 20 Feb 2026 17:37:01 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260220110554134+-+digital_humans_risks.mp3" length="3751392" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771609021620</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260220110554134+-+digital_humans_risks-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
