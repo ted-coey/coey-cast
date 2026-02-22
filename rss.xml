@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 20 Feb 2026 17:37:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 02:28:52 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1141,6 +1141,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260220110554134+-+digital_humans_risks.mp3" length="3751392" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771609021620</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260220110554134+-+digital_humans_risks-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Agents, Sticky Buns, and Zero Days: AI Enters the Chat</title>
+    <description><![CDATA[Gemini 3.1 Pro, Claude Code Security, and Meridian Scenario Planner hit the marketing stack all at once. Hear what “reasoning and agents” actually mean for real workflows, why pass at one is just first draft hit rate, and how to judge AI benchmarks without getting hypnotized by hype. Learn how Claude Code Security found hundreds of zero days, what that means for shipping marketing code safely, and why AI audits become the new CI. Finally, unpack Meridian Scenario Planner, how open source can still create lock in, and why decision automation beats shiny creative toys.]]></description>
+    <pubDate>Sun, 22 Feb 2026 02:28:52 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260221110521148+-+agents_and_zero_days.mp3" length="4001208" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771727332073</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260221110521148+-+agents_and_zero_days-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
