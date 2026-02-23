@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 22 Feb 2026 02:28:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 02:23:10 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1150,6 +1150,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260221110521148+-+agents_and_zero_days.mp3" length="4001208" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771727332073</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260221110521148+-+agents_and_zero_days-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>ChatGPT Ads, Google AI Shopping, and the Fight for Trust</title>
+    <description><![CDATA[ChatGPT is quietly testing ads inside conversations, and the stakes are bigger than search. This episode breaks down how assistant ads change trust, intent, and what “sponsored” should look like when users feel like they are talking to a partner, not a feed. Hear how Google is pushing shopping ads into Search AI Mode, what that means for creators and affiliate content, and why attention tools like AdGazer make context the new performance lever. Get a practical playbook for marketers on building assistant friendly truth packs, tightening product feeds, and keeping internal assistants ad free while still using automation to scale creative workflows.]]></description>
+    <pubDate>Mon, 23 Feb 2026 02:23:10 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260222110521145+-+chatgpt_ads_trust.mp3" length="2959968" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771813390270</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260222110521145+-+chatgpt_ads_trust-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
