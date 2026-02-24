@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Mon, 23 Feb 2026 02:23:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 02:27:57 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1159,6 +1159,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260222110521145+-+chatgpt_ads_trust.mp3" length="2959968" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771813390270</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260222110521145+-+chatgpt_ads_trust-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Lyria 3, Runway, Vercel: Your Creative Stack Just Got Weird</title>
+    <description><![CDATA[Google’s Lyria 3 is crashing the ad music party with near instant jingles tailored to campaigns and creators, putting serious pressure on stock audio but boosting anyone who knows taste and risk. Runway is turning into a multi model video mall where teams compare engines inside one workflow instead of tab surfing. Vercel’s AI Gateway is making video generation feel like an API utility for internal tools. This episode breaks down how marketers, agencies, and creators should rethink moats, guardrails, sonic style guides, routing models, and building repeatable pipelines instead of one off AI experiments.]]></description>
+    <pubDate>Tue, 24 Feb 2026 02:27:57 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260223110521148+-+lyria_runway_vercel.mp3" length="3438960" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771900077316</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260223110521148+-+lyria_runway_vercel-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
