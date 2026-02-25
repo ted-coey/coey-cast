@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 24 Feb 2026 02:27:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 02:25:56 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1168,6 +1168,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260223110521148+-+lyria_runway_vercel.mp3" length="3438960" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771900077316</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260223110521148+-+lyria_runway_vercel-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Mercury 2, Realtime Voice, and Why Your AI Stack Needs a Thicker Chip</title>
+    <description><![CDATA[Mercury 2 is shipping a reasoning diffusion LLM with lower latency and cheaper inference, but does that actually fix your workflow bottlenecks or just move them downstream. Hunter and Riley break down what diffusion style language models mean for multi step agents, real world marketing automation, and repurposing content without turning it into generic sludge. They also cover OpenAI realtime audio updates, the rise of persuasive voice agents, and why governance for speech is trickier than text. Finally they unpack Anthropic’s warning on large scale distillation attempts and how tighter access controls will impact agencies, automation teams, and anyone running high throughput AI systems.]]></description>
+    <pubDate>Wed, 25 Feb 2026 02:25:56 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260224110538161+-+mercury_2_thicker_chip.mp3" length="3546000" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771986356821</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260224110538161+-+mercury_2_thicker_chip-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
