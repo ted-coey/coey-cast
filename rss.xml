@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 25 Feb 2026 02:25:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 16:42:45 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1177,6 +1177,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260224110538161+-+mercury_2_thicker_chip.mp3" length="3546000" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771986356821</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260224110538161+-+mercury_2_thicker_chip-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Weights, Long Context, and Real Time Video Chaos</title>
+    <description><![CDATA[Open source models are leveling up and crashing straight into real workflows. This episode breaks down Alibaba’s new Qwen 3.5 open weights for agentic workflows, why “smaller model bigger results” only matters if your loops get cheaper and more reliable, and where governance still fails when agents touch real systems. Then it dives into Llama 4 rumors around huge context windows and local first setups and what that actually changes for brand memory and creator ops. Finally it unpacks PrunaAI p-video on DeepInfra for real time video plus audio, why it collapses ad production steps, and how to keep taste, truth, and authenticity intact.]]></description>
+    <pubDate>Thu, 26 Feb 2026 16:42:45 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260226110538203+-+open_weights_video_chaos.mp3" length="4266144" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1772124165992</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260226110538203+-+open_weights_video_chaos-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
