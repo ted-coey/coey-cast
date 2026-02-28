@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 26 Feb 2026 16:42:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 02:30:20 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1186,6 +1186,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260226110538203+-+open_weights_video_chaos.mp3" length="4266144" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1772124165992</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260226110538203+-+open_weights_video_chaos-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Audio, Agentic Ads, and Veo: When Editing Goes Fully AI</title>
+    <description><![CDATA[Meta open-sources SAM Audio and suddenly sound becomes selectable instead of mysterious. Adobe and WPP push agentic marketing with Firefly and Quick Cut turning coordination and first-draft edits into automated workflows. Google Veo 3 with synced sound and Flow puts AI generated video closer to real filmmaking, from stitched shots to global-ready audio. This episode breaks down how open tooling versus enterprise stacks change trust, safety, and speed, why editing is where automation actually pays off, and how creators and marketing teams can clean UGC, assemble drafts, localize content, and still keep humans in the loop for story, taste, and brand.]]></description>
+    <pubDate>Sat, 28 Feb 2026 02:30:20 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260227110509150+-+open_audio_agentic.mp3" length="4121040" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1772245820382</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260227110509150+-+open_audio_agentic-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
