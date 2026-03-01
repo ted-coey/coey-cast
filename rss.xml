@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 28 Feb 2026 02:30:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 02:42:25 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1195,6 +1195,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260227110509150+-+open_audio_agentic.mp3" length="4121040" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1772245820382</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260227110509150+-+open_audio_agentic-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Voice Is the New Landing Page Open vs Closed and Real Time Video</title>
+    <description><![CDATA[Voice agents just leveled up with OpenAI gpt realtime 1.5 and the real win is not small talk. It is inbound and post click voice concierges that can query your product data, booking tools, and CRM without turning into a spam cannon. The conversation breaks down consent, compliance, and “no manipulation” guardrails. Then it shifts to Meta Llama 3.3 70B and open coding models as the hidden engine for automation glue. Finally, it unpacks PrunaAI P Video and why real time video generation is perfect for drafts but not a replacement for human editors.]]></description>
+    <pubDate>Sun, 01 Mar 2026 02:42:25 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260228110509145+-+voice_video_open_ai.mp3" length="4169616" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1772332945024</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260228110509145+-+voice_video_open_ai-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
