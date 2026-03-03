@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Mon, 02 Mar 2026 02:38:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 02:32:36 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1213,6 +1213,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260301110509136+-+glm5_google_meta_mix.mp3" length="5092368" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1772419122041</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260301110509136+-+glm5_google_meta_mix-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Gemini 3, GPT 5.3, and Kling 3.0: Workflow or Hype Show</title>
+    <description><![CDATA[Google drops Gemini 3, OpenAI teases GPT 5.3 Codex and GPT 5 Mini, and ByteDance levels up Seedream 5.0 and Kling 3.0. This episode breaks down what actually changes for creative workflows. Learn how multimodal models can review your ads, why portability of your brand brain matters, and how to treat small models as bouncers not headliners. Get practical patterns for using faster code models to automate glue work, set failure budgets for agents, and build AI video style guides that protect brand trust instead of feeding style gravity and deepfake paranoia.]]></description>
+    <pubDate>Tue, 03 Mar 2026 02:32:36 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260302110509147+-+gemini_gpt_kling_ops.mp3" length="3490248" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1772505156780</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260302110509147+-+gemini_gpt_kling_ops-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
