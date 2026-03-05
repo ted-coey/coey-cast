@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 04 Mar 2026 02:35:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 02:34:22 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1231,6 +1231,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260303110509158+-+fun_audio_agents.mp3" length="3908088" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1772591744810</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260303110509158+-+fun_audio_agents-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Tiny Qwen, Big Plays and Agentic Marketing Mayhem</title>
+    <description><![CDATA[Qwen’s new compact open models, Higgsfield Audio, and Salesforce’s agentic marketing all point to one thing: workflows are getting weirdly powerful. This episode breaks down where tiny open Qwen models actually shine in marketing work, where they fall apart, and how to run them without turning into an infra team. Then it dives into Higgsfield Audio’s script to voice to translation and lip sync pipeline, what makes localized video feel uncanny, and how brands should handle rights and consent. Finally, it unpacks Salesforce’s new agentic marketing features, where autonomous optimization helps, where it flattens your brand into beige, and the guardrails teams need.]]></description>
+    <pubDate>Thu, 05 Mar 2026 02:34:22 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260304110509145+-+tiny_qwen_big_plays.mp3" length="3723120" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1772678062881</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260304110509145+-+tiny_qwen_big_plays-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
