@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 05 Mar 2026 02:34:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 02:31:53 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1240,6 +1240,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260304110509145+-+tiny_qwen_big_plays.mp3" length="3723120" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1772678062881</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260304110509145+-+tiny_qwen_big_plays-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Helios, Higgsfield and Cuttlekit Open Source Chaos for Creators</title>
+    <description><![CDATA[Helios, Higgsfield and Cuttlekit stack into a spicy automation workflow for modern creators. Hunter and Riley unpack how Helios, an open source video model, could replace rough animatics with script to screen drafts while still needing serious guardrails on brand accuracy and compute. They dive into Higgsfield’s built in voice cloning and what real consent, governance and disclosure should look like when multilingual UGC ads become one click easy. Then they explore Cuttlekit’s generative UI that spins up ephemeral HTML tools on demand, plus why stable schemas and contract layers matter so it feels like a control room, not a haunted house.]]></description>
+    <pubDate>Fri, 06 Mar 2026 02:31:53 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260305110509349+-+helios_higgsfield_kit.mp3" length="3661296" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1772764313142</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260305110509349+-+helios_higgsfield_kit-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
