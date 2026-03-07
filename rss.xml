@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 06 Mar 2026 02:31:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 02:34:34 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1249,6 +1249,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260305110509349+-+helios_higgsfield_kit.mp3" length="3661296" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1772764313142</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260305110509349+-+helios_higgsfield_kit-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Excel Ghosts, Tiny Models, and Budget Video: Dentist Day AI Drilldown</title>
+    <description><![CDATA[Excel gets a brain and marketers suddenly have a translator between vibes and finance logic. This episode digs into how the new ChatGPT Excel add in could reshape budget planning, incrementality testing, and data governance without turning spreadsheets into haunted houses. Then it unpacks where compact models like Phi 4 Reasoning Vision 15B actually win for creative QA and brand checks. Finally it breaks down Seedance 2.0 video pricing, how to use cheap AI video safely for concepting and testing, and why IP policies, queues, and clean asset libraries matter for any modern creative pipeline.]]></description>
+    <pubDate>Sat, 07 Mar 2026 02:34:34 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260306110526170+-+excel_models_video.mp3" length="4198488" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1772850874004</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260306110526170+-+excel_models_video-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
