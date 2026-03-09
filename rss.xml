@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 07 Mar 2026 02:34:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 01:45:21 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1258,6 +1258,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260306110526170+-+excel_models_video.mp3" length="4198488" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1772850874004</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260306110526170+-+excel_models_video-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>GPT 5.4 Pro Vibes, Agent Chaos, and Open Source Tradeoffs</title>
+    <description><![CDATA[OpenAI’s latest frontier model drop, nicknamed GPT 5.4 Pro, brings million token context, faster inference, cheaper tool calls, better long context memory, and interruptible generation. The real story is what this means for automated workflows across research, copy, and campaigns. Hunter and Riley break down interruptible agents, safe computer use with permissions and logs, and when to trust agents with execution. They unpack Anthropic’s Claude Opus 4.6 security win with Mozilla, eval awareness drama, and why benchmarks are now mostly marketing. Finally, they dig into open source agent frameworks, what control and portability really buy you, and where these agents are ready versus still hilariously clumsy.]]></description>
+    <pubDate>Mon, 09 Mar 2026 01:45:21 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260308110526188+-+gpt_54_pro_vibes.mp3" length="4879512" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1773020721490</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260308110526188+-+gpt_54_pro_vibes-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
