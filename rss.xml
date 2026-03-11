@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Mon, 09 Mar 2026 01:45:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 01:32:29 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1267,6 +1267,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260308110526188+-+gpt_54_pro_vibes.mp3" length="4879512" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1773020721490</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260308110526188+-+gpt_54_pro_vibes-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Source Audio Magic and Consistent AI Characters for Marketers</title>
+    <description><![CDATA[AI video and audio just picked up some serious new superpowers. Hear how Kling 3.0 makes character consistency real enough for UGC-style ad series without turning every cut into a glitchy horror film. Get the real use cases for HiAR long video and LTX 2.3 open weights plus the hidden costs of running models locally. Learn why Meta’s open source SAM Audio changes podcast cleanup, sonic branding, licensing, and ethics. Explore Ming Omni TTS for brand voice at scale and what interruption friendly, real time AI audio means for interactive ads. Everything is framed around workflows, human approval loops, and using modular media to ship faster.]]></description>
+    <pubDate>Wed, 11 Mar 2026 01:32:29 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260310110552155+-+open_source_audio_ep.mp3" length="4230384" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1773192749794</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260310110552155+-+open_source_audio_ep-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
