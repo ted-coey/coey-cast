@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 11 Mar 2026 01:32:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 01:42:26 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1276,6 +1276,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260310110552155+-+open_source_audio_ep.mp3" length="4230384" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1773192749794</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260310110552155+-+open_source_audio_ep-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Source Avengers: GLM-5, MiroThinker, and Fish Audio S2</title>
+    <description><![CDATA[GLM-5 goes open weights with a privacy-first spin using Trusted Execution Environments and suddenly sensitive marketing data can power real automation without living in random vendor APIs. MiroThinker pushes verification-centric agents that plan, execute, and then audit themselves to reduce silent multi-step failures in real workflows like landing page updates and research. Fish Audio S2 drops open expressive text to speech with emotional prompts and multi-speaker flows, which is huge for ads, localization, and character content. The conversation digs into tradeoffs, real failure modes, verification layers, and how to avoid automating your way into compliance nightmares while still building a small content studio in a box.]]></description>
+    <pubDate>Thu, 12 Mar 2026 01:42:26 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260311110552190+-+open_source_avengers.mp3" length="3879984" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1773279746196</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260311110552190+-+open_source_avengers-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
