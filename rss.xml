@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 12 Mar 2026 01:42:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 01:43:24 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1285,6 +1285,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260311110552190+-+open_source_avengers.mp3" length="3879984" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1773279746196</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260311110552190+-+open_source_avengers-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Source Shock: Nemotron, Llama 4 Scout, and Hume TADA</title>
+    <description><![CDATA[Nemotron 3 Super, Llama 4 Scout, and Hume TADA are all pushing what open source AI can do for real workflows. This episode digs into when million plus token context actually beats smart retrieval and when it just becomes expensive procrastination. Hear how to test long context models so they do not just summarize nonsense. Learn why open weights do not equal safe ops plus the boring places data still leaks. Then dive into TADA and what zero hallucinations really means for AI voice, strict copy lock, and brand safety. Get practical ideas for modular stacks that mix big context, fast tools, and specialist audio.]]></description>
+    <pubDate>Fri, 13 Mar 2026 01:43:24 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260312110552169+-+open_source_shock.mp3" length="4785888" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1773366204391</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260312110552169+-+open_source_shock-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
