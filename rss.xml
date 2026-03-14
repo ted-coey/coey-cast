@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 13 Mar 2026 01:43:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 01:28:18 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1294,6 +1294,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260312110552169+-+open_source_shock.mp3" length="4785888" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1773366204391</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260312110552169+-+open_source_shock-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>AI Actors, Sora References, and Claude Charts Walk Into a Brand</title>
+    <description><![CDATA[Sora References, Soul Cast by Higgsfield, and Claude’s new interactive charts are all pushing AI toward repeatable, production-grade workflows. This episode breaks down how to build a reusable brand universe in Sora without turning everything into the same corporate sitcom, plus how to pressure-test character consistency and spot drift before you scale a campaign. Then it covers Higgsfield’s AI actors and “exclusive rights” and what that means for IP risk, localization, and archetype overload. Finally it unpacks Claude visualizations and content QA pipelines so marketers can automate reporting and checks without turning dashboards into pretty lies.]]></description>
+    <pubDate>Sat, 14 Mar 2026 01:28:18 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260313110509173+-+ai_actors_and_refs.mp3" length="4031976" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1773451698640</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260313110509173+-+ai_actors_and_refs-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
