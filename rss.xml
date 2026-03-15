@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 14 Mar 2026 01:28:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 01:31:32 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1303,6 +1303,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260313110509173+-+ai_actors_and_refs.mp3" length="4031976" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1773451698640</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260313110509173+-+ai_actors_and_refs-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Weights and Infinite Clips: Phi 4, Stability, Helios</title>
+    <description><![CDATA[Microsoft’s Phi 4 Reasoning Vision model, Stability’s upgraded text to image, and Helios style real time video are colliding into a new kind of content assembly line. This episode breaks down where multimodal reasoning actually beats human throughput in ad and landing page compliance, where it still fails on nuance, and when to self host open weights versus lean on frontier APIs. Learn how brand teams can shift from rewriting assets to designing policy packs, prompt libraries, and critic layers. Get practical workflows for accessibility checks, asset tagging, and rapid video iteration so automation handles the grind while humans own taste, judgment, and guardrails.]]></description>
+    <pubDate>Sun, 15 Mar 2026 01:31:32 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260314110508180+-+phi4_helios_stability.mp3" length="4712064" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1773538292812</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260314110508180+-+phi4_helios_stability-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
