@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 15 Mar 2026 01:31:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 01:35:31 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1312,6 +1312,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260314110508180+-+phi4_helios_stability.mp3" length="4712064" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1773538292812</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260314110508180+-+phi4_helios_stability-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>The Nicer The Chart, The Bigger The Lie</title>
+    <description><![CDATA[Claude is moving into Excel and PowerPoint, Llama 4 rumors are heating up, and OpenClaw style browser agents are creeping toward your daily workflow. Hunter and Riley dig into how native AI in Office could automate marketing recaps, build decks from live data, and still mislead you with perfectly wrong charts. They unpack why open weights plus long context may finally make open source models practical for real marketing teams, and where context rot kicks in. Then they break down browser agents that can actually drive Chrome, the security tradeoffs, and how to safely use draft mode and audit trails to keep human control in the loop.]]></description>
+    <pubDate>Mon, 16 Mar 2026 01:35:31 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260315110502137+-+nicer_chart_bigger_lie.mp3" length="4176216" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1773624931211</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260315110502137+-+nicer_chart_bigger_lie-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
