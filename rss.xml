@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Mon, 16 Mar 2026 01:35:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 01:33:50 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1321,6 +1321,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260315110502137+-+nicer_chart_bigger_lie.mp3" length="4176216" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1773624931211</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260315110502137+-+nicer_chart_bigger_lie-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Google’s Multimodal Brain Meets Open Source Helios Video Chaos</title>
+    <description><![CDATA[Google quietly turned the internet into one multimodal brain with Gemini Embedding 2 and unified embeddings across text, images, video, audio, and PDFs. This episode breaks down how that changes creative search, cross-media intent matching, and ad workflows. It digs into hybrid retrieval, vibe control, and why metadata and risk tiers matter when Google Ads auto-edits your campaigns with new voiceovers and creative enhancements. It also covers Helios as an open source long form video model, what real time generation actually means for teams, and how creators can build modular pipelines that keep human taste in control while automation handles the grind.]]></description>
+    <pubDate>Tue, 17 Mar 2026 01:33:50 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260316110502150+-+gemini_and_helios.mp3" length="4836288" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1773711230672</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260316110502150+-+gemini_and_helios-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
