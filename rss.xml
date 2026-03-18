@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 17 Mar 2026 01:33:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 01:47:24 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1330,6 +1330,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260316110502150+-+gemini_and_helios.mp3" length="4836288" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1773711230672</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260316110502150+-+gemini_and_helios-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Brains, Agent Teams, and the AI CMO Dream</title>
+    <description><![CDATA[Mistral Small 4 open weights, Okara’s AI CMO agent team, and Ollama’s Kimi K2.5 tool calling all point to the same shift. AI is moving from drafting content to actually operating workflows. This episode breaks down when to own the brain with open weights and when to rent it with hosted agents, plus what it really takes to self host without chaos. Learn where agent teams shine, where they fail on taste and truth, how to set reliability bars for tool calling, and which marketing workflows to automate first without torching your brand.]]></description>
+    <pubDate>Wed, 18 Mar 2026 01:47:24 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260317110502141+-+open_brains_agents.mp3" length="3752448" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1773798444265</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260317110502141+-+open_brains_agents-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
