@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 18 Mar 2026 01:47:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 01:32:01 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1339,6 +1339,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260317110502141+-+open_brains_agents.mp3" length="3752448" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1773798444265</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260317110502141+-+open_brains_agents-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Sub Agents and Safe Chaos in GPT 5.4 Mini, V8, and Covo Audio</title>
+    <description><![CDATA[GPT 5.4 Mini and Nano are shifting from hype to actual workflows, powering routing, content ops, and tightly scoped creative sub agents that package work without hitting publish. Midjourney V8 levels up speed and text-in-image but introduces “confident compliance” risks as almost-right visuals slip past tired reviewers. Tencent’s Covo Audio pushes open voice models toward real-time agents while raising serious questions about brand voice cloning, governance, and disclosure. Expect more value for creative leaders, brand guardians, and marketing systems builders while low-opinion first draft work gets automated away. The through line is human plus machine collaboration with strict guardrails and a ruthless taste filter.]]></description>
+    <pubDate>Thu, 19 Mar 2026 01:32:01 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260318110502186+-+sub_agents_safe_chaos.mp3" length="4299144" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1773883921890</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260318110502186+-+sub_agents_safe_chaos-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
