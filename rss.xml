@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 20 Mar 2026 10:35:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 20:29:37 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1366,6 +1366,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260320055826272+-+runway_skyreels.mp3" length="4630800" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774002931375</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260320055826272+-+runway_skyreels-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Source Ears, Real Time Eyes</title>
+    <description><![CDATA[Runway is pushing AI video toward real time creation, with reported sub 100 millisecond response that could turn generation from a waiting game into a live creative tool. SkyReels V4 shows a different shift, where video models start looking more like usable software with benchmarks, pricing, multimodal inputs, and native audio. QuarkAudio adds the open source angle, pointing to a future where audio cleanup, separation, and voice tasks get less fragmented and more flexible. The bigger takeaway is not full autonomy. It is modular workflow design. Faster models move the bottleneck from rendering to judgment, approvals, brand safety, and taste. Human direction still matters most when automation makes endless iteration cheap.]]></description>
+    <pubDate>Fri, 20 Mar 2026 20:29:37 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260320055826272+-+realtime_open_ai.mp3" length="4630800" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774038577860</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260320055826272+-+realtime_open_ai-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
