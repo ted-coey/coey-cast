@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 19 Mar 2026 01:32:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 01:29:58 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1348,6 +1348,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260318110502186+-+sub_agents_safe_chaos.mp3" length="4299144" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1773883921890</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260318110502186+-+sub_agents_safe_chaos-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Are Agents Growing Up or Just Getting Louder</title>
+    <description><![CDATA[Agents are leveling up, but are they actually ready to own parts of your workflow yet. This episode breaks down MiniMax M2.7, Moonshot Kimi K2.5, and Langflow 1.8 with IBM Agentics through the lens of real marketing and creator use cases. Learn what self improving agents should actually handle, how to treat long context as a bigger desk not a better brain, and why map reduce generate patterns matter. Get a clear do not automate list for brand risk, compliance, and taste while still using agents to crush prep work, tagging, research, and daily briefs.]]></description>
+    <pubDate>Fri, 20 Mar 2026 01:29:58 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260319110502136+-+agents_growing_up.mp3" length="3805608" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1773970198539</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260319110502136+-+agents_growing_up-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
