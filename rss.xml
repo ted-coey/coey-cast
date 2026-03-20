@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 20 Mar 2026 01:29:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 10:35:31 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1357,6 +1357,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260319110502136+-+agents_growing_up.mp3" length="3805608" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1773970198539</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260319110502136+-+agents_growing_up-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open, Fast, Loud: Runway, SkyReels, and QuarkAudio</title>
+    <description><![CDATA[Runway just showed real time video generation with sub 100 millisecond first frames, and that changes how creative teams iterate. Video starts to feel less like rendering and more like steering. SkyReels V4 pushes the conversation further with multimodal video, native audio, and production minded packaging that looks more like software than a research demo. Then Alibaba’s open source QuarkAudio brings a practical shift to audio workflows with one model aimed at cleanup, separation, and voice tasks. The real takeaway is not full autonomy. It is modular automation. Faster tools move the bottleneck from rendering to judgment, approvals, brand safety, and taste. The winners will be teams that pair speed with strong systems and humans who know what good looks like.]]></description>
+    <pubDate>Fri, 20 Mar 2026 10:35:31 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260320055826272+-+runway_skyreels.mp3" length="4630800" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774002931375</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260320055826272+-+runway_skyreels-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
