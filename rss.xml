@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 20 Mar 2026 20:29:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 01:31:44 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1375,6 +1375,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260320055826272+-+realtime_open_ai.mp3" length="4630800" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774038577860</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260320055826272+-+realtime_open_ai-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Nemotron and the Rise of Fast, Cheap AI Creation</title>
+    <description><![CDATA[NVIDIA’s open Nemotron models are pushing a big shift in AI workflows by making stronger reasoning and agent behavior more affordable. That matters for teams building automations for briefs, reporting, planning, and content operations without burning budget on every step. At the same time, Dreamverse is showing how ultra fast video generation changes creative work from prompt and wait to steer and refine. Rebel Audio adds another piece to the stack by lowering the friction for smaller teams that want useful audio without heavy production overhead. The bigger story is not unlimited automation. It is how open models, faster media tools, and lighter production pipelines raise the value of taste, review, governance, and human judgment across modern creator and marketing workflows.]]></description>
+    <pubDate>Sat, 21 Mar 2026 01:31:44 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260320110549156+-+open_nemotron.mp3" length="4953648" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774056704251</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260320110549156+-+open_nemotron-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
