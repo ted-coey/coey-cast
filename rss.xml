@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 21 Mar 2026 01:31:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 01:28:04 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1384,6 +1384,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260320110549156+-+open_nemotron.mp3" length="4953648" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774056704251</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260320110549156+-+open_nemotron-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Source or Closed? AI Workflow Winners This Week</title>
+    <description><![CDATA[Google DeepMind is testing Deep Think in Gemini 2.5 Pro, Ollama 0.7 makes OpenClaw easier to run locally, and Typeface is pushing deeper into governed marketing orchestration. The bigger story is not which demo looks smartest. It is which setup actually helps teams ship better work with fewer surprises. This conversation breaks down where stronger reasoning helps, where local open source stacks save money but add ops overhead, and where commercial platforms earn their keep with approvals, compliance, and brand control. For creators, marketers, and media operators, the takeaway is simple: automate prep, QA, routing, and research, but keep humans close to final judgment, sensitive messaging, and anything that can create brand risk.]]></description>
+    <pubDate>Sun, 22 Mar 2026 01:28:04 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260321110526200+-+ai_stack_choices.mp3" length="4438008" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774142884271</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260321110526200+-+ai_stack_choices-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
