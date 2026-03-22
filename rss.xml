@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 22 Mar 2026 01:28:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 20:30:42 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1393,6 +1393,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260321110526200+-+ai_stack_choices.mp3" length="4438008" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774142884271</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260321110526200+-+ai_stack_choices-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Source Gets Real with LTX 2.3, Rakuten, and Kitten</title>
+    <description><![CDATA[Open source AI had a very loud week. LTX 2.3 moved closer to real production use with an API for image to video and native portrait output, which matters a lot for social teams and ad workflows. Rakuten AI 3.0 added fuel to the regional model conversation with a large Japanese release that raises useful questions about localization, transparency, and what counts as real innovation. Kitten TTS showed how small voice models can bring text to speech to browsers, CPUs, and lower cost products. The bigger takeaway is simple. Better models are not the whole game. Workflow design, human review, and operational sanity are what turn open tools into something a team can actually use.]]></description>
+    <pubDate>Sun, 22 Mar 2026 20:30:42 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260322110526150+-+open_source_real.mp3" length="5161152" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774211442496</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260322110526150+-+open_source_real-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
