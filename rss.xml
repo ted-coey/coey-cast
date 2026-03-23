@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 22 Mar 2026 20:30:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 17:19:29 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1402,6 +1402,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260322110526150+-+open_source_real.mp3" length="5161152" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774211442496</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260322110526150+-+open_source_real-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>MiniMaxed Out: Open Weights, Agent Teams, and AI Ads</title>
+    <description><![CDATA[Open weights are getting real, agent teams are getting practical, and generative interfaces are starting to shape ad distribution. This conversation tracks why MiniMax M2.7 matters beyond benchmark hype, especially for teams that want more control over internal workflows without betting everything on one closed vendor. It also breaks down where multi agent coding systems like Codex can actually help and where they just create expensive digital meetings. The bigger shift is what happens when the same AI interface that helps create content also decides what gets surfaced to users. For creators, marketers, and media operators, the advantage comes from building structured workflows, keeping humans near judgment calls, and staying machine readable without becoming generic.]]></description>
+    <pubDate>Mon, 23 Mar 2026 17:19:29 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260323110543167+-+minimax_agents_ads.mp3" length="4166160" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774286369012</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260323110543167+-+minimax_agents_ads-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
