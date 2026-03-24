@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Mon, 23 Mar 2026 17:19:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 15:38:33 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1411,6 +1411,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260323110543167+-+minimax_agents_ads.mp3" length="4166160" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774286369012</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260323110543167+-+minimax_agents_ads-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Luma UNI1, Pika 2.2, and ElevenLabs Raise the Floor</title>
+    <description><![CDATA[Luma UNI1, Pika 2.2, and ElevenLabs all point to the same shift: polished creative output is getting faster, cheaper, and easier to slot into real workflows. Better image reasoning means fewer prompt gymnastics and more usable first drafts. Stronger short form video generation makes social production more reliable at the speed marketing teams actually need. ElevenLabs is pushing beyond voice tools into marketplace infrastructure, which puts creator payouts, licensing, and trust at the center of the audio conversation. The real story is not magic buttons. It is what happens when content generation gets easy and the bottleneck moves to taste, approvals, governance, and process. The winners will be teams with cleaner systems and better human judgment.]]></description>
+    <pubDate>Tue, 24 Mar 2026 15:38:33 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260324110543126+-+uni1_pika_eleven.mp3" length="4672200" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774366713947</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260324110543126+-+uni1_pika_eleven-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
