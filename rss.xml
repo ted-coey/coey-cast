@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 24 Mar 2026 15:38:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 15:58:29 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1420,6 +1420,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260324110543126+-+uni1_pika_eleven.mp3" length="4672200" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774366713947</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260324110543126+-+uni1_pika_eleven-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Claude Clicks, Mistral Opens, and AI Gets to Work</title>
+    <description><![CDATA[Claude is moving from chatbot to operator, and that changes the automation conversation fast. This covers what Anthropic's computer use push really means for teams, where AI agents can save time today, and why brittle workflows still break the fantasy of full autonomy. It also digs into Microsoft's MAI Image 2 and why better text rendering matters more than flashy demos for marketers who need usable creative assets. Then it zooms out to Mistral's open weight momentum, why open models matter for control and multilingual workflows, and where the tradeoffs get very real. The through line is simple: machine action is getting better, but smart workflow design and human judgment still decide whether automation creates leverage or chaos.]]></description>
+    <pubDate>Wed, 25 Mar 2026 15:58:29 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260325110543152+-+claude_mistral.mp3" length="4684056" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774454309232</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260325110543152+-+claude_mistral-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
