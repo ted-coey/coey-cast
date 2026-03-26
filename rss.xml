@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 25 Mar 2026 15:58:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 15:56:32 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1429,6 +1429,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260325110543152+-+claude_mistral.mp3" length="4684056" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774454309232</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260325110543152+-+claude_mistral-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Mic Night: Lyria, PrismAudio, and Mistral</title>
+    <description><![CDATA[Audio just jumped from nice to have to workflow priority. Google’s Lyria 3 Pro pushes AI music closer to usable campaign assets with longer, more structured tracks that fit real production needs. Open source PrismAudio tackles one of post production’s most annoying problems by matching sound effects and environmental audio to what is actually happening on screen. Mistral adds another important signal with open speech, giving teams more control over voice pipelines, localization, and costs. The bigger story is not just better demos. It is how brands, creators, and media teams build smarter audio systems that save time while keeping humans in charge of taste, trust, approvals, and final creative judgment.]]></description>
+    <pubDate>Thu, 26 Mar 2026 15:56:32 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260326110517148+-+open_mic_night.mp3" length="4214232" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774540592480</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260326110517148+-+open_mic_night-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
