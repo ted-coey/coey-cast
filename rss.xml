@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 26 Mar 2026 15:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 17:02:31 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1438,6 +1438,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260326110517148+-+open_mic_night.mp3" length="4214232" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774540592480</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260326110517148+-+open_mic_night-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Spud, Mythos, and the Rise of AI Campaign Operators</title>
+    <description><![CDATA[Leaked frontier model chatter is loud, but the bigger story is workflow. Anthropic's rumored Claude Mythos, also called Capybara in some corners, and OpenAI's rumored Spud show how fast the model race keeps shifting. The real takeaway for creators and marketers is not to rebuild around leaks or wait for the next flagship. It is to build model agnostic systems with evals, guardrails, and human review. Klaviyo Composer, Pomelli, and RogIQ show where things are heading as AI moves from chat assistant to campaign operator. That shift can remove the boring middle of briefs, asset versions, and reporting, but taste, judgment, and brand differentiation still need a human hand on the wheel.]]></description>
+    <pubDate>Fri, 27 Mar 2026 17:02:31 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260327110517150+-+spud_mythos_ops.mp3" length="3950472" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774630951234</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260327110517150+-+spud_mythos_ops-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
