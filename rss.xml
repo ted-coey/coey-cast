@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 27 Mar 2026 17:02:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 15:52:34 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1447,6 +1447,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260327110517150+-+spud_mythos_ops.mp3" length="3950472" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774630951234</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260327110517150+-+spud_mythos_ops-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Mic Night for AI: Covo, Cohere, and NotebookLM</title>
+    <description><![CDATA[Audio just stopped being a side feature and started looking like core workflow infrastructure. This conversation tracks three big signals behind that shift. Tencent’s open Covo Audio pushes toward more natural voice interaction with lower latency and better interruption handling. Cohere’s open speech recognition model could unlock cheaper, faster transcription for meetings, podcasts, support, and multilingual operations. NotebookLM is also stretching beyond research and into narrated video creation, collapsing steps that used to live across multiple tools. The real question is not which demo looks coolest. It is where automation actually removes friction while keeping humans close to judgment, brand, accuracy, and risk. That is where creators, marketers, and operators get real leverage.]]></description>
+    <pubDate>Sat, 28 Mar 2026 15:52:34 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260328110519141+-+open_audio_ai.mp3" length="4405224" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774713154181</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260328110519141+-+open_audio_ai-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
