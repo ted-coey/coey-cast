@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 28 Mar 2026 15:52:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 16:29:56 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1456,6 +1456,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260328110519141+-+open_audio_ai.mp3" length="4405224" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774713154181</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260328110519141+-+open_audio_ai-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Gemini Flash Live and the Great AI Workflow Reality Check</title>
+    <description><![CDATA[Google is pushing Gemini 3.1 Flash Live into real time voice and camera workflows, and that makes one thing clear. Voice AI is becoming a real interface layer for brands, not just a flashy demo. The bigger question is where it actually works. Customer triage, guided commerce, multilingual support, and structured actions look promising. Emotional nuance, messy edge cases, and brand risk still need people. The conversation also turns to Z.ai's GLM 5.1 and why lower cost models are putting real pressure on premium AI pricing. Add Snapchat and Google building generative tools deeper into ad platforms, and the shift is obvious. AI is moving from magic trick to workflow infrastructure, with humans still steering the ship.]]></description>
+    <pubDate>Sun, 29 Mar 2026 16:29:56 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260329110519135+-+gemini_flash_live.mp3" length="4661520" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774801796544</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260329110519135+-+gemini_flash_live-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
