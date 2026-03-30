@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 29 Mar 2026 16:29:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 16:56:21 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1465,6 +1465,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260329110519135+-+gemini_flash_live.mp3" length="4661520" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774801796544</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260329110519135+-+gemini_flash_live-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>OpenClaw or Open Chaos? The Open Source Agent Reality</title>
+    <description><![CDATA[OpenClaw is getting hyped as an open source agent framework that can handle content, scheduling, asset creation, memory, and workflow coordination for lean teams. The real story is less about replacing your whole marketing team and more about building systems that can manage repeatable work without creating automated chaos. Persistent context, reusable templates, Telegram based coordination, and local model setups all sound powerful, but they still need strong briefs, clear approvals, and actual human judgment. The payoff is faster operations for monitoring, triage, summaries, and first drafts. The risk is scaling bland output or messy workflows. Automation can remove the boring middle, but brand voice, taste, and strategy still need humans in the loop.]]></description>
+    <pubDate>Mon, 30 Mar 2026 16:56:21 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260330110519171+-+openclaw_agents.mp3" length="4817328" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774889781503</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260330110519171+-+openclaw_agents-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
