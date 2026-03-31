@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Mon, 30 Mar 2026 16:56:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 15:50:06 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1474,6 +1474,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260330110519171+-+openclaw_agents.mp3" length="4817328" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774889781503</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260330110519171+-+openclaw_agents-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Qwen, Closed Loop: Multimodal Gets Real</title>
+    <description><![CDATA[Alibaba’s open Qwen 3.5 Omni is pushing multimodal AI past flashy demos and closer to real workflow value. Voice, camera input, long audio context, and fast generation are starting to look less like chatbot features and more like a new interface for building drafts, prototypes, and internal tools. The bigger question is where this actually works for teams with approvals, brand rules, and security needs. The conversation also maps the rise of practical AI video through Kling 3.0, Dreamina, and Seedance 2.0, plus why Intercom’s Fin Apex 1.0 may be the clearest sign of how enterprises will really buy AI. The takeaway is simple. Route the right work to the right model and keep humans on taste, trust, and decisions.]]></description>
+    <pubDate>Tue, 31 Mar 2026 15:50:06 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260331110519161+-+qwen_open_loop.mp3" length="4966824" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774972206722</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260331110519161+-+qwen_open_loop-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
