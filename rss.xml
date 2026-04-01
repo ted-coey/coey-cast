@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 31 Mar 2026 15:50:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 17:49:45 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1483,6 +1483,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260331110519161+-+qwen_open_loop.mp3" length="4966824" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774972206722</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260331110519161+-+qwen_open_loop-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Voice, Multi Shot, and Google’s AI Music Push</title>
+    <description><![CDATA[Google’s Lyria 3 Pro, Runway’s Multi Shot App, and Mistral’s open weights text to speech model all point to the same shift. Audio, video, and voice are becoming programmable workflow layers for creators and marketers. That opens the door to faster campaign concepts, localized narration, branded audio, and more efficient content production. It also raises bigger questions around taste, governance, approvals, and whether teams are making better work or just more of it. The real advantage is not having one more AI toy. It is building a stack that supports strategy, review, and brand consistency while keeping humans in the loop where judgment still matters most.]]></description>
+    <pubDate>Wed, 01 Apr 2026 17:49:45 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260401110509135+-+open_voice_stack.mp3" length="4658304" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775065785929</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260401110509135+-+open_voice_stack-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
