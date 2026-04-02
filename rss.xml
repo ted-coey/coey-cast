@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 01 Apr 2026 17:49:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 15:42:55 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1492,6 +1492,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260401110509135+-+open_voice_stack.mp3" length="4658304" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775065785929</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260401110509135+-+open_voice_stack-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Source Roars as AI Video Gets Pipeline Ready</title>
+    <description><![CDATA[AI video is getting close to real campaign use, but the bigger shift is what that does to creative workflows. Higgsfield Cinema Studio 3.0 pushes better character consistency and multi shot scenes, while Google Veo 3.1 Lite makes video generation cheaper, faster, and easier to plug into production systems. On the audio side, open source LongCat AudioDiT points to a future where voice becomes core infrastructure for localization, dubbing, and content scaling. The real advantage is not just prettier outputs. It is faster concepting, tighter feedback loops, stronger review systems, and human judgment baked into every step. Pretty clips are easy now. Useful, persuasive, on brand content still needs people in the loop.]]></description>
+    <pubDate>Thu, 02 Apr 2026 15:42:55 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260402110548171+-+video_pipeline.mp3" length="4842576" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775144575668</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260402110548171+-+video_pipeline-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
