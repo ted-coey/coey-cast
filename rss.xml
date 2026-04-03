@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 02 Apr 2026 15:42:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 21:57:48 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1501,6 +1501,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260402110548171+-+video_pipeline.mp3" length="4842576" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775144575668</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260402110548171+-+video_pipeline-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Gemma 4 Goes Open While Claude Code Spills Tea</title>
+    <description><![CDATA[Google DeepMind just made Gemma 4 a real open model story, and that changes the conversation for teams that want more control over cost, privacy, and deployment. The bigger question is what open actually unlocks once the hype wears off. This covers where Gemma 4 could fit into real workflows like document ops, coding copilots, routing, and multilingual content systems. It also gets into the Claude Code source exposure, why boring packaging mistakes can turn into major security problems, and why people seemed weirdly more excited by autonomous agent clues than the leak itself. Tying it all together is the rise of the AI marketer and what automation can really own versus where humans still need to lead.]]></description>
+    <pubDate>Fri, 03 Apr 2026 21:57:48 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260403110548153+-+gemma4_claude.mp3" length="4084368" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775253468460</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260403110548153+-+gemma4_claude-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
