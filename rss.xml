@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 03 Apr 2026 22:06:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 15:28:31 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1510,6 +1510,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260403110548153+-+gemma4_open.mp3" length="4084368" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775254001503</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260403110548153+-+gemma4_open-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Microsoft MAI Models: Transcribe First, Then Scale</title>
+    <description><![CDATA[Microsoft just dropped three new Azure AI Foundry models, and the big takeaway is simple: transcription may be the real winner. MAI Transcribe 1, MAI Voice 1, and MAI Image 2 signal a bigger shift toward treating language, voice, and visuals as workflow infrastructure instead of novelty features. The conversation breaks down why transcription creates the fastest payoff for creators and marketers, where synthetic voice actually helps, and why better image text rendering matters for ads, mockups, and branded assets. It also looks at the tradeoffs between polished closed platforms and open source options like OpenClaw, with a practical case for hybrid stacks that keep humans focused on judgment while automation handles the repetitive middle.]]></description>
+    <pubDate>Sat, 04 Apr 2026 15:28:31 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260404110512134+-+mai_models.mp3" length="4501224" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775316511207</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260404110512134+-+mai_models-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
