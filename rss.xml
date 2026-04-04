@@ -1504,15 +1504,6 @@
   </item>
 
   <item>
-    <title>Gemma 4 Goes Open While Claude Code Spills Tea</title>
-    <description><![CDATA[Google DeepMind just made Gemma 4 a real open model story, and that changes the conversation for teams that want more control over cost, privacy, and deployment. The bigger question is what open actually unlocks once the hype wears off. This covers where Gemma 4 could fit into real workflows like document ops, coding copilots, routing, and multilingual content systems. It also gets into the Claude Code source exposure, why boring packaging mistakes can turn into major security problems, and why people seemed weirdly more excited by autonomous agent clues than the leak itself. Tying it all together is the rise of the AI marketer and what automation can really own versus where humans still need to lead.]]></description>
-    <pubDate>Fri, 03 Apr 2026 21:57:48 GMT</pubDate>
-    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260403110548153+-+gemma4_claude.mp3" length="4084368" type="audio/mpeg" />
-    <guid isPermaLink="false">bl-1775253468460</guid>
-    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260403110548153+-+gemma4_claude-studio-crop.jpg"/>
-  </item>
-
-  <item>
     <title>Gemma 4 Goes Open While AI Marketers Get Weird</title>
     <description><![CDATA[Google DeepMind just made Gemma 4 a real conversation by releasing it under Apache 2.0, and that changes how teams think about building with open models. This covers what Gemma 4 means for commercial use, local deployment, private workflows, and where smaller controllable models actually fit inside a production stack. It also gets into the Claude Code source exposure and why the bigger lesson is not drama but operational discipline. Then the focus shifts to the rise of the so called AI marketer, where agents can research, draft, monitor, and optimize but still cannot replace strategy, taste, or accountability. The real shift is from flashy copilots to systems that can carry work across steps.]]></description>
     <pubDate>Fri, 03 Apr 2026 22:06:41 GMT</pubDate>
