@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sat, 04 Apr 2026 15:28:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 19:20:34 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1519,6 +1519,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260404110512134+-+mai_models.mp3" length="4501224" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775316511207</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260404110512134+-+mai_models-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Gemini Talks, Shopify Sells, Runway Rolls Camera</title>
+    <description><![CDATA[Google’s Gemini 3.1 Flash Live pushes voice from demo mode toward real workflow use, with faster conversation, better turn taking, and stronger multimodal context. Shopify’s agentic storefront shift means product catalogs now need to work for AI shopping assistants, not just human buyers, making clean metadata and structured commerce a real advantage. Runway Gen 4.5 keeps moving AI video closer to production with better multi shot consistency, native audio momentum, and faster iteration for creative teams. The bigger theme is simple: voice, shopping, and video are all becoming operational systems. The winners will not be the teams chasing hype. They will be the ones pairing strong creative judgment with clean automation, better data, and human oversight where it counts most.]]></description>
+    <pubDate>Sun, 05 Apr 2026 19:20:34 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260405110559136+-+voice_shop_video.mp3" length="4421736" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775416834092</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260405110559136+-+voice_shop_video-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
