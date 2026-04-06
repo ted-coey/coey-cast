@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 05 Apr 2026 19:20:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 17:19:33 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1528,6 +1528,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260405110559136+-+voice_shop_video.mp3" length="4421736" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775416834092</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260405110559136+-+voice_shop_video-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>OpenAI Goes Full Operator While Veo 3 Joins the Workflow</title>
+    <description><![CDATA[OpenAI rumors are pointing toward bigger context windows, stronger computer use, and a real shift from chatbot novelty to agent execution. That matters less for benchmarks and more for actual work like research, planning, browser tasks, reporting, and handoffs. Google Veo 3 is also pushing video generation closer to business workflows through Google Vids, which could change how teams make explainers, ads, and internal content. On the audio side, ElevenLabs and Suno are making voice and music creation more practical for brands. Open source options like OpenClaw add another layer by giving teams more control, privacy, and flexibility. The real advantage is not model access. It's having strong systems, clear taste, and humans staying in the loop.]]></description>
+    <pubDate>Mon, 06 Apr 2026 17:19:33 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260406110513175+-+openai_operator.mp3" length="4352016" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775495973592</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260406110513175+-+openai_operator-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
