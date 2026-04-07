@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Mon, 06 Apr 2026 17:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 16:28:13 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1537,6 +1537,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260406110513175+-+openai_operator.mp3" length="4352016" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775495973592</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260406110513175+-+openai_operator-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Netflix VOID Fills the Gap in Post</title>
+    <description><![CDATA[Netflix just open sourced VOID, a video inpainting model built for a very real production problem: fixing footage that is almost usable. The conversation digs into how VOID removes people or objects and rebuilds motion, shadows, and scene logic so shots feel physically believable instead of obviously patched. That makes it a serious tool for editors, agencies, and brand teams trying to avoid reshoots, roto work, and cleanup chaos. The bigger takeaway goes beyond one model. AI video is shifting from flashy demo culture to workflow utility, where consistency, speed, and cost matter more than cinematic bragging rights. There is also a real trust question here, because better cleanup tools make provenance, disclosure, and human review a lot more important.]]></description>
+    <pubDate>Tue, 07 Apr 2026 16:28:13 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260407110513149+-+netflix_void.mp3" length="4717416" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775579293911</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260407110513149+-+netflix_void-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
