@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 07 Apr 2026 16:28:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 16:57:44 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1546,6 +1546,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260407110513149+-+netflix_void.mp3" length="4717416" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775579293911</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260407110513149+-+netflix_void-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Mythos, Meta, and CREATUS Walk Into a Workflow</title>
+    <description><![CDATA[Anthropic’s Claude Mythos Preview arrives as a locked down frontier model, and the restrictions are almost as important as the benchmarks. That raises a bigger question about trust, safety, and whether teams should bet on closed systems or wait for open alternatives. Meta keeps pushing ad automation with Andromeda and Advantage+, shifting media buying away from manual controls and toward creative volume, structured variation, and stronger human judgment. CREATUS.AI brings a more practical video update with better motion, lip sync, longer clips, and audio driven generation that could actually speed up production. The throughline is simple: AI is getting more useful when it fits real workflows, not just flashy demos.]]></description>
+    <pubDate>Wed, 08 Apr 2026 16:57:44 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260408110557220+-+mythos_meta_ai.mp3" length="3917952" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775667464297</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260408110557220+-+mythos_meta_ai-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
