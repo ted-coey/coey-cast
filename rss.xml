@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Wed, 08 Apr 2026 16:57:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 15:32:04 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1555,6 +1555,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260408110557220+-+mythos_meta_ai.mp3" length="3917952" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775667464297</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260408110557220+-+mythos_meta_ai-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Source Goes Long with GLM 5.1</title>
+    <description><![CDATA[Z.ai's open source GLM 5.1 is pushing the AI conversation past chat and straight into workflow automation. The model promises long horizon autonomy, tool use, structured outputs, and the kind of persistence that could make open models far more useful for creators, marketers, and operators. That does not mean teams should hand over the keys. The real opportunity is using strong open models for recoverable, high volume tasks while keeping humans at critical decision points. The conversation also digs into Anthropic's Claude Managed Agents and Google's Lyria 3 to show where agent infrastructure and AI audio are getting more practical, and where taste, oversight, and process design still matter most for getting real work done.]]></description>
+    <pubDate>Thu, 09 Apr 2026 15:32:04 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260409110506165+-+glm51_open_source.mp3" length="4481352" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775748724453</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260409110506165+-+glm51_open_source-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
