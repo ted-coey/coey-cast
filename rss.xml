@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 09 Apr 2026 15:32:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 18:13:25 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1564,6 +1564,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260409110506165+-+glm51_open_source.mp3" length="4481352" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775748724453</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260409110506165+-+glm51_open_source-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Veo Goes Wide, ElevenLabs Locks Down, Firefly Cleans Up</title>
+    <description><![CDATA[Google is opening Veo 3 to more teams and introducing Veo 3.1 Light as a lower cost path to cinematic video generation. That matters less for pure wow factor and more for iteration, pre production, and testing creative directions before a full shoot. ElevenLabs is pushing voice AI deeper into enterprise with on prem and on device options that make privacy, compliance, and localization more realistic for serious buyers. Adobe Firefly rounds out the story with tools built for control, brand safety, and high volume asset production. The bigger theme is simple. AI wins when it fits the workflow. Better models help, but judgment, review, transparency, and usable handoffs still decide what actually ships.]]></description>
+    <pubDate>Fri, 10 Apr 2026 18:13:25 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260410110536306+-+veo_firefly_voice.mp3" length="4652736" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775844805764</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260410110536306+-+veo_firefly_voice-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
