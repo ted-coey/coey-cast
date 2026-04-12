@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 12 Apr 2026 00:18:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 19:03:56 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1582,6 +1582,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260411110536124+-+seedance_fastlane.mp3" length="3512088" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775953117565</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260411110536124+-+seedance_fastlane-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>OpenClaw and Open Models: Build Your Own AI Stack?</title>
+    <description><![CDATA[Open source AI is moving from hobbyist flex to serious business infrastructure. DeepSeek's open models, OpenClaw, and new voice systems are pushing teams to ask a bigger question: should you own your AI stack instead of renting one through a closed API? This conversation breaks down what that shift actually means for marketers, creators, and operators. Private deployment, multilingual generation, branded voice workflows, and multi agent automation all sound great until governance, security, evals, and process design show up. The real opportunity is not just cheaper models. It's more control, better customization, and workflows built around your team. The real risk is automating chaos faster if humans are not steering the system.]]></description>
+    <pubDate>Sun, 12 Apr 2026 19:03:56 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260412110540135+-+openclaw_stack.mp3" length="4557024" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1776020636892</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260412110540135+-+openclaw_stack-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
