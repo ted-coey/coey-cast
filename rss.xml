@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 10 Apr 2026 18:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 00:18:37 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1573,6 +1573,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260410110536306+-+veo_firefly_voice.mp3" length="4652736" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775844805764</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260410110536306+-+veo_firefly_voice-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Seedance in the Fast Lane, Plus Happy Horse and Music 2.6</title>
+    <description><![CDATA[ByteDance's Seedance 2.0 is making AI video feel ready for real production, not just flashy demos. The big shift is workflow. Teams can move from concept to scene direction, motion, and synced audio in one place with fewer handoffs and fewer weird artifacts. That changes how marketers, creators, and media teams think about speed, approvals, and risk. The conversation also looks at Alibaba's Happy Horse as a stealth video contender, why open versus closed systems still matters for automation strategy, and how MiniMax Music 2.6 is pushing audio AI toward editing, continuation, and usable post production. The takeaway is simple. Better models matter, but better workflows are what actually ship.]]></description>
+    <pubDate>Sun, 12 Apr 2026 00:18:37 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260411110536124+-+seedance_fastlane.mp3" length="3512088" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775953117565</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260411110536124+-+seedance_fastlane-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
