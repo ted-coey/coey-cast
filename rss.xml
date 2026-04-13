@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 12 Apr 2026 19:03:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 21:06:59 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1591,6 +1591,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260412110540135+-+openclaw_stack.mp3" length="4557024" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1776020636892</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260412110540135+-+openclaw_stack-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Meta’s Muse Spark and the Closed AI Workflow Play</title>
+    <description><![CDATA[Meta’s Muse Spark is the clearest sign that AI is shifting from flashy demos into real workflow. The bigger move is not just the model itself, but the way Meta dropped it straight into the apps people already use all day. That makes Muse Spark immediately relevant for marketers and creators working across Facebook, Instagram, Messenger, WhatsApp, and more. The conversation also tracks why Google DeepMind’s Lyria 3 Pro matters for production ready audio, and why Wan 2.7 is getting attention for practical video controls like motion transfer and multi image guidance. The common thread is simple. AI is getting less theatrical and more useful for teams trying to ship content faster with humans still making the calls.]]></description>
+    <pubDate>Mon, 13 Apr 2026 21:06:59 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260413110540175+-+muse_spark.mp3" length="4496016" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1776114419400</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260413110540175+-+muse_spark-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
