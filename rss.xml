@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Mon, 13 Apr 2026 21:06:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 16:38:37 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1600,6 +1600,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260413110540175+-+muse_spark.mp3" length="4496016" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1776114419400</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260413110540175+-+muse_spark-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Source, Open Questions: MiniMax, Orion1, LTX 2.3</title>
+    <description><![CDATA[Open models are growing up fast, and that changes how teams should build with AI. MiniMax 2.7 puts fresh pressure on closed platforms with strong coding, long context, and agent potential, but the real story is workflow portability and avoiding vendor lock in. Orion1 pushes multilingual speech recognition forward with better support for lower resource languages, opening new possibilities for transcription, localization, and audience reach. OpenArt LTX 2.3 makes open video more practical for social content with better prompt adherence, smoother motion, audio sync, and portrait output. The bigger takeaway is simple. Date the model, marry the workflow, and keep humans in the loop where judgment still matters most.]]></description>
+    <pubDate>Tue, 14 Apr 2026 16:38:37 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260414110540140+-+open_models.mp3" length="4811976" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1776184717442</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260414110540140+-+open_models-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
