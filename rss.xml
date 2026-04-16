@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 14 Apr 2026 16:38:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 17:24:55 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1609,6 +1609,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260414110540140+-+open_models.mp3" length="4811976" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1776184717442</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260414110540140+-+open_models-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Closed Doors and Voice Chords with Claude and Gemini</title>
+    <description><![CDATA[Claude Opus 4.7, Gemini 3.1 Flash TTS, and GPT 5.4 Cyber all point to the same shift: AI tools are getting shaped around real jobs, not just flashy demos. This conversation breaks down what better instruction following, vision handling, task controls, and voice direction actually mean for creative ops, marketing teams, and automated content pipelines. The bigger takeaway is that stronger models do not fix weak workflows. Teams still need clear approvals, human judgment, and guardrails that keep fast production from turning into fast chaos. Open versus closed also stays in play as companies weigh convenience, privacy, portability, and control while building model stacks that fit how work actually gets done.]]></description>
+    <pubDate>Thu, 16 Apr 2026 17:24:55 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260416110540135+-+claude_gemini.mp3" length="4311744" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1776360295420</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260416110540135+-+claude_gemini-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
