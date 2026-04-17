@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 16 Apr 2026 17:24:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 17:53:37 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1618,6 +1618,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260416110540135+-+claude_gemini.mp3" length="4311744" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1776360295420</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260416110540135+-+claude_gemini-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Microsoft Foundry Gets Voice, Images, and Transcripts</title>
+    <description><![CDATA[Microsoft just bundled MAI Transcribe 1, MAI Voice 1, and MAI Image 2 into Foundry, giving teams one place to handle transcription, synthetic voice, and image generation inside enterprise workflows. That sounds convenient, and it is, but it also raises the classic question of speed versus lock in. The conversation also digs into Audio Omni and why unified audio models could become real creative partners for editing, localization, sound design, and campaign iteration. Then it shifts to the less flashy but more important layer of AI adoption: rights, provenance, royalties, and governance. The real advantage is not stacking more models. It is building workflows that stay modular, accountable, and useful when real teams have to ship.]]></description>
+    <pubDate>Fri, 17 Apr 2026 17:53:37 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260417110540111+-+microsoft_foundry.mp3" length="4590696" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1776448417557</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260417110540111+-+microsoft_foundry-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
