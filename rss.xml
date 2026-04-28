@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Sun, 19 Apr 2026 16:47:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 17:40:28 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1636,6 +1636,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260419110540131+-+audio_flamingo.mp3" length="4036392" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1776617275883</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260419110540131+-+audio_flamingo-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>OpenAI GPT 5.5 Ships Quietly, Workflows Loudly</title>
+    <description><![CDATA[OpenAI dropped GPT 5.5 into the API with a huge context window, stronger reasoning, and deeper tool use, and the bigger story is how fast teams can put it to work. This covers why quiet launches matter more than flashy keynotes when marketers, creators, and operators need real workflow gains. It also digs into where automation actually helps first, from research briefs and call note synthesis to support flows with clean guardrails. ElevenLabs adds voice agent templates that make testing easier, while MiniMax Music 2.6 lowers the cost of experimenting with AI audio. The throughline is simple: AI is getting less performative and more operational, and the winners will be teams that ship practical systems with humans still making the calls.]]></description>
+    <pubDate>Tue, 28 Apr 2026 17:40:28 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260428110512300+-+gpt55_workflows.mp3" length="4511424" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1777398028598</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260428110512300+-+gpt55_workflows-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
