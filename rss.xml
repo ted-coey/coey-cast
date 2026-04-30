@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 28 Apr 2026 17:40:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 21:38:09 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1645,6 +1645,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260428110512300+-+gpt55_workflows.mp3" length="4511424" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1777398028598</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260428110512300+-+gpt55_workflows-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Up: Nemotron, LLM jp 4, and Laguna</title>
+    <description><![CDATA[Open models are having a real moment, and this trio shows why. NVIDIA Nemotron 3 Nano Omni points to simpler multimodal workflows by handling text, image, audio, and video in one stack. LLM jp 4 shows how regional open models can beat bigger global names when language, culture, and local context actually matter. Poolside Laguna brings the coding angle, but the bigger story is automation infrastructure for marketing teams that need custom tools, connectors, and internal workflows. The takeaway is practical: open can mean more control, flexibility, and lower lock in, but it also means more responsibility. Better systems win, especially when humans stay in the loop where judgment and brand risk matter most.]]></description>
+    <pubDate>Thu, 30 Apr 2026 21:38:09 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260430110512111+-+open_models.mp3" length="4388304" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1777585089131</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260430110512111+-+open_models-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
