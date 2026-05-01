@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Thu, 30 Apr 2026 21:38:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 16:53:04 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1654,6 +1654,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260430110512111+-+open_models.mp3" length="4388304" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1777585089131</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260430110512111+-+open_models-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Open Source Vibe Check with VibeVoice and MOSS Audio</title>
+    <description><![CDATA[Microsoft's open source VibeVoice puts real pressure on audio workflows with multilingual transcription, speaker tracking, timestamps, and long context that can turn recordings into searchable assets. MOSS Audio adds a broader layer of audio understanding with emotion cues, music recognition, sound events, and time aware analysis that could help media teams mine podcasts, calls, ads, and live recordings for actual insight. Then Eva Brain enters with a bigger question for marketers: which parts of campaign management can agents really handle, and where do humans still need to lead? The bigger takeaway is simple. The model matters, but the workflow matters more when teams want automation that is useful, reliable, and still grounded in human judgment.]]></description>
+    <pubDate>Fri, 01 May 2026 16:53:04 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260429110512306+-+vibevoice_moss.mp3" length="4390056" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1777654384998</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260429110512306+-+vibevoice_moss-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
