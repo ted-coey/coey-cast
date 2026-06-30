@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 10:17:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 18:32:35 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1672,6 +1672,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260629110518171+-+kling_public_audio.mp3" length="4373424" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1782814671314</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260629110518171+-+kling_public_audio-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Sol, Terra, Luna Behind Velvet Ropes; Open Source Video Steps Up</title>
+    <description><![CDATA[Sol Terra Luna is shaping up to be a velvet rope moment for frontier AI. We break down what gated access means for creators and marketers and why your stack should route by job not hype. Think cheap models for volume stronger models for synthesis and humans for taste and accountability. We cover Grok 4.5 testing inside real world ops plus the upside and risk of native distribution on X for social listening. Then we dig into AI video with Kling Vidu and the open source wave around Sand AI and how to avoid generating glossy nonsense. The takeaway is simple build model agnostic workflows today so better tools can plug in tomorrow.]]></description>
+    <pubDate>Tue, 30 Jun 2026 18:32:35 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260628110518146+-+sol_velvet_video.mp3" length="4195416" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1782844355626</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260628110518146+-+sol_velvet_video-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
