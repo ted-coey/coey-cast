@@ -8,7 +8,7 @@
     <link>https://coey.com/resources/podcast</link>
     <language>en-us</language>
     <copyright>©2025 COEY</copyright>
-    <lastBuildDate>Fri, 01 May 2026 16:53:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 10:17:51 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
 
     <!-- Categories -->
@@ -1663,6 +1663,15 @@
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260429110512306+-+vibevoice_moss.mp3" length="4390056" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1777654384998</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260429110512306+-+vibevoice_moss-studio-crop.jpg"/>
+  </item>
+
+  <item>
+    <title>Kling Goes Public, AI Ads Heat Up, and Audio Learns to Sing</title>
+    <description><![CDATA[Video just leveled up. Kling’s video model is reportedly fully public, OpenAI is pushing AI made advertising, and Bidi 1 is stretching audio from voices to singing and custom effects. We break down what cheaper cinematic video means for creative teams, why production value alone will not save a weak idea, and how to keep brand voice from drifting into generic fast. Hear when to pick open or closed stacks, where cheap and fast beats premium, and the rights questions leaders must ask. We also map quick wins like dubbing, localization, sonic branding, and synthetic presenters while keeping humans in the loop. The stack is tightening. Taste still wins. Workflow design matters more than tools.]]></description>
+    <pubDate>Tue, 30 Jun 2026 10:17:51 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260629110518171+-+kling_public_audio.mp3" length="4373424" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1782814671314</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260629110518171+-+kling_public_audio-studio-crop.jpg"/>
   </item>
 </channel>
 </rss>
